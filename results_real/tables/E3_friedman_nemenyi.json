@@ -1,0 +1,18 @@
+{
+  "friedman_stat": 97.82398239824015,
+  "friedman_p": 1.1879145899750386e-17,
+  "k": 9,
+  "N": 80,
+  "critical_difference_0.05": 1.3430886356288523,
+  "avg_ranks": {
+    "PhenoFuse-LTR": 3.5875,
+    "Rank-aggregation": 5.1375,
+    "Logistic-regression": 4.69375,
+    "Random-forest": 3.8,
+    "Resnik-BMA": 4.78125,
+    "Phrank-style": 5.075,
+    "Lin-BMA": 5.41875,
+    "Jaccard": 6.375,
+    "Cosine": 6.13125
+  }
+}

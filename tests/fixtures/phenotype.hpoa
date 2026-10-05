@@ -1,0 +1,470 @@
+#description: synthetic
+#date: 2099-01-01
+database_id	disease_name	qualifier	hpo_id	reference	evidence	onset	frequency	sex	modifier	aspect	biocuration
+ORPHA:100005	Rare disorder 100005		HP:0020006	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100005	Rare disorder 100005		HP:0020012	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100005	Rare disorder 100005		HP:0020017	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100005	Rare disorder 100005		HP:0020032	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100005	Rare disorder 100005		HP:0020036	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100005	Rare disorder 100005		HP:0020048	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100005	Rare disorder 100005		HP:0020078	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100005	Rare disorder 100005		HP:0020079	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100005	Rare disorder 100005		HP:0020096	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100005	Rare disorder 100005		HP:0020102	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100014	Rare disorder 100014		HP:0020009	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100014	Rare disorder 100014		HP:0020012	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100014	Rare disorder 100014		HP:0020036	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100014	Rare disorder 100014		HP:0020090	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100014	Rare disorder 100014		HP:0020093	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100014	Rare disorder 100014		HP:0020108	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100014	Rare disorder 100014		HP:0020115	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100020	Rare disorder 100020		HP:0020040	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100020	Rare disorder 100020		HP:0020072	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100020	Rare disorder 100020		HP:0020078	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100020	Rare disorder 100020		HP:0020081	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100020	Rare disorder 100020		HP:0020090	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100020	Rare disorder 100020		HP:0020116	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100024	Rare disorder 100024		HP:0020001	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100024	Rare disorder 100024		HP:0020011	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100024	Rare disorder 100024		HP:0020033	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100024	Rare disorder 100024		HP:0020036	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100024	Rare disorder 100024		HP:0020070	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100024	Rare disorder 100024		HP:0020090	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100024	Rare disorder 100024		HP:0020117	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100031	Rare disorder 100031		HP:0020031	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100031	Rare disorder 100031		HP:0020036	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100031	Rare disorder 100031		HP:0020041	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100031	Rare disorder 100031		HP:0020048	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100031	Rare disorder 100031		HP:0020072	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100031	Rare disorder 100031		HP:0020090	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100031	Rare disorder 100031		HP:0020093	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100031	Rare disorder 100031		HP:0020111	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100033	Rare disorder 100033		HP:0020018	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100033	Rare disorder 100033		HP:0020036	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100033	Rare disorder 100033		HP:0020057	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100033	Rare disorder 100033		HP:0020069	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100033	Rare disorder 100033		HP:0020078	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100033	Rare disorder 100033		HP:0020090	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100033	Rare disorder 100033		HP:0020102	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100035	Rare disorder 100035		HP:0020006	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100035	Rare disorder 100035		HP:0020037	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100035	Rare disorder 100035		HP:0020070	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100035	Rare disorder 100035		HP:0020072	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100037	Rare disorder 100037		HP:0020011	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100037	Rare disorder 100037		HP:0020036	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100037	Rare disorder 100037		HP:0020070	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100037	Rare disorder 100037		HP:0020075	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100037	Rare disorder 100037		HP:0020076	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100037	Rare disorder 100037		HP:0020078	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100037	Rare disorder 100037		HP:0020090	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100037	Rare disorder 100037		HP:0020102	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100044	Rare disorder 100044		HP:0020004	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100044	Rare disorder 100044		HP:0020006	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100044	Rare disorder 100044		HP:0020023	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100044	Rare disorder 100044		HP:0020024	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100044	Rare disorder 100044		HP:0020090	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100044	Rare disorder 100044		HP:0020105	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100049	Rare disorder 100049		HP:0020004	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100049	Rare disorder 100049		HP:0020048	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100049	Rare disorder 100049		HP:0020072	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100049	Rare disorder 100049		HP:0020090	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100049	Rare disorder 100049		HP:0020112	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100049	Rare disorder 100049		HP:0020118	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100051	Rare disorder 100051		HP:0020027	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100051	Rare disorder 100051		HP:0020030	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100051	Rare disorder 100051		HP:0020035	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100051	Rare disorder 100051		HP:0020036	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100051	Rare disorder 100051		HP:0020048	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100051	Rare disorder 100051		HP:0020066	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100051	Rare disorder 100051		HP:0020090	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100051	Rare disorder 100051		HP:0020103	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100051	Rare disorder 100051		HP:0020108	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100051	Rare disorder 100051		HP:0020114	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100058	Rare disorder 100058		HP:0020006	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100058	Rare disorder 100058		HP:0020045	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100058	Rare disorder 100058		HP:0020048	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100058	Rare disorder 100058		HP:0020082	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100058	Rare disorder 100058		HP:0020084	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100058	Rare disorder 100058		HP:0020090	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100058	Rare disorder 100058		HP:0020117	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100062	Rare disorder 100062		HP:0020028	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100062	Rare disorder 100062		HP:0020047	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100062	Rare disorder 100062		HP:0020061	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100062	Rare disorder 100062		HP:0020090	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100065	Rare disorder 100065		HP:0020018	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100065	Rare disorder 100065		HP:0020019	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100065	Rare disorder 100065		HP:0020091	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100065	Rare disorder 100065		HP:0020100	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100065	Rare disorder 100065		HP:0020109	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100069	Rare disorder 100069		HP:0020015	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100069	Rare disorder 100069		HP:0020024	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100069	Rare disorder 100069		HP:0020079	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100069	Rare disorder 100069		HP:0020081	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100069	Rare disorder 100069		HP:0020109	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100071	Rare disorder 100071		HP:0020002	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100071	Rare disorder 100071		HP:0020004	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100071	Rare disorder 100071		HP:0020013	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100071	Rare disorder 100071		HP:0020077	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100071	Rare disorder 100071		HP:0020091	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100075	Rare disorder 100075		HP:0020013	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100075	Rare disorder 100075		HP:0020091	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100075	Rare disorder 100075		HP:0020093	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100075	Rare disorder 100075		HP:0020102	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100075	Rare disorder 100075		HP:0020119	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100076	Rare disorder 100076		HP:0020008	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100076	Rare disorder 100076		HP:0020009	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100076	Rare disorder 100076		HP:0020013	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100076	Rare disorder 100076		HP:0020038	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100076	Rare disorder 100076		HP:0020082	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100076	Rare disorder 100076		HP:0020091	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100076	Rare disorder 100076		HP:0020109	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100082	Rare disorder 100082		HP:0020005	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100082	Rare disorder 100082		HP:0020012	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100082	Rare disorder 100082		HP:0020013	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100082	Rare disorder 100082		HP:0020025	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100082	Rare disorder 100082		HP:0020050	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100082	Rare disorder 100082		HP:0020059	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100082	Rare disorder 100082		HP:0020061	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100082	Rare disorder 100082		HP:0020076	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100082	Rare disorder 100082		HP:0020091	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100087	Rare disorder 100087		HP:0020007	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100087	Rare disorder 100087		HP:0020019	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100087	Rare disorder 100087		HP:0020061	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100087	Rare disorder 100087		HP:0020086	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100087	Rare disorder 100087		HP:0020091	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100087	Rare disorder 100087		HP:0020098	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100087	Rare disorder 100087		HP:0020100	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100090	Rare disorder 100090		HP:0020019	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100090	Rare disorder 100090		HP:0020056	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100090	Rare disorder 100090		HP:0020076	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100090	Rare disorder 100090		HP:0020117	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100093	Rare disorder 100093		HP:0020013	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100093	Rare disorder 100093		HP:0020039	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100093	Rare disorder 100093		HP:0020045	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100093	Rare disorder 100093		HP:0020065	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100093	Rare disorder 100093		HP:0020083	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100093	Rare disorder 100093		HP:0020091	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100093	Rare disorder 100093		HP:0020111	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100098	Rare disorder 100098		HP:0020005	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100098	Rare disorder 100098		HP:0020010	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100098	Rare disorder 100098		HP:0020013	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100098	Rare disorder 100098		HP:0020035	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100098	Rare disorder 100098		HP:0020042	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100098	Rare disorder 100098		HP:0020069	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100098	Rare disorder 100098		HP:0020094	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100098	Rare disorder 100098		HP:0020109	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100101	Rare disorder 100101		HP:0020036	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100101	Rare disorder 100101		HP:0020061	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100101	Rare disorder 100101		HP:0020075	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100101	Rare disorder 100101		HP:0020081	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100101	Rare disorder 100101		HP:0020086	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100101	Rare disorder 100101		HP:0020091	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100101	Rare disorder 100101		HP:0020109	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100101	Rare disorder 100101		HP:0020114	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100103	Rare disorder 100103		HP:0020028	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100103	Rare disorder 100103		HP:0020030	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100103	Rare disorder 100103		HP:0020057	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100103	Rare disorder 100103		HP:0020080	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100103	Rare disorder 100103		HP:0020081	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100103	Rare disorder 100103		HP:0020116	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100110	Rare disorder 100110		HP:0020074	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100110	Rare disorder 100110		HP:0020089	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100110	Rare disorder 100110		HP:0020092	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100110	Rare disorder 100110		HP:0020111	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100117	Rare disorder 100117		HP:0020008	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100117	Rare disorder 100117		HP:0020020	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100117	Rare disorder 100117		HP:0020026	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100117	Rare disorder 100117		HP:0020033	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100117	Rare disorder 100117		HP:0020057	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100117	Rare disorder 100117		HP:0020067	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100117	Rare disorder 100117		HP:0020092	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100117	Rare disorder 100117		HP:0020116	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100125	Rare disorder 100125		HP:0020039	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100125	Rare disorder 100125		HP:0020041	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100125	Rare disorder 100125		HP:0020063	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100125	Rare disorder 100125		HP:0020080	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100125	Rare disorder 100125		HP:0020092	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100125	Rare disorder 100125		HP:0020116	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100133	Rare disorder 100133		HP:0020010	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100133	Rare disorder 100133		HP:0020016	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100133	Rare disorder 100133		HP:0020026	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100133	Rare disorder 100133		HP:0020051	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100133	Rare disorder 100133		HP:0020074	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100133	Rare disorder 100133		HP:0020081	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100133	Rare disorder 100133		HP:0020092	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100133	Rare disorder 100133		HP:0020107	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100133	Rare disorder 100133		HP:0020116	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100140	Rare disorder 100140		HP:0020000	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100140	Rare disorder 100140		HP:0020056	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100140	Rare disorder 100140		HP:0020091	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100140	Rare disorder 100140		HP:0020096	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100140	Rare disorder 100140		HP:0020116	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100149	Rare disorder 100149		HP:0020025	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100149	Rare disorder 100149		HP:0020026	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100149	Rare disorder 100149		HP:0020077	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100149	Rare disorder 100149		HP:0020080	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100149	Rare disorder 100149		HP:0020083	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100149	Rare disorder 100149		HP:0020116	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100154	Rare disorder 100154		HP:0020002	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100154	Rare disorder 100154		HP:0020010	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100154	Rare disorder 100154		HP:0020026	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100154	Rare disorder 100154		HP:0020050	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100154	Rare disorder 100154		HP:0020056	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100154	Rare disorder 100154		HP:0020080	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100154	Rare disorder 100154		HP:0020109	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100154	Rare disorder 100154		HP:0020116	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100159	Rare disorder 100159		HP:0020056	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100159	Rare disorder 100159		HP:0020066	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100159	Rare disorder 100159		HP:0020074	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100159	Rare disorder 100159		HP:0020083	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100159	Rare disorder 100159		HP:0020104	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100159	Rare disorder 100159		HP:0020116	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100165	Rare disorder 100165		HP:0020005	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100165	Rare disorder 100165		HP:0020026	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100165	Rare disorder 100165		HP:0020056	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100165	Rare disorder 100165		HP:0020087	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100170	Rare disorder 100170		HP:0020005	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100170	Rare disorder 100170		HP:0020056	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100170	Rare disorder 100170		HP:0020077	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100170	Rare disorder 100170		HP:0020080	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100170	Rare disorder 100170		HP:0020083	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100170	Rare disorder 100170		HP:0020089	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100170	Rare disorder 100170		HP:0020092	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100170	Rare disorder 100170		HP:0020108	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100170	Rare disorder 100170		HP:0020116	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100178	Rare disorder 100178		HP:0020022	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100178	Rare disorder 100178		HP:0020026	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100178	Rare disorder 100178		HP:0020048	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100178	Rare disorder 100178		HP:0020068	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100178	Rare disorder 100178		HP:0020074	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100178	Rare disorder 100178		HP:0020092	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100184	Rare disorder 100184		HP:0020003	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100184	Rare disorder 100184		HP:0020005	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100184	Rare disorder 100184		HP:0020034	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100184	Rare disorder 100184		HP:0020079	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100184	Rare disorder 100184		HP:0020093	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100184	Rare disorder 100184		HP:0020099	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100184	Rare disorder 100184		HP:0020111	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100187	Rare disorder 100187		HP:0020003	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100187	Rare disorder 100187		HP:0020016	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100187	Rare disorder 100187		HP:0020037	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100187	Rare disorder 100187		HP:0020057	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100187	Rare disorder 100187		HP:0020070	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100195	Rare disorder 100195		HP:0020009	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100195	Rare disorder 100195		HP:0020022	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100195	Rare disorder 100195		HP:0020066	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100195	Rare disorder 100195		HP:0020093	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100195	Rare disorder 100195		HP:0020109	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100195	Rare disorder 100195		HP:0020111	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100200	Rare disorder 100200		HP:0020003	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100200	Rare disorder 100200		HP:0020012	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100200	Rare disorder 100200		HP:0020013	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100200	Rare disorder 100200		HP:0020027	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100200	Rare disorder 100200		HP:0020060	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100200	Rare disorder 100200		HP:0020061	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100200	Rare disorder 100200		HP:0020071	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100200	Rare disorder 100200		HP:0020099	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100200	Rare disorder 100200		HP:0020116	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100206	Rare disorder 100206		HP:0020003	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100206	Rare disorder 100206		HP:0020027	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100206	Rare disorder 100206		HP:0020063	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100206	Rare disorder 100206		HP:0020089	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100206	Rare disorder 100206		HP:0020111	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100207	Rare disorder 100207		HP:0020003	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100207	Rare disorder 100207		HP:0020048	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100207	Rare disorder 100207		HP:0020057	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100207	Rare disorder 100207		HP:0020072	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100207	Rare disorder 100207		HP:0020080	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100207	Rare disorder 100207		HP:0020093	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100207	Rare disorder 100207		HP:0020103	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100209	Rare disorder 100209		HP:0020001	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100209	Rare disorder 100209		HP:0020007	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100209	Rare disorder 100209		HP:0020012	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100209	Rare disorder 100209		HP:0020049	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100209	Rare disorder 100209		HP:0020057	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100209	Rare disorder 100209		HP:0020093	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100209	Rare disorder 100209		HP:0020111	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100216	Rare disorder 100216		HP:0020003	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100216	Rare disorder 100216		HP:0020062	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100216	Rare disorder 100216		HP:0020074	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100216	Rare disorder 100216		HP:0020086	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100216	Rare disorder 100216		HP:0020093	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100216	Rare disorder 100216		HP:0020099	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100216	Rare disorder 100216		HP:0020100	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100216	Rare disorder 100216		HP:0020117	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100220	Rare disorder 100220		HP:0020003	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100220	Rare disorder 100220		HP:0020021	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100220	Rare disorder 100220		HP:0020027	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100220	Rare disorder 100220		HP:0020033	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100220	Rare disorder 100220		HP:0020099	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100220	Rare disorder 100220		HP:0020111	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100227	Rare disorder 100227		HP:0020003	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100227	Rare disorder 100227		HP:0020057	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100227	Rare disorder 100227		HP:0020105	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100227	Rare disorder 100227		HP:0020110	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100227	Rare disorder 100227		HP:0020111	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100228	Rare disorder 100228		HP:0020032	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100228	Rare disorder 100228		HP:0020050	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100228	Rare disorder 100228		HP:0020057	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100228	Rare disorder 100228		HP:0020063	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100228	Rare disorder 100228		HP:0020099	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100232	Rare disorder 100232		HP:0020013	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100232	Rare disorder 100232		HP:0020025	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100232	Rare disorder 100232		HP:0020048	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100232	Rare disorder 100232		HP:0020057	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100232	Rare disorder 100232		HP:0020058	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100232	Rare disorder 100232		HP:0020111	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100239	Rare disorder 100239		HP:0020025	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100239	Rare disorder 100239		HP:0020063	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100239	Rare disorder 100239		HP:0020069	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100239	Rare disorder 100239		HP:0020076	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100239	Rare disorder 100239		HP:0020081	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100239	Rare disorder 100239		HP:0020085	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100239	Rare disorder 100239		HP:0020094	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100239	Rare disorder 100239		HP:0020111	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100239	Rare disorder 100239		HP:0020118	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100243	Rare disorder 100243		HP:0020004	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100243	Rare disorder 100243		HP:0020018	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100243	Rare disorder 100243		HP:0020028	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100243	Rare disorder 100243		HP:0020067	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100243	Rare disorder 100243		HP:0020076	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100243	Rare disorder 100243		HP:0020094	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100243	Rare disorder 100243		HP:0020111	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100246	Rare disorder 100246		HP:0020008	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100246	Rare disorder 100246		HP:0020010	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100246	Rare disorder 100246		HP:0020066	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100246	Rare disorder 100246		HP:0020094	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100246	Rare disorder 100246		HP:0020102	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100246	Rare disorder 100246		HP:0020111	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100246	Rare disorder 100246		HP:0020117	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100246	Rare disorder 100246		HP:0020118	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100247	Rare disorder 100247		HP:0020001	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100247	Rare disorder 100247		HP:0020022	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100247	Rare disorder 100247		HP:0020028	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100247	Rare disorder 100247		HP:0020038	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100247	Rare disorder 100247		HP:0020076	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100247	Rare disorder 100247		HP:0020097	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100255	Rare disorder 100255		HP:0020004	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100255	Rare disorder 100255		HP:0020047	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100255	Rare disorder 100255		HP:0020048	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100255	Rare disorder 100255		HP:0020064	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100255	Rare disorder 100255		HP:0020067	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100255	Rare disorder 100255		HP:0020076	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100255	Rare disorder 100255		HP:0020094	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100255	Rare disorder 100255		HP:0020115	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100257	Rare disorder 100257		HP:0020026	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100257	Rare disorder 100257		HP:0020028	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100257	Rare disorder 100257		HP:0020037	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100257	Rare disorder 100257		HP:0020064	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100257	Rare disorder 100257		HP:0020068	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100257	Rare disorder 100257		HP:0020076	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100257	Rare disorder 100257		HP:0020096	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100257	Rare disorder 100257		HP:0020115	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100264	Rare disorder 100264		HP:0020000	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100264	Rare disorder 100264		HP:0020064	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100264	Rare disorder 100264		HP:0020084	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100264	Rare disorder 100264		HP:0020113	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100267	Rare disorder 100267		HP:0020008	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100267	Rare disorder 100267		HP:0020033	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100267	Rare disorder 100267		HP:0020063	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100267	Rare disorder 100267		HP:0020064	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100267	Rare disorder 100267		HP:0020076	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100267	Rare disorder 100267		HP:0020094	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100267	Rare disorder 100267		HP:0020105	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100267	Rare disorder 100267		HP:0020110	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100272	Rare disorder 100272		HP:0020020	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100272	Rare disorder 100272		HP:0020064	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100272	Rare disorder 100272		HP:0020076	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100272	Rare disorder 100272		HP:0020082	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100272	Rare disorder 100272		HP:0020118	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100272	Rare disorder 100272		HP:0020119	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100275	Rare disorder 100275		HP:0020022	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100275	Rare disorder 100275		HP:0020053	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100275	Rare disorder 100275		HP:0020061	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100275	Rare disorder 100275		HP:0020076	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100275	Rare disorder 100275		HP:0020094	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100278	Rare disorder 100278		HP:0020004	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100278	Rare disorder 100278		HP:0020028	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100278	Rare disorder 100278		HP:0020045	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100278	Rare disorder 100278		HP:0020052	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100278	Rare disorder 100278		HP:0020076	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100278	Rare disorder 100278		HP:0020103	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100278	Rare disorder 100278		HP:0020118	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100286	Rare disorder 100286		HP:0020028	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100286	Rare disorder 100286		HP:0020060	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100286	Rare disorder 100286		HP:0020064	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100286	Rare disorder 100286		HP:0020118	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100295	Rare disorder 100295		HP:0020007	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100295	Rare disorder 100295		HP:0020011	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100295	Rare disorder 100295		HP:0020062	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100295	Rare disorder 100295		HP:0020099	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100295	Rare disorder 100295		HP:0020112	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100303	Rare disorder 100303		HP:0020005	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100303	Rare disorder 100303		HP:0020016	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100303	Rare disorder 100303		HP:0020023	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100303	Rare disorder 100303		HP:0020029	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100303	Rare disorder 100303		HP:0020049	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100303	Rare disorder 100303		HP:0020100	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100303	Rare disorder 100303		HP:0020102	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100303	Rare disorder 100303		HP:0020108	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100303	Rare disorder 100303		HP:0020116	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100308	Rare disorder 100308		HP:0020005	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100308	Rare disorder 100308		HP:0020011	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100308	Rare disorder 100308		HP:0020056	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100308	Rare disorder 100308		HP:0020071	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100308	Rare disorder 100308		HP:0020100	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100314	Rare disorder 100314		HP:0020005	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100314	Rare disorder 100314		HP:0020011	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100314	Rare disorder 100314		HP:0020065	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100314	Rare disorder 100314		HP:0020115	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100314	Rare disorder 100314		HP:0020119	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100315	Rare disorder 100315		HP:0020005	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100315	Rare disorder 100315		HP:0020011	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100315	Rare disorder 100315		HP:0020027	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100315	Rare disorder 100315		HP:0020029	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100315	Rare disorder 100315		HP:0020065	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100315	Rare disorder 100315		HP:0020072	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100315	Rare disorder 100315		HP:0020073	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100315	Rare disorder 100315		HP:0020085	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100324	Rare disorder 100324		HP:0020014	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100324	Rare disorder 100324		HP:0020018	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100324	Rare disorder 100324		HP:0020023	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100324	Rare disorder 100324		HP:0020039	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100324	Rare disorder 100324		HP:0020054	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100324	Rare disorder 100324		HP:0020065	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100324	Rare disorder 100324		HP:0020071	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100324	Rare disorder 100324		HP:0020072	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100324	Rare disorder 100324		HP:0020114	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100324	Rare disorder 100324		HP:0020118	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100326	Rare disorder 100326		HP:0020005	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100326	Rare disorder 100326		HP:0020019	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100326	Rare disorder 100326		HP:0020053	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100326	Rare disorder 100326		HP:0020065	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100326	Rare disorder 100326		HP:0020099	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100327	Rare disorder 100327		HP:0020063	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100327	Rare disorder 100327		HP:0020065	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100327	Rare disorder 100327		HP:0020071	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100327	Rare disorder 100327		HP:0020110	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100333	Rare disorder 100333		HP:0020005	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100333	Rare disorder 100333		HP:0020009	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100333	Rare disorder 100333		HP:0020015	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100333	Rare disorder 100333		HP:0020029	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100333	Rare disorder 100333		HP:0020071	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100333	Rare disorder 100333		HP:0020088	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100339	Rare disorder 100339		HP:0020009	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100339	Rare disorder 100339		HP:0020011	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100339	Rare disorder 100339		HP:0020029	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100339	Rare disorder 100339		HP:0020046	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100339	Rare disorder 100339		HP:0020076	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100342	Rare disorder 100342		HP:0020000	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100342	Rare disorder 100342		HP:0020005	PMID:0	PCS		Very rare (<4-1%)			P	HPO:synthetic
+ORPHA:100342	Rare disorder 100342		HP:0020011	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100342	Rare disorder 100342		HP:0020071	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100342	Rare disorder 100342		HP:0020095	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100348	Rare disorder 100348		HP:0020005	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100348	Rare disorder 100348		HP:0020011	PMID:0	PCS		Very frequent (99-80%)			P	HPO:synthetic
+ORPHA:100348	Rare disorder 100348		HP:0020014	PMID:0	PCS		Frequent (79-30%)			P	HPO:synthetic
+ORPHA:100348	Rare disorder 100348		HP:0020023	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100348	Rare disorder 100348		HP:0020058	PMID:0	PCS		Obligate (100%)			P	HPO:synthetic
+ORPHA:100348	Rare disorder 100348		HP:0020061	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic
+ORPHA:100348	Rare disorder 100348		HP:0020071	PMID:0	PCS		Occasional (29-5%)			P	HPO:synthetic

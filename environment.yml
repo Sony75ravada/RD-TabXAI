@@ -1,0 +1,21 @@
+name: rd-tabxai
+channels: [conda-forge]
+dependencies:
+  - python=3.11
+  - numpy>=1.26
+  - pandas>=2.0
+  - scipy>=1.11
+  - scikit-learn>=1.4
+  - statsmodels>=0.14
+  - pyyaml>=6.0
+  - tabulate>=0.9
+  - matplotlib>=3.7
+  - pip
+  - pip:
+      - xgboost>=2.0
+      - lightgbm>=4.0
+      - shap>=0.44
+      # optional:
+      # - catboost>=1.2
+      # - torch>=2.0
+      # - pytorch-tabular>=1.1

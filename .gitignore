@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python build
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Secrets / environment variables
+.env
+.env.*
+
+# Keep project documentation and research outputs
+!README.md
+!DATA_AVAILABILITY.md
+!PACKAGE_CONTENTS.md
+!RUN_TIMES.md

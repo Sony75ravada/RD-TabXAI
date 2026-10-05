@@ -1,0 +1,5 @@
+test_disease_fraction,n_test_diseases,proposed_MRR_mean,proposed_MRR_sd,Resnik-BMA_MRR_mean,Resnik-BMA_MRR_sd,mean_delta
+0.25,20,0.832,0.038,0.653,0.084,0.178
+0.5,40,0.832,0.028,0.644,0.032,0.187
+0.75,60,0.832,0.016,0.652,0.02,0.18
+1.0,80,0.83,0.0,0.655,0.0,0.175

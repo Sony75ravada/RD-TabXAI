@@ -1,0 +1,5 @@
+join,n_left,n_matched,n_unmatched,unmatched_rate
+ORPHA->group,400,0,400,1.0
+ORPHA->gene,400,400,0,0.0
+gene->ClinVar,391,0,391,1.0
+gene->ClinGen,391,0,391,1.0

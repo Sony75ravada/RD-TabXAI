@@ -1,0 +1,18 @@
+# Core
+numpy>=1.26
+pandas>=2.0
+scipy>=1.11
+scikit-learn>=1.4
+statsmodels>=0.14
+pyyaml>=6.0
+tabulate>=0.9
+# Real data source: bundles the Human Phenotype Ontology release 2025-01-16
+pyhpo==4.0.0
+# Gradient boosting
+xgboost>=2.0
+lightgbm>=4.0
+# Explainability + figures
+shap>=0.44
+matplotlib>=3.7
+# Testing
+pytest>=7

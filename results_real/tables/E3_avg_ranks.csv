@@ -1,0 +1,10 @@
+method,avg_rank
+PhenoFuse-LTR,3.588
+Random-forest,3.8
+Logistic-regression,4.694
+Resnik-BMA,4.781
+Phrank-style,5.075
+Rank-aggregation,5.138
+Lin-BMA,5.419
+Cosine,6.131
+Jaccard,6.375

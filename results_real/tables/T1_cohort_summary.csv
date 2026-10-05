@@ -1,0 +1,10 @@
+Item,Value
+HPO release,2025-01-16
+Ontology terms,19034
+Cohort diseases (single-gene OMIM),400
+Eligible diseases (full),4919
+Min. HPO terms / disease,8
+Simulated profiles,1600
+Candidate pool size,12
+Ranking pairs,19048
+Positive rate,0.084

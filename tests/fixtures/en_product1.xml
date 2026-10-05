@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<JDBOR>
+<ClassificationNodeList>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>900000</OrphaCode>
+<Name lang="en">Group 0</Name>
+</Disorder>
+<ClassificationNodeChildList>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100005</OrphaCode>
+<Name lang="en">Rare disorder 100005</Name>
+</Disorder>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100014</OrphaCode>
+<Name lang="en">Rare disorder 100014</Name>
+</Disorder>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100020</OrphaCode>
+<Name lang="en">Rare disorder 100020</Name>
+</Disorder>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100024</OrphaCode>
+<Name lang="en">Rare disorder 100024</Name>
+</Disorder>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100031</OrphaCode>
+<Name lang="en">Rare disorder 100031</Name>
+</Disorder>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100033</OrphaCode>
+<Name lang="en">Rare disorder 100033</Name>
+</Disorder>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100035</OrphaCode>
+<Name lang="en">Rare disorder 100035</Name>
+</Disorder>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100037</OrphaCode>
+<Name lang="en">Rare disorder 100037</Name>
+</Disorder>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100044</OrphaCode>
+<Name lang="en">Rare disorder 100044</Name>
+</Disorder>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100049</OrphaCode>
+<Name lang="en">Rare disorder 100049</Name>
+</Disorder>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100051</OrphaCode>
+<Name lang="en">Rare disorder 100051</Name>
+</Disorder>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100058</OrphaCode>
+<Name lang="en">Rare disorder 100058</Name>
+</Disorder>
+</ClassificationNode>
+</ClassificationNodeChildList>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>900001</OrphaCode>
+<Name lang="en">Group 1</Name>
+</Disorder>
+<ClassificationNodeChildList>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100062</OrphaCode>
+<Name lang="en">Rare disorder 100062</Name>
+</Disorder>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100065</OrphaCode>
+<Name lang="en">Rare disorder 100065</Name>
+</Disorder>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100069</OrphaCode>
+<Name lang="en">Rare disorder 100069</Name>
+</Disorder>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100071</OrphaCode>
+<Name lang="en">Rare disorder 100071</Name>
+</Disorder>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100075</OrphaCode>
+<Name lang="en">Rare disorder 100075</Name>
+</Disorder>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100076</OrphaCode>
+<Name lang="en">Rare disorder 100076</Name>
+</Disorder>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100082</OrphaCode>
+<Name lang="en">Rare disorder 100082</Name>
+</Disorder>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100087</OrphaCode>
+<Name lang="en">Rare disorder 100087</Name>
+</Disorder>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100090</OrphaCode>
+<Name lang="en">Rare disorder 100090</Name>
+</Disorder>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100093</OrphaCode>
+<Name lang="en">Rare disorder 100093</Name>
+</Disorder>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100098</OrphaCode>
+<Name lang="en">Rare disorder 100098</Name>
+</Disorder>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100101</OrphaCode>
+<Name lang="en">Rare disorder 100101</Name>
+</Disorder>
+</ClassificationNode>
+</ClassificationNodeChildList>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>900002</OrphaCode>
+<Name lang="en">Group 2</Name>
+</Disorder>
+<ClassificationNodeChildList>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100103</OrphaCode>
+<Name lang="en">Rare disorder 100103</Name>
+</Disorder>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100110</OrphaCode>
+<Name lang="en">Rare disorder 100110</Name>
+</Disorder>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100117</OrphaCode>
+<Name lang="en">Rare disorder 100117</Name>
+</Disorder>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100125</OrphaCode>
+<Name lang="en">Rare disorder 100125</Name>
+</Disorder>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100133</OrphaCode>
+<Name lang="en">Rare disorder 100133</Name>
+</Disorder>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100140</OrphaCode>
+<Name lang="en">Rare disorder 100140</Name>
+</Disorder>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100149</OrphaCode>
+<Name lang="en">Rare disorder 100149</Name>
+</Disorder>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100154</OrphaCode>
+<Name lang="en">Rare disorder 100154</Name>
+</Disorder>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100159</OrphaCode>
+<Name lang="en">Rare disorder 100159</Name>
+</Disorder>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100165</OrphaCode>
+<Name lang="en">Rare disorder 100165</Name>
+</Disorder>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100170</OrphaCode>
+<Name lang="en">Rare disorder 100170</Name>
+</Disorder>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100178</OrphaCode>
+<Name lang="en">Rare disorder 100178</Name>
+</Disorder>
+</ClassificationNode>
+</ClassificationNodeChildList>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>900003</OrphaCode>
+<Name lang="en">Group 3</Name>
+</Disorder>
+<ClassificationNodeChildList>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100184</OrphaCode>
+<Name lang="en">Rare disorder 100184</Name>
+</Disorder>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100187</OrphaCode>
+<Name lang="en">Rare disorder 100187</Name>
+</Disorder>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100195</OrphaCode>
+<Name lang="en">Rare disorder 100195</Name>
+</Disorder>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100200</OrphaCode>
+<Name lang="en">Rare disorder 100200</Name>
+</Disorder>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100206</OrphaCode>
+<Name lang="en">Rare disorder 100206</Name>
+</Disorder>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100207</OrphaCode>
+<Name lang="en">Rare disorder 100207</Name>
+</Disorder>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100209</OrphaCode>
+<Name lang="en">Rare disorder 100209</Name>
+</Disorder>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100216</OrphaCode>
+<Name lang="en">Rare disorder 100216</Name>
+</Disorder>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100220</OrphaCode>
+<Name lang="en">Rare disorder 100220</Name>
+</Disorder>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100227</OrphaCode>
+<Name lang="en">Rare disorder 100227</Name>
+</Disorder>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100228</OrphaCode>
+<Name lang="en">Rare disorder 100228</Name>
+</Disorder>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100232</OrphaCode>
+<Name lang="en">Rare disorder 100232</Name>
+</Disorder>
+</ClassificationNode>
+</ClassificationNodeChildList>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>900004</OrphaCode>
+<Name lang="en">Group 4</Name>
+</Disorder>
+<ClassificationNodeChildList>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100239</OrphaCode>
+<Name lang="en">Rare disorder 100239</Name>
+</Disorder>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100243</OrphaCode>
+<Name lang="en">Rare disorder 100243</Name>
+</Disorder>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100246</OrphaCode>
+<Name lang="en">Rare disorder 100246</Name>
+</Disorder>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100247</OrphaCode>
+<Name lang="en">Rare disorder 100247</Name>
+</Disorder>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100255</OrphaCode>
+<Name lang="en">Rare disorder 100255</Name>
+</Disorder>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100257</OrphaCode>
+<Name lang="en">Rare disorder 100257</Name>
+</Disorder>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100264</OrphaCode>
+<Name lang="en">Rare disorder 100264</Name>
+</Disorder>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100267</OrphaCode>
+<Name lang="en">Rare disorder 100267</Name>
+</Disorder>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100272</OrphaCode>
+<Name lang="en">Rare disorder 100272</Name>
+</Disorder>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100275</OrphaCode>
+<Name lang="en">Rare disorder 100275</Name>
+</Disorder>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100278</OrphaCode>
+<Name lang="en">Rare disorder 100278</Name>
+</Disorder>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100286</OrphaCode>
+<Name lang="en">Rare disorder 100286</Name>
+</Disorder>
+</ClassificationNode>
+</ClassificationNodeChildList>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>900005</OrphaCode>
+<Name lang="en">Group 5</Name>
+</Disorder>
+<ClassificationNodeChildList>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100295</OrphaCode>
+<Name lang="en">Rare disorder 100295</Name>
+</Disorder>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100303</OrphaCode>
+<Name lang="en">Rare disorder 100303</Name>
+</Disorder>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100308</OrphaCode>
+<Name lang="en">Rare disorder 100308</Name>
+</Disorder>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100314</OrphaCode>
+<Name lang="en">Rare disorder 100314</Name>
+</Disorder>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100315</OrphaCode>
+<Name lang="en">Rare disorder 100315</Name>
+</Disorder>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100324</OrphaCode>
+<Name lang="en">Rare disorder 100324</Name>
+</Disorder>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100326</OrphaCode>
+<Name lang="en">Rare disorder 100326</Name>
+</Disorder>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100327</OrphaCode>
+<Name lang="en">Rare disorder 100327</Name>
+</Disorder>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100333</OrphaCode>
+<Name lang="en">Rare disorder 100333</Name>
+</Disorder>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100339</OrphaCode>
+<Name lang="en">Rare disorder 100339</Name>
+</Disorder>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100342</OrphaCode>
+<Name lang="en">Rare disorder 100342</Name>
+</Disorder>
+</ClassificationNode>
+<ClassificationNode>
+<Disorder>
+<OrphaCode>100348</OrphaCode>
+<Name lang="en">Rare disorder 100348</Name>
+</Disorder>
+</ClassificationNode>
+</ClassificationNodeChildList>
+</ClassificationNode>
+</ClassificationNodeList>
+</JDBOR>

@@ -1,0 +1,12 @@
+feature,mean_abs_shap
+resnik_bma,1.4985
+n_gene,1.0015
+max_ic_shared,0.7906
+mean_ic_profile,0.7136
+lin_bma,0.6746
+jaccard,0.6195
+phrank,0.5495
+cosine_bin,0.4078
+n_profile,0.4003
+sum_ic_shared,0.219
+n_shared,0.1799

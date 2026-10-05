@@ -1,0 +1,295 @@
+% RD-TabXAI / PhenoFuse-LTR — auto-generated publication tables
+
+% booktabs required: \usepackage{booktabs}
+
+\begin{table}
+\caption{Consolidated main results across both benchmarks and splits.}
+\label{tab:main}
+\begin{tabular}{lrrrrrrrrr}
+\toprule
+benchmark & split & method & MRR (95\% CI) & Hit@1 (95\% CI) & Hit@5 & Hit@10 & NDCG@5 & NDCG@10 & n\_queries \\
+\midrule
+Leave-target-out & Disease holdout & Cosine & 0.509 [0.439, 0.587] & 0.384 [0.306, 0.472] & 0.616 & 0.828 & 0.505 & 0.571 & 320 \\
+Leave-target-out & Disease holdout & Jaccard & 0.497 [0.427, 0.577] & 0.366 [0.287, 0.456] & 0.609 & 0.828 & 0.493 & 0.562 & 320 \\
+Leave-target-out & Disease holdout & Lin-BMA & 0.616 [0.543, 0.694] & 0.494 [0.406, 0.588] & 0.741 & 0.828 & 0.627 & 0.656 & 320 \\
+Leave-target-out & Disease holdout & PhenoFuse-LTR & 0.830 [0.781, 0.880] & 0.744 [0.675, 0.813] & 0.963 & 0.997 & 0.859 & 0.871 & 320 \\
+Leave-target-out & Disease holdout & Phrank-style & 0.638 [0.561, 0.715] & 0.534 [0.444, 0.622] & 0.741 & 0.812 & 0.644 & 0.668 & 320 \\
+Leave-target-out & Disease holdout & Resnik-BMA & 0.655 [0.578, 0.735] & 0.559 [0.469, 0.650] & 0.762 & 0.838 & 0.664 & 0.688 & 320 \\
+Leave-target-out & Gene holdout & Cosine & 0.465 [0.386, 0.547] & 0.342 [0.256, 0.427] & 0.532 & 0.788 & 0.444 & 0.524 & 316 \\
+Leave-target-out & Gene holdout & Jaccard & 0.459 [0.377, 0.538] & 0.339 [0.253, 0.427] & 0.525 & 0.788 & 0.437 & 0.519 & 316 \\
+Leave-target-out & Gene holdout & Lin-BMA & 0.527 [0.445, 0.611] & 0.396 [0.307, 0.491] & 0.630 & 0.718 & 0.526 & 0.555 & 316 \\
+Leave-target-out & Gene holdout & PhenoFuse-LTR & 0.833 [0.775, 0.884] & 0.744 [0.661, 0.823] & 0.968 & 0.997 & 0.864 & 0.873 & 316 \\
+Leave-target-out & Gene holdout & Phrank-style & 0.540 [0.461, 0.621] & 0.408 [0.316, 0.506] & 0.655 & 0.715 & 0.545 & 0.565 & 316 \\
+Leave-target-out & Gene holdout & Resnik-BMA & 0.557 [0.470, 0.640] & 0.437 [0.345, 0.528] & 0.658 & 0.728 & 0.558 & 0.581 & 316 \\
+Naive & Disease holdout & Cosine & 0.911 [0.854, 0.957] & 0.878 [0.806, 0.941] & 0.947 & 0.994 & 0.915 & 0.930 & 320 \\
+Naive & Disease holdout & Jaccard & 0.898 [0.840, 0.949] & 0.859 [0.787, 0.928] & 0.947 & 0.994 & 0.905 & 0.920 & 320 \\
+Naive & Disease holdout & Lin-BMA & 0.875 [0.830, 0.918] & 0.806 [0.741, 0.872] & 0.978 & 0.997 & 0.898 & 0.905 & 320 \\
+Naive & Disease holdout & PhenoFuse-LTR & 0.990 [0.978, 0.997] & 0.981 [0.963, 0.994] & 1.000 & 1.000 & 0.992 & 0.992 & 320 \\
+Naive & Disease holdout & Phrank-style & 0.972 [0.958, 0.985] & 0.950 [0.925, 0.975] & 1.000 & 1.000 & 0.980 & 0.980 & 320 \\
+Naive & Disease holdout & Resnik-BMA & 0.970 [0.950, 0.986] & 0.950 [0.919, 0.975] & 1.000 & 1.000 & 0.977 & 0.977 & 320 \\
+Naive & Gene holdout & Cosine & 0.906 [0.850, 0.953] & 0.873 [0.801, 0.934] & 0.943 & 0.987 & 0.909 & 0.924 & 316 \\
+Naive & Gene holdout & Jaccard & 0.896 [0.840, 0.946] & 0.861 [0.788, 0.924] & 0.937 & 0.987 & 0.900 & 0.917 & 316 \\
+Naive & Gene holdout & Lin-BMA & 0.867 [0.813, 0.917] & 0.797 [0.722, 0.867] & 0.968 & 1.000 & 0.889 & 0.900 & 316 \\
+Naive & Gene holdout & PhenoFuse-LTR & 0.987 [0.975, 0.997] & 0.978 [0.959, 0.994] & 1.000 & 1.000 & 0.990 & 0.990 & 316 \\
+Naive & Gene holdout & Phrank-style & 0.968 [0.946, 0.985] & 0.949 [0.918, 0.975] & 0.994 & 0.997 & 0.974 & 0.975 & 316 \\
+Naive & Gene holdout & Resnik-BMA & 0.967 [0.945, 0.986] & 0.943 [0.905, 0.975] & 1.000 & 1.000 & 0.976 & 0.976 & 316 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}
+\caption{Dataset and cohort summary.}
+\label{tab:cohort}
+\begin{tabular}{lr}
+\toprule
+Item & Value \\
+\midrule
+HPO release & 2025-01-16 \\
+Ontology terms & 19034 \\
+Cohort diseases (single-gene OMIM) & 400 \\
+Eligible diseases (full) & 4919 \\
+Min. HPO terms / disease & 8 \\
+Simulated profiles & 1600 \\
+Candidate pool size & 12 \\
+Ranking pairs & 19048 \\
+Positive rate & 0.084 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}
+\caption{Data provenance and source roles.}
+\label{tab:provenance}
+\begin{tabular}{lrr}
+\toprule
+Source & Release / status & Role \\
+\midrule
+HPO ontology (hp.obo) & 2025-01-16 & Ontology DAG, IC \\
+Disease–phenotype (phenotype.hpoa) & 2025-01-16 & Disease HPO sets (target) \\
+Gene–phenotype (genes\_to\_phenotype) & 2025-01-16 & Gene HPO sets \\
+Disease–gene (phenotype\_to\_genes) & 2025-01-16 & Causal-gene labels \\
+ClinVar variant evidence & Deferred (not used) & Independent evidence (future) \\
+ClinGen gene–disease validity & Deferred (not used) & Independent evidence (future) \\
+Orphadata ORDO groups & Deferred (not used) & Disease grouping (future) \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}
+\caption{Engineered ontology-aware feature set.}
+\label{tab:features}
+\begin{tabular}{lrr}
+\toprule
+Feature & Group & Definition \\
+\midrule
+jaccard & overlap & Jaccard overlap of profile vs gene HPO sets \\
+cosine\_bin & overlap & Binary cosine of the two HPO sets \\
+n\_shared & overlap & Number of shared HPO terms \\
+n\_profile & overlap & Number of profile terms \\
+n\_gene & overlap & Number of gene terms \\
+phrank & ic\_shared & Sum of IC over the shared ancestral closure (Phrank-style) \\
+sum\_ic\_shared & ic\_shared & Sum of IC of shared terms \\
+max\_ic\_shared & ic\_shared & Max IC of shared terms \\
+mean\_ic\_profile & ic\_shared & Mean IC of profile terms \\
+resnik\_bma & bma & Resnik best-match-average semantic similarity \\
+lin\_bma & bma & Lin best-match-average semantic similarity \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}
+\caption{Naive benchmark (annotation-recovery): all methods saturate.}
+\label{tab:naive}
+\begin{tabular}{lrrrrrrr}
+\toprule
+split & method & MRR (95\% CI) & Hit@1 & Hit@5 & Hit@10 & NDCG@10 & n\_queries \\
+\midrule
+Disease holdout & PhenoFuse-LTR & 0.990 [0.978, 0.997] & 0.981 & 1.000 & 1.000 & 0.992 & 320 \\
+Disease holdout & Phrank-style & 0.972 [0.958, 0.985] & 0.950 & 1.000 & 1.000 & 0.980 & 320 \\
+Disease holdout & Resnik-BMA & 0.970 [0.950, 0.986] & 0.950 & 1.000 & 1.000 & 0.977 & 320 \\
+Disease holdout & Cosine & 0.911 [0.854, 0.957] & 0.878 & 0.947 & 0.994 & 0.930 & 320 \\
+Disease holdout & Jaccard & 0.898 [0.840, 0.949] & 0.859 & 0.947 & 0.994 & 0.920 & 320 \\
+Disease holdout & Lin-BMA & 0.875 [0.830, 0.918] & 0.806 & 0.978 & 0.997 & 0.905 & 320 \\
+Gene holdout & PhenoFuse-LTR & 0.987 [0.975, 0.997] & 0.978 & 1.000 & 1.000 & 0.990 & 316 \\
+Gene holdout & Phrank-style & 0.968 [0.946, 0.985] & 0.949 & 0.994 & 0.997 & 0.975 & 316 \\
+Gene holdout & Resnik-BMA & 0.967 [0.945, 0.986] & 0.943 & 1.000 & 1.000 & 0.976 & 316 \\
+Gene holdout & Cosine & 0.906 [0.850, 0.953] & 0.873 & 0.943 & 0.987 & 0.924 & 316 \\
+Gene holdout & Jaccard & 0.896 [0.840, 0.946] & 0.861 & 0.937 & 0.987 & 0.917 & 316 \\
+Gene holdout & Lin-BMA & 0.867 [0.813, 0.917] & 0.797 & 0.968 & 1.000 & 0.900 & 316 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}
+\caption{Rigorous leave-target-out benchmark: PhenoFuse-LTR vs baselines.}
+\label{tab:rigorous}
+\begin{tabular}{lrrrrrrr}
+\toprule
+split & method & MRR (95\% CI) & Hit@1 & Hit@5 & Hit@10 & NDCG@10 & n\_queries \\
+\midrule
+Disease holdout & PhenoFuse-LTR & 0.830 [0.781, 0.880] & 0.744 & 0.963 & 0.997 & 0.871 & 320 \\
+Disease holdout & Resnik-BMA & 0.655 [0.578, 0.735] & 0.559 & 0.762 & 0.838 & 0.688 & 320 \\
+Disease holdout & Phrank-style & 0.638 [0.561, 0.715] & 0.534 & 0.741 & 0.812 & 0.668 & 320 \\
+Disease holdout & Lin-BMA & 0.616 [0.543, 0.694] & 0.494 & 0.741 & 0.828 & 0.656 & 320 \\
+Disease holdout & Cosine & 0.509 [0.439, 0.587] & 0.384 & 0.616 & 0.828 & 0.571 & 320 \\
+Disease holdout & Jaccard & 0.497 [0.427, 0.577] & 0.366 & 0.609 & 0.828 & 0.562 & 320 \\
+Gene holdout & PhenoFuse-LTR & 0.833 [0.775, 0.884] & 0.744 & 0.968 & 0.997 & 0.873 & 316 \\
+Gene holdout & Resnik-BMA & 0.557 [0.470, 0.640] & 0.437 & 0.658 & 0.728 & 0.581 & 316 \\
+Gene holdout & Phrank-style & 0.540 [0.461, 0.621] & 0.408 & 0.655 & 0.715 & 0.565 & 316 \\
+Gene holdout & Lin-BMA & 0.527 [0.445, 0.611] & 0.396 & 0.630 & 0.718 & 0.555 & 316 \\
+Gene holdout & Cosine & 0.465 [0.386, 0.547] & 0.342 & 0.532 & 0.788 & 0.524 & 316 \\
+Gene holdout & Jaccard & 0.459 [0.377, 0.538] & 0.339 & 0.525 & 0.788 & 0.519 & 316 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}
+\caption{Statistical significance (PhenoFuse-LTR vs baselines, cluster-level Wilcoxon, Holm).}
+\label{tab:sig}
+\begin{tabular}{lrrrrrrrr}
+\toprule
+benchmark & split & comparison & mean\_dMRR & median\_dMRR & n\_diseases & p\_value & p\_Holm & significant\_0.05 \\
+\midrule
+Naive & Disease holdout & PhenoFuse-LTR vs Phrank-style & 0.017 & 0.000 & 80 & 0.008 & 0.015 & True \\
+Naive & Disease holdout & PhenoFuse-LTR vs Resnik-BMA & 0.020 & 0.000 & 80 & 0.009 & 0.015 & True \\
+Naive & Disease holdout & PhenoFuse-LTR vs Lin-BMA & 0.115 & 0.000 & 80 & 0.000 & 0.000 & True \\
+Naive & Disease holdout & PhenoFuse-LTR vs Jaccard & 0.092 & 0.000 & 80 & 0.000 & 0.002 & True \\
+Naive & Disease holdout & PhenoFuse-LTR vs Cosine & 0.078 & 0.000 & 80 & 0.001 & 0.002 & True \\
+Naive & Gene holdout & PhenoFuse-LTR vs Phrank-style & 0.019 & 0.000 & 79 & 0.009 & 0.018 & True \\
+Naive & Gene holdout & PhenoFuse-LTR vs Resnik-BMA & 0.020 & 0.000 & 79 & 0.014 & 0.018 & True \\
+Naive & Gene holdout & PhenoFuse-LTR vs Lin-BMA & 0.120 & 0.000 & 79 & 0.000 & 0.000 & True \\
+Naive & Gene holdout & PhenoFuse-LTR vs Jaccard & 0.091 & 0.000 & 79 & 0.000 & 0.001 & True \\
+Naive & Gene holdout & PhenoFuse-LTR vs Cosine & 0.081 & 0.000 & 79 & 0.001 & 0.003 & True \\
+Leave-target-out & Disease holdout & PhenoFuse-LTR vs Phrank-style & 0.192 & 0.000 & 80 & 0.000 & 0.001 & True \\
+Leave-target-out & Disease holdout & PhenoFuse-LTR vs Resnik-BMA & 0.175 & 0.000 & 80 & 0.001 & 0.001 & True \\
+Leave-target-out & Disease holdout & PhenoFuse-LTR vs Lin-BMA & 0.214 & 0.059 & 80 & 0.000 & 0.000 & True \\
+Leave-target-out & Disease holdout & PhenoFuse-LTR vs Jaccard & 0.334 & 0.269 & 80 & 0.000 & 0.000 & True \\
+Leave-target-out & Disease holdout & PhenoFuse-LTR vs Cosine & 0.321 & 0.242 & 80 & 0.000 & 0.000 & True \\
+Leave-target-out & Gene holdout & PhenoFuse-LTR vs Phrank-style & 0.292 & 0.125 & 79 & 0.000 & 0.000 & True \\
+Leave-target-out & Gene holdout & PhenoFuse-LTR vs Resnik-BMA & 0.275 & 0.019 & 79 & 0.000 & 0.000 & True \\
+Leave-target-out & Gene holdout & PhenoFuse-LTR vs Lin-BMA & 0.306 & 0.125 & 79 & 0.000 & 0.000 & True \\
+Leave-target-out & Gene holdout & PhenoFuse-LTR vs Jaccard & 0.374 & 0.312 & 79 & 0.000 & 0.000 & True \\
+Leave-target-out & Gene holdout & PhenoFuse-LTR vs Cosine & 0.368 & 0.250 & 79 & 0.000 & 0.000 & True \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}
+\caption{Ablation over feature groups (leave-target-out, disease holdout).}
+\label{tab:ablation}
+\begin{tabular}{lrrrr}
+\toprule
+Feature groups & n\_features & MRR & Hit@1 & Hit@10 \\
+\midrule
+overlap & 5 & 0.724 & 0.637 & 0.956 \\
+overlap+ic\_shared & 9 & 0.811 & 0.728 & 0.997 \\
+overlap+ic\_shared+bma & 11 & 0.830 & 0.744 & 0.997 \\
+all − overlap & 6 & 0.783 & 0.669 & 0.994 \\
+all − ic\_shared & 7 & 0.828 & 0.747 & 0.997 \\
+all − bma & 9 & 0.811 & 0.728 & 0.997 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}
+\caption{PhenoFuse-LTR feature importance.}
+\label{tab:importance}
+\begin{tabular}{lr}
+\toprule
+Feature & Importance (gain splits) \\
+\midrule
+resnik\_bma & 2161 \\
+phrank & 2009 \\
+lin\_bma & 1996 \\
+n\_gene & 1603 \\
+mean\_ic\_profile & 1539 \\
+sum\_ic\_shared & 1271 \\
+cosine\_bin & 1158 \\
+max\_ic\_shared & 1148 \\
+jaccard & 1023 \\
+n\_profile & 876 \\
+n\_shared & 216 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}
+\caption{Sensitivity / confound analysis.}
+\label{tab:sensitivity}
+\begin{tabular}{lr}
+\toprule
+Setting & MRR \\
+\midrule
+PhenoFuse-LTR (all features) & 0.830 \\
+PhenoFuse-LTR without n\_gene & 0.793 \\
+n\_gene (annotation richness) ALONE & 0.213 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}
+\caption{Permutation validity check (no leakage): permuting train labels collapses the model to chance.}
+\label{tab:perm}
+\begin{tabular}{lrr}
+\toprule
+Setting & MRR & note \\
+\midrule
+PhenoFuse-LTR (real labels) & 0.830 & trained signal \\
+PhenoFuse-LTR (permuted train labels, mean of 5) & 0.225 & ±0.016; feature-label link destroyed \\
+Theoretical random (pool≈11.9) & 0.259 & lower bound \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}
+\caption{Stability of the proposed advantage over random test-disease subsets (no retraining).}
+\label{tab:scale}
+\begin{tabular}{lrrrrrr}
+\toprule
+test\_disease\_fraction & n\_test\_diseases & proposed\_MRR\_mean & proposed\_MRR\_sd & Resnik-BMA\_MRR\_mean & Resnik-BMA\_MRR\_sd & mean\_delta \\
+\midrule
+0.250 & 20 & 0.832 & 0.038 & 0.653 & 0.084 & 0.178 \\
+0.500 & 40 & 0.832 & 0.028 & 0.644 & 0.032 & 0.187 \\
+0.750 & 60 & 0.832 & 0.016 & 0.652 & 0.020 & 0.180 \\
+1.000 & 80 & 0.830 & 0.000 & 0.655 & 0.000 & 0.175 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+
+\begin{table}
+\caption{Model hyperparameters and protocol.}
+\label{tab:hyper}
+\begin{tabular}{lr}
+\toprule
+Component & Setting \\
+\midrule
+Ranker & LightGBM LGBMRanker \\
+Objective & lambdarank \\
+n\_estimators & 500 \\
+num\_leaves & 31 \\
+learning\_rate & 0.050 \\
+min\_child\_samples & 20 \\
+subsample & 0.900 \\
+colsample\_bytree & 0.900 \\
+IC & Resnik IC, train-only \\
+Split & Group-disjoint (disease / gene holdout) \\
+Test size & 0.200 \\
+Candidate pool & 12 \\
+Profiles/disease & 4 \\
+Bootstrap & 1000 \\
+Seed & 20251229 \\
+\bottomrule
+\end{tabular}
+\end{table}

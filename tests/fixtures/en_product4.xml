@@ -1,0 +1,4424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<JDBOR>
+<HPODisorderSetStatusList>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100005</OrphaCode>
+<Name lang="en">Rare disorder 100005</Name>
+<HPODisorderAssociationList count="10">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020006</HPOId>
+<HPOTerm>Phenotype HP:0020006</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020012</HPOId>
+<HPOTerm>Phenotype HP:0020012</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020017</HPOId>
+<HPOTerm>Phenotype HP:0020017</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020032</HPOId>
+<HPOTerm>Phenotype HP:0020032</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020036</HPOId>
+<HPOTerm>Phenotype HP:0020036</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020048</HPOId>
+<HPOTerm>Phenotype HP:0020048</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020078</HPOId>
+<HPOTerm>Phenotype HP:0020078</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020079</HPOId>
+<HPOTerm>Phenotype HP:0020079</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020096</HPOId>
+<HPOTerm>Phenotype HP:0020096</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020102</HPOId>
+<HPOTerm>Phenotype HP:0020102</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100014</OrphaCode>
+<Name lang="en">Rare disorder 100014</Name>
+<HPODisorderAssociationList count="8">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020009</HPOId>
+<HPOTerm>Phenotype HP:0020009</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020012</HPOId>
+<HPOTerm>Phenotype HP:0020012</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020036</HPOId>
+<HPOTerm>Phenotype HP:0020036</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020078</HPOId>
+<HPOTerm>Phenotype HP:0020078</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020090</HPOId>
+<HPOTerm>Phenotype HP:0020090</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020093</HPOId>
+<HPOTerm>Phenotype HP:0020093</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020108</HPOId>
+<HPOTerm>Phenotype HP:0020108</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020115</HPOId>
+<HPOTerm>Phenotype HP:0020115</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100020</OrphaCode>
+<Name lang="en">Rare disorder 100020</Name>
+<HPODisorderAssociationList count="8">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020040</HPOId>
+<HPOTerm>Phenotype HP:0020040</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020048</HPOId>
+<HPOTerm>Phenotype HP:0020048</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020055</HPOId>
+<HPOTerm>Phenotype HP:0020055</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020072</HPOId>
+<HPOTerm>Phenotype HP:0020072</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020078</HPOId>
+<HPOTerm>Phenotype HP:0020078</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020081</HPOId>
+<HPOTerm>Phenotype HP:0020081</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020090</HPOId>
+<HPOTerm>Phenotype HP:0020090</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020116</HPOId>
+<HPOTerm>Phenotype HP:0020116</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100024</OrphaCode>
+<Name lang="en">Rare disorder 100024</Name>
+<HPODisorderAssociationList count="10">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020001</HPOId>
+<HPOTerm>Phenotype HP:0020001</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020007</HPOId>
+<HPOTerm>Phenotype HP:0020007</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020011</HPOId>
+<HPOTerm>Phenotype HP:0020011</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020033</HPOId>
+<HPOTerm>Phenotype HP:0020033</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020036</HPOId>
+<HPOTerm>Phenotype HP:0020036</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020048</HPOId>
+<HPOTerm>Phenotype HP:0020048</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020070</HPOId>
+<HPOTerm>Phenotype HP:0020070</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020090</HPOId>
+<HPOTerm>Phenotype HP:0020090</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020103</HPOId>
+<HPOTerm>Phenotype HP:0020103</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020117</HPOId>
+<HPOTerm>Phenotype HP:0020117</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100031</OrphaCode>
+<Name lang="en">Rare disorder 100031</Name>
+<HPODisorderAssociationList count="8">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020031</HPOId>
+<HPOTerm>Phenotype HP:0020031</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020036</HPOId>
+<HPOTerm>Phenotype HP:0020036</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020041</HPOId>
+<HPOTerm>Phenotype HP:0020041</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020048</HPOId>
+<HPOTerm>Phenotype HP:0020048</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020072</HPOId>
+<HPOTerm>Phenotype HP:0020072</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020090</HPOId>
+<HPOTerm>Phenotype HP:0020090</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020093</HPOId>
+<HPOTerm>Phenotype HP:0020093</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020111</HPOId>
+<HPOTerm>Phenotype HP:0020111</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100033</OrphaCode>
+<Name lang="en">Rare disorder 100033</Name>
+<HPODisorderAssociationList count="7">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020018</HPOId>
+<HPOTerm>Phenotype HP:0020018</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020036</HPOId>
+<HPOTerm>Phenotype HP:0020036</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020057</HPOId>
+<HPOTerm>Phenotype HP:0020057</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020069</HPOId>
+<HPOTerm>Phenotype HP:0020069</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020078</HPOId>
+<HPOTerm>Phenotype HP:0020078</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020090</HPOId>
+<HPOTerm>Phenotype HP:0020090</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020102</HPOId>
+<HPOTerm>Phenotype HP:0020102</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100035</OrphaCode>
+<Name lang="en">Rare disorder 100035</Name>
+<HPODisorderAssociationList count="6">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020006</HPOId>
+<HPOTerm>Phenotype HP:0020006</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020037</HPOId>
+<HPOTerm>Phenotype HP:0020037</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020038</HPOId>
+<HPOTerm>Phenotype HP:0020038</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020048</HPOId>
+<HPOTerm>Phenotype HP:0020048</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020070</HPOId>
+<HPOTerm>Phenotype HP:0020070</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020072</HPOId>
+<HPOTerm>Phenotype HP:0020072</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100037</OrphaCode>
+<Name lang="en">Rare disorder 100037</Name>
+<HPODisorderAssociationList count="10">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020006</HPOId>
+<HPOTerm>Phenotype HP:0020006</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020011</HPOId>
+<HPOTerm>Phenotype HP:0020011</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020036</HPOId>
+<HPOTerm>Phenotype HP:0020036</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020056</HPOId>
+<HPOTerm>Phenotype HP:0020056</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020070</HPOId>
+<HPOTerm>Phenotype HP:0020070</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020075</HPOId>
+<HPOTerm>Phenotype HP:0020075</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020076</HPOId>
+<HPOTerm>Phenotype HP:0020076</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020078</HPOId>
+<HPOTerm>Phenotype HP:0020078</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020090</HPOId>
+<HPOTerm>Phenotype HP:0020090</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020102</HPOId>
+<HPOTerm>Phenotype HP:0020102</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100044</OrphaCode>
+<Name lang="en">Rare disorder 100044</Name>
+<HPODisorderAssociationList count="7">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020004</HPOId>
+<HPOTerm>Phenotype HP:0020004</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020006</HPOId>
+<HPOTerm>Phenotype HP:0020006</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020023</HPOId>
+<HPOTerm>Phenotype HP:0020023</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020024</HPOId>
+<HPOTerm>Phenotype HP:0020024</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020078</HPOId>
+<HPOTerm>Phenotype HP:0020078</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020090</HPOId>
+<HPOTerm>Phenotype HP:0020090</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020105</HPOId>
+<HPOTerm>Phenotype HP:0020105</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100049</OrphaCode>
+<Name lang="en">Rare disorder 100049</Name>
+<HPODisorderAssociationList count="7">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020004</HPOId>
+<HPOTerm>Phenotype HP:0020004</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020019</HPOId>
+<HPOTerm>Phenotype HP:0020019</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020048</HPOId>
+<HPOTerm>Phenotype HP:0020048</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020072</HPOId>
+<HPOTerm>Phenotype HP:0020072</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020090</HPOId>
+<HPOTerm>Phenotype HP:0020090</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020112</HPOId>
+<HPOTerm>Phenotype HP:0020112</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020118</HPOId>
+<HPOTerm>Phenotype HP:0020118</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100051</OrphaCode>
+<Name lang="en">Rare disorder 100051</Name>
+<HPODisorderAssociationList count="10">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020027</HPOId>
+<HPOTerm>Phenotype HP:0020027</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020030</HPOId>
+<HPOTerm>Phenotype HP:0020030</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020035</HPOId>
+<HPOTerm>Phenotype HP:0020035</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020036</HPOId>
+<HPOTerm>Phenotype HP:0020036</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020048</HPOId>
+<HPOTerm>Phenotype HP:0020048</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020066</HPOId>
+<HPOTerm>Phenotype HP:0020066</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020090</HPOId>
+<HPOTerm>Phenotype HP:0020090</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020103</HPOId>
+<HPOTerm>Phenotype HP:0020103</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020108</HPOId>
+<HPOTerm>Phenotype HP:0020108</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020114</HPOId>
+<HPOTerm>Phenotype HP:0020114</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100058</OrphaCode>
+<Name lang="en">Rare disorder 100058</Name>
+<HPODisorderAssociationList count="9">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020006</HPOId>
+<HPOTerm>Phenotype HP:0020006</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020045</HPOId>
+<HPOTerm>Phenotype HP:0020045</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020048</HPOId>
+<HPOTerm>Phenotype HP:0020048</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020082</HPOId>
+<HPOTerm>Phenotype HP:0020082</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020084</HPOId>
+<HPOTerm>Phenotype HP:0020084</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020089</HPOId>
+<HPOTerm>Phenotype HP:0020089</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020090</HPOId>
+<HPOTerm>Phenotype HP:0020090</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020101</HPOId>
+<HPOTerm>Phenotype HP:0020101</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020117</HPOId>
+<HPOTerm>Phenotype HP:0020117</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100062</OrphaCode>
+<Name lang="en">Rare disorder 100062</Name>
+<HPODisorderAssociationList count="6">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020013</HPOId>
+<HPOTerm>Phenotype HP:0020013</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020019</HPOId>
+<HPOTerm>Phenotype HP:0020019</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020028</HPOId>
+<HPOTerm>Phenotype HP:0020028</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020047</HPOId>
+<HPOTerm>Phenotype HP:0020047</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020061</HPOId>
+<HPOTerm>Phenotype HP:0020061</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020090</HPOId>
+<HPOTerm>Phenotype HP:0020090</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100065</OrphaCode>
+<Name lang="en">Rare disorder 100065</Name>
+<HPODisorderAssociationList count="6">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020013</HPOId>
+<HPOTerm>Phenotype HP:0020013</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020018</HPOId>
+<HPOTerm>Phenotype HP:0020018</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020019</HPOId>
+<HPOTerm>Phenotype HP:0020019</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020091</HPOId>
+<HPOTerm>Phenotype HP:0020091</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020100</HPOId>
+<HPOTerm>Phenotype HP:0020100</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020109</HPOId>
+<HPOTerm>Phenotype HP:0020109</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100069</OrphaCode>
+<Name lang="en">Rare disorder 100069</Name>
+<HPODisorderAssociationList count="6">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020013</HPOId>
+<HPOTerm>Phenotype HP:0020013</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020015</HPOId>
+<HPOTerm>Phenotype HP:0020015</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020024</HPOId>
+<HPOTerm>Phenotype HP:0020024</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020079</HPOId>
+<HPOTerm>Phenotype HP:0020079</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020081</HPOId>
+<HPOTerm>Phenotype HP:0020081</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020109</HPOId>
+<HPOTerm>Phenotype HP:0020109</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100071</OrphaCode>
+<Name lang="en">Rare disorder 100071</Name>
+<HPODisorderAssociationList count="6">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020002</HPOId>
+<HPOTerm>Phenotype HP:0020002</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020004</HPOId>
+<HPOTerm>Phenotype HP:0020004</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020013</HPOId>
+<HPOTerm>Phenotype HP:0020013</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020019</HPOId>
+<HPOTerm>Phenotype HP:0020019</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020077</HPOId>
+<HPOTerm>Phenotype HP:0020077</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020091</HPOId>
+<HPOTerm>Phenotype HP:0020091</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100075</OrphaCode>
+<Name lang="en">Rare disorder 100075</Name>
+<HPODisorderAssociationList count="7">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020007</HPOId>
+<HPOTerm>Phenotype HP:0020007</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020013</HPOId>
+<HPOTerm>Phenotype HP:0020013</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020061</HPOId>
+<HPOTerm>Phenotype HP:0020061</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020091</HPOId>
+<HPOTerm>Phenotype HP:0020091</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020093</HPOId>
+<HPOTerm>Phenotype HP:0020093</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020102</HPOId>
+<HPOTerm>Phenotype HP:0020102</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020119</HPOId>
+<HPOTerm>Phenotype HP:0020119</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100076</OrphaCode>
+<Name lang="en">Rare disorder 100076</Name>
+<HPODisorderAssociationList count="8">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020008</HPOId>
+<HPOTerm>Phenotype HP:0020008</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020009</HPOId>
+<HPOTerm>Phenotype HP:0020009</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020013</HPOId>
+<HPOTerm>Phenotype HP:0020013</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020028</HPOId>
+<HPOTerm>Phenotype HP:0020028</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020038</HPOId>
+<HPOTerm>Phenotype HP:0020038</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020082</HPOId>
+<HPOTerm>Phenotype HP:0020082</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020091</HPOId>
+<HPOTerm>Phenotype HP:0020091</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020109</HPOId>
+<HPOTerm>Phenotype HP:0020109</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100082</OrphaCode>
+<Name lang="en">Rare disorder 100082</Name>
+<HPODisorderAssociationList count="10">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020005</HPOId>
+<HPOTerm>Phenotype HP:0020005</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020012</HPOId>
+<HPOTerm>Phenotype HP:0020012</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020013</HPOId>
+<HPOTerm>Phenotype HP:0020013</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020025</HPOId>
+<HPOTerm>Phenotype HP:0020025</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020050</HPOId>
+<HPOTerm>Phenotype HP:0020050</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020059</HPOId>
+<HPOTerm>Phenotype HP:0020059</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020061</HPOId>
+<HPOTerm>Phenotype HP:0020061</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020076</HPOId>
+<HPOTerm>Phenotype HP:0020076</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020089</HPOId>
+<HPOTerm>Phenotype HP:0020089</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020091</HPOId>
+<HPOTerm>Phenotype HP:0020091</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100087</OrphaCode>
+<Name lang="en">Rare disorder 100087</Name>
+<HPODisorderAssociationList count="7">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020007</HPOId>
+<HPOTerm>Phenotype HP:0020007</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020019</HPOId>
+<HPOTerm>Phenotype HP:0020019</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020061</HPOId>
+<HPOTerm>Phenotype HP:0020061</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020086</HPOId>
+<HPOTerm>Phenotype HP:0020086</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020091</HPOId>
+<HPOTerm>Phenotype HP:0020091</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020098</HPOId>
+<HPOTerm>Phenotype HP:0020098</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020100</HPOId>
+<HPOTerm>Phenotype HP:0020100</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100090</OrphaCode>
+<Name lang="en">Rare disorder 100090</Name>
+<HPODisorderAssociationList count="6">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020019</HPOId>
+<HPOTerm>Phenotype HP:0020019</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020056</HPOId>
+<HPOTerm>Phenotype HP:0020056</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020061</HPOId>
+<HPOTerm>Phenotype HP:0020061</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020076</HPOId>
+<HPOTerm>Phenotype HP:0020076</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020109</HPOId>
+<HPOTerm>Phenotype HP:0020109</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020117</HPOId>
+<HPOTerm>Phenotype HP:0020117</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100093</OrphaCode>
+<Name lang="en">Rare disorder 100093</Name>
+<HPODisorderAssociationList count="10">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020013</HPOId>
+<HPOTerm>Phenotype HP:0020013</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020039</HPOId>
+<HPOTerm>Phenotype HP:0020039</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020045</HPOId>
+<HPOTerm>Phenotype HP:0020045</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020049</HPOId>
+<HPOTerm>Phenotype HP:0020049</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020065</HPOId>
+<HPOTerm>Phenotype HP:0020065</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020083</HPOId>
+<HPOTerm>Phenotype HP:0020083</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020091</HPOId>
+<HPOTerm>Phenotype HP:0020091</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020109</HPOId>
+<HPOTerm>Phenotype HP:0020109</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020111</HPOId>
+<HPOTerm>Phenotype HP:0020111</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020117</HPOId>
+<HPOTerm>Phenotype HP:0020117</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100098</OrphaCode>
+<Name lang="en">Rare disorder 100098</Name>
+<HPODisorderAssociationList count="9">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020005</HPOId>
+<HPOTerm>Phenotype HP:0020005</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020010</HPOId>
+<HPOTerm>Phenotype HP:0020010</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020013</HPOId>
+<HPOTerm>Phenotype HP:0020013</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020035</HPOId>
+<HPOTerm>Phenotype HP:0020035</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020042</HPOId>
+<HPOTerm>Phenotype HP:0020042</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020061</HPOId>
+<HPOTerm>Phenotype HP:0020061</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020069</HPOId>
+<HPOTerm>Phenotype HP:0020069</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020094</HPOId>
+<HPOTerm>Phenotype HP:0020094</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020109</HPOId>
+<HPOTerm>Phenotype HP:0020109</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100101</OrphaCode>
+<Name lang="en">Rare disorder 100101</Name>
+<HPODisorderAssociationList count="10">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020019</HPOId>
+<HPOTerm>Phenotype HP:0020019</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020036</HPOId>
+<HPOTerm>Phenotype HP:0020036</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020045</HPOId>
+<HPOTerm>Phenotype HP:0020045</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020061</HPOId>
+<HPOTerm>Phenotype HP:0020061</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020075</HPOId>
+<HPOTerm>Phenotype HP:0020075</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020081</HPOId>
+<HPOTerm>Phenotype HP:0020081</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020086</HPOId>
+<HPOTerm>Phenotype HP:0020086</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020091</HPOId>
+<HPOTerm>Phenotype HP:0020091</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020109</HPOId>
+<HPOTerm>Phenotype HP:0020109</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020114</HPOId>
+<HPOTerm>Phenotype HP:0020114</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100103</OrphaCode>
+<Name lang="en">Rare disorder 100103</Name>
+<HPODisorderAssociationList count="8">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020020</HPOId>
+<HPOTerm>Phenotype HP:0020020</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020026</HPOId>
+<HPOTerm>Phenotype HP:0020026</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020028</HPOId>
+<HPOTerm>Phenotype HP:0020028</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020030</HPOId>
+<HPOTerm>Phenotype HP:0020030</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020057</HPOId>
+<HPOTerm>Phenotype HP:0020057</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020080</HPOId>
+<HPOTerm>Phenotype HP:0020080</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020081</HPOId>
+<HPOTerm>Phenotype HP:0020081</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020116</HPOId>
+<HPOTerm>Phenotype HP:0020116</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100110</OrphaCode>
+<Name lang="en">Rare disorder 100110</Name>
+<HPODisorderAssociationList count="6">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020051</HPOId>
+<HPOTerm>Phenotype HP:0020051</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020074</HPOId>
+<HPOTerm>Phenotype HP:0020074</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020080</HPOId>
+<HPOTerm>Phenotype HP:0020080</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020089</HPOId>
+<HPOTerm>Phenotype HP:0020089</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020092</HPOId>
+<HPOTerm>Phenotype HP:0020092</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020111</HPOId>
+<HPOTerm>Phenotype HP:0020111</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100117</OrphaCode>
+<Name lang="en">Rare disorder 100117</Name>
+<HPODisorderAssociationList count="9">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020008</HPOId>
+<HPOTerm>Phenotype HP:0020008</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020020</HPOId>
+<HPOTerm>Phenotype HP:0020020</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020026</HPOId>
+<HPOTerm>Phenotype HP:0020026</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020033</HPOId>
+<HPOTerm>Phenotype HP:0020033</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020057</HPOId>
+<HPOTerm>Phenotype HP:0020057</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020067</HPOId>
+<HPOTerm>Phenotype HP:0020067</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020089</HPOId>
+<HPOTerm>Phenotype HP:0020089</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020092</HPOId>
+<HPOTerm>Phenotype HP:0020092</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020116</HPOId>
+<HPOTerm>Phenotype HP:0020116</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100125</OrphaCode>
+<Name lang="en">Rare disorder 100125</Name>
+<HPODisorderAssociationList count="6">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020039</HPOId>
+<HPOTerm>Phenotype HP:0020039</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020041</HPOId>
+<HPOTerm>Phenotype HP:0020041</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020063</HPOId>
+<HPOTerm>Phenotype HP:0020063</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020080</HPOId>
+<HPOTerm>Phenotype HP:0020080</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020092</HPOId>
+<HPOTerm>Phenotype HP:0020092</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020116</HPOId>
+<HPOTerm>Phenotype HP:0020116</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100133</OrphaCode>
+<Name lang="en">Rare disorder 100133</Name>
+<HPODisorderAssociationList count="10">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020001</HPOId>
+<HPOTerm>Phenotype HP:0020001</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020010</HPOId>
+<HPOTerm>Phenotype HP:0020010</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020016</HPOId>
+<HPOTerm>Phenotype HP:0020016</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020026</HPOId>
+<HPOTerm>Phenotype HP:0020026</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020051</HPOId>
+<HPOTerm>Phenotype HP:0020051</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020074</HPOId>
+<HPOTerm>Phenotype HP:0020074</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020081</HPOId>
+<HPOTerm>Phenotype HP:0020081</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020092</HPOId>
+<HPOTerm>Phenotype HP:0020092</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020107</HPOId>
+<HPOTerm>Phenotype HP:0020107</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020116</HPOId>
+<HPOTerm>Phenotype HP:0020116</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100140</OrphaCode>
+<Name lang="en">Rare disorder 100140</Name>
+<HPODisorderAssociationList count="6">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020000</HPOId>
+<HPOTerm>Phenotype HP:0020000</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020026</HPOId>
+<HPOTerm>Phenotype HP:0020026</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020056</HPOId>
+<HPOTerm>Phenotype HP:0020056</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020091</HPOId>
+<HPOTerm>Phenotype HP:0020091</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020096</HPOId>
+<HPOTerm>Phenotype HP:0020096</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020116</HPOId>
+<HPOTerm>Phenotype HP:0020116</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100149</OrphaCode>
+<Name lang="en">Rare disorder 100149</Name>
+<HPODisorderAssociationList count="6">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020025</HPOId>
+<HPOTerm>Phenotype HP:0020025</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020026</HPOId>
+<HPOTerm>Phenotype HP:0020026</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020077</HPOId>
+<HPOTerm>Phenotype HP:0020077</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020080</HPOId>
+<HPOTerm>Phenotype HP:0020080</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020083</HPOId>
+<HPOTerm>Phenotype HP:0020083</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020116</HPOId>
+<HPOTerm>Phenotype HP:0020116</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100154</OrphaCode>
+<Name lang="en">Rare disorder 100154</Name>
+<HPODisorderAssociationList count="9">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020002</HPOId>
+<HPOTerm>Phenotype HP:0020002</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020010</HPOId>
+<HPOTerm>Phenotype HP:0020010</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020026</HPOId>
+<HPOTerm>Phenotype HP:0020026</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020050</HPOId>
+<HPOTerm>Phenotype HP:0020050</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020056</HPOId>
+<HPOTerm>Phenotype HP:0020056</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020080</HPOId>
+<HPOTerm>Phenotype HP:0020080</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020109</HPOId>
+<HPOTerm>Phenotype HP:0020109</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020116</HPOId>
+<HPOTerm>Phenotype HP:0020116</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020118</HPOId>
+<HPOTerm>Phenotype HP:0020118</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100159</OrphaCode>
+<Name lang="en">Rare disorder 100159</Name>
+<HPODisorderAssociationList count="7">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020056</HPOId>
+<HPOTerm>Phenotype HP:0020056</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020066</HPOId>
+<HPOTerm>Phenotype HP:0020066</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020074</HPOId>
+<HPOTerm>Phenotype HP:0020074</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020082</HPOId>
+<HPOTerm>Phenotype HP:0020082</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020083</HPOId>
+<HPOTerm>Phenotype HP:0020083</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020104</HPOId>
+<HPOTerm>Phenotype HP:0020104</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020116</HPOId>
+<HPOTerm>Phenotype HP:0020116</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100165</OrphaCode>
+<Name lang="en">Rare disorder 100165</Name>
+<HPODisorderAssociationList count="5">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020005</HPOId>
+<HPOTerm>Phenotype HP:0020005</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020026</HPOId>
+<HPOTerm>Phenotype HP:0020026</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020056</HPOId>
+<HPOTerm>Phenotype HP:0020056</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020087</HPOId>
+<HPOTerm>Phenotype HP:0020087</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020116</HPOId>
+<HPOTerm>Phenotype HP:0020116</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100170</OrphaCode>
+<Name lang="en">Rare disorder 100170</Name>
+<HPODisorderAssociationList count="10">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020005</HPOId>
+<HPOTerm>Phenotype HP:0020005</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020056</HPOId>
+<HPOTerm>Phenotype HP:0020056</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020077</HPOId>
+<HPOTerm>Phenotype HP:0020077</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020080</HPOId>
+<HPOTerm>Phenotype HP:0020080</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020083</HPOId>
+<HPOTerm>Phenotype HP:0020083</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020089</HPOId>
+<HPOTerm>Phenotype HP:0020089</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020092</HPOId>
+<HPOTerm>Phenotype HP:0020092</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020095</HPOId>
+<HPOTerm>Phenotype HP:0020095</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020108</HPOId>
+<HPOTerm>Phenotype HP:0020108</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020116</HPOId>
+<HPOTerm>Phenotype HP:0020116</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100178</OrphaCode>
+<Name lang="en">Rare disorder 100178</Name>
+<HPODisorderAssociationList count="8">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020022</HPOId>
+<HPOTerm>Phenotype HP:0020022</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020026</HPOId>
+<HPOTerm>Phenotype HP:0020026</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020048</HPOId>
+<HPOTerm>Phenotype HP:0020048</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020068</HPOId>
+<HPOTerm>Phenotype HP:0020068</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020074</HPOId>
+<HPOTerm>Phenotype HP:0020074</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020080</HPOId>
+<HPOTerm>Phenotype HP:0020080</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020092</HPOId>
+<HPOTerm>Phenotype HP:0020092</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020111</HPOId>
+<HPOTerm>Phenotype HP:0020111</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100184</OrphaCode>
+<Name lang="en">Rare disorder 100184</Name>
+<HPODisorderAssociationList count="8">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020003</HPOId>
+<HPOTerm>Phenotype HP:0020003</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020004</HPOId>
+<HPOTerm>Phenotype HP:0020004</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020005</HPOId>
+<HPOTerm>Phenotype HP:0020005</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020034</HPOId>
+<HPOTerm>Phenotype HP:0020034</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020079</HPOId>
+<HPOTerm>Phenotype HP:0020079</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020093</HPOId>
+<HPOTerm>Phenotype HP:0020093</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020099</HPOId>
+<HPOTerm>Phenotype HP:0020099</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020111</HPOId>
+<HPOTerm>Phenotype HP:0020111</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100187</OrphaCode>
+<Name lang="en">Rare disorder 100187</Name>
+<HPODisorderAssociationList count="8">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020003</HPOId>
+<HPOTerm>Phenotype HP:0020003</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020014</HPOId>
+<HPOTerm>Phenotype HP:0020014</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020016</HPOId>
+<HPOTerm>Phenotype HP:0020016</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020037</HPOId>
+<HPOTerm>Phenotype HP:0020037</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020050</HPOId>
+<HPOTerm>Phenotype HP:0020050</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020057</HPOId>
+<HPOTerm>Phenotype HP:0020057</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020070</HPOId>
+<HPOTerm>Phenotype HP:0020070</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020099</HPOId>
+<HPOTerm>Phenotype HP:0020099</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100195</OrphaCode>
+<Name lang="en">Rare disorder 100195</Name>
+<HPODisorderAssociationList count="7">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020009</HPOId>
+<HPOTerm>Phenotype HP:0020009</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020022</HPOId>
+<HPOTerm>Phenotype HP:0020022</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020057</HPOId>
+<HPOTerm>Phenotype HP:0020057</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020066</HPOId>
+<HPOTerm>Phenotype HP:0020066</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020093</HPOId>
+<HPOTerm>Phenotype HP:0020093</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020109</HPOId>
+<HPOTerm>Phenotype HP:0020109</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020111</HPOId>
+<HPOTerm>Phenotype HP:0020111</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100200</OrphaCode>
+<Name lang="en">Rare disorder 100200</Name>
+<HPODisorderAssociationList count="9">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020003</HPOId>
+<HPOTerm>Phenotype HP:0020003</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020012</HPOId>
+<HPOTerm>Phenotype HP:0020012</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020013</HPOId>
+<HPOTerm>Phenotype HP:0020013</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020027</HPOId>
+<HPOTerm>Phenotype HP:0020027</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020060</HPOId>
+<HPOTerm>Phenotype HP:0020060</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020061</HPOId>
+<HPOTerm>Phenotype HP:0020061</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020071</HPOId>
+<HPOTerm>Phenotype HP:0020071</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020099</HPOId>
+<HPOTerm>Phenotype HP:0020099</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020116</HPOId>
+<HPOTerm>Phenotype HP:0020116</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100206</OrphaCode>
+<Name lang="en">Rare disorder 100206</Name>
+<HPODisorderAssociationList count="6">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020003</HPOId>
+<HPOTerm>Phenotype HP:0020003</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020027</HPOId>
+<HPOTerm>Phenotype HP:0020027</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020054</HPOId>
+<HPOTerm>Phenotype HP:0020054</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020063</HPOId>
+<HPOTerm>Phenotype HP:0020063</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020089</HPOId>
+<HPOTerm>Phenotype HP:0020089</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020111</HPOId>
+<HPOTerm>Phenotype HP:0020111</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100207</OrphaCode>
+<Name lang="en">Rare disorder 100207</Name>
+<HPODisorderAssociationList count="7">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020003</HPOId>
+<HPOTerm>Phenotype HP:0020003</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020048</HPOId>
+<HPOTerm>Phenotype HP:0020048</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020057</HPOId>
+<HPOTerm>Phenotype HP:0020057</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020072</HPOId>
+<HPOTerm>Phenotype HP:0020072</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020080</HPOId>
+<HPOTerm>Phenotype HP:0020080</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020093</HPOId>
+<HPOTerm>Phenotype HP:0020093</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020103</HPOId>
+<HPOTerm>Phenotype HP:0020103</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100209</OrphaCode>
+<Name lang="en">Rare disorder 100209</Name>
+<HPODisorderAssociationList count="7">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020001</HPOId>
+<HPOTerm>Phenotype HP:0020001</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020007</HPOId>
+<HPOTerm>Phenotype HP:0020007</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020012</HPOId>
+<HPOTerm>Phenotype HP:0020012</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020049</HPOId>
+<HPOTerm>Phenotype HP:0020049</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020057</HPOId>
+<HPOTerm>Phenotype HP:0020057</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020093</HPOId>
+<HPOTerm>Phenotype HP:0020093</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020111</HPOId>
+<HPOTerm>Phenotype HP:0020111</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100216</OrphaCode>
+<Name lang="en">Rare disorder 100216</Name>
+<HPODisorderAssociationList count="9">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020003</HPOId>
+<HPOTerm>Phenotype HP:0020003</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020062</HPOId>
+<HPOTerm>Phenotype HP:0020062</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020074</HPOId>
+<HPOTerm>Phenotype HP:0020074</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020086</HPOId>
+<HPOTerm>Phenotype HP:0020086</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020091</HPOId>
+<HPOTerm>Phenotype HP:0020091</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020093</HPOId>
+<HPOTerm>Phenotype HP:0020093</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020099</HPOId>
+<HPOTerm>Phenotype HP:0020099</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020100</HPOId>
+<HPOTerm>Phenotype HP:0020100</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020117</HPOId>
+<HPOTerm>Phenotype HP:0020117</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100220</OrphaCode>
+<Name lang="en">Rare disorder 100220</Name>
+<HPODisorderAssociationList count="7">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020003</HPOId>
+<HPOTerm>Phenotype HP:0020003</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020021</HPOId>
+<HPOTerm>Phenotype HP:0020021</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020027</HPOId>
+<HPOTerm>Phenotype HP:0020027</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020033</HPOId>
+<HPOTerm>Phenotype HP:0020033</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020074</HPOId>
+<HPOTerm>Phenotype HP:0020074</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020099</HPOId>
+<HPOTerm>Phenotype HP:0020099</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020111</HPOId>
+<HPOTerm>Phenotype HP:0020111</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100227</OrphaCode>
+<Name lang="en">Rare disorder 100227</Name>
+<HPODisorderAssociationList count="6">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020003</HPOId>
+<HPOTerm>Phenotype HP:0020003</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020057</HPOId>
+<HPOTerm>Phenotype HP:0020057</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020105</HPOId>
+<HPOTerm>Phenotype HP:0020105</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020109</HPOId>
+<HPOTerm>Phenotype HP:0020109</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020110</HPOId>
+<HPOTerm>Phenotype HP:0020110</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020111</HPOId>
+<HPOTerm>Phenotype HP:0020111</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100228</OrphaCode>
+<Name lang="en">Rare disorder 100228</Name>
+<HPODisorderAssociationList count="6">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020027</HPOId>
+<HPOTerm>Phenotype HP:0020027</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020032</HPOId>
+<HPOTerm>Phenotype HP:0020032</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020050</HPOId>
+<HPOTerm>Phenotype HP:0020050</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020057</HPOId>
+<HPOTerm>Phenotype HP:0020057</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020063</HPOId>
+<HPOTerm>Phenotype HP:0020063</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020099</HPOId>
+<HPOTerm>Phenotype HP:0020099</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100232</OrphaCode>
+<Name lang="en">Rare disorder 100232</Name>
+<HPODisorderAssociationList count="10">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020013</HPOId>
+<HPOTerm>Phenotype HP:0020013</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020018</HPOId>
+<HPOTerm>Phenotype HP:0020018</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020025</HPOId>
+<HPOTerm>Phenotype HP:0020025</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020046</HPOId>
+<HPOTerm>Phenotype HP:0020046</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020048</HPOId>
+<HPOTerm>Phenotype HP:0020048</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020057</HPOId>
+<HPOTerm>Phenotype HP:0020057</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020058</HPOId>
+<HPOTerm>Phenotype HP:0020058</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020069</HPOId>
+<HPOTerm>Phenotype HP:0020069</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020093</HPOId>
+<HPOTerm>Phenotype HP:0020093</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020111</HPOId>
+<HPOTerm>Phenotype HP:0020111</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100239</OrphaCode>
+<Name lang="en">Rare disorder 100239</Name>
+<HPODisorderAssociationList count="9">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020025</HPOId>
+<HPOTerm>Phenotype HP:0020025</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020063</HPOId>
+<HPOTerm>Phenotype HP:0020063</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020069</HPOId>
+<HPOTerm>Phenotype HP:0020069</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020076</HPOId>
+<HPOTerm>Phenotype HP:0020076</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020081</HPOId>
+<HPOTerm>Phenotype HP:0020081</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020085</HPOId>
+<HPOTerm>Phenotype HP:0020085</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020094</HPOId>
+<HPOTerm>Phenotype HP:0020094</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020111</HPOId>
+<HPOTerm>Phenotype HP:0020111</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020118</HPOId>
+<HPOTerm>Phenotype HP:0020118</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100243</OrphaCode>
+<Name lang="en">Rare disorder 100243</Name>
+<HPODisorderAssociationList count="8">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020004</HPOId>
+<HPOTerm>Phenotype HP:0020004</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020018</HPOId>
+<HPOTerm>Phenotype HP:0020018</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020028</HPOId>
+<HPOTerm>Phenotype HP:0020028</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020032</HPOId>
+<HPOTerm>Phenotype HP:0020032</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020067</HPOId>
+<HPOTerm>Phenotype HP:0020067</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020076</HPOId>
+<HPOTerm>Phenotype HP:0020076</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020094</HPOId>
+<HPOTerm>Phenotype HP:0020094</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020111</HPOId>
+<HPOTerm>Phenotype HP:0020111</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100246</OrphaCode>
+<Name lang="en">Rare disorder 100246</Name>
+<HPODisorderAssociationList count="9">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020008</HPOId>
+<HPOTerm>Phenotype HP:0020008</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020010</HPOId>
+<HPOTerm>Phenotype HP:0020010</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020066</HPOId>
+<HPOTerm>Phenotype HP:0020066</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020076</HPOId>
+<HPOTerm>Phenotype HP:0020076</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020094</HPOId>
+<HPOTerm>Phenotype HP:0020094</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020102</HPOId>
+<HPOTerm>Phenotype HP:0020102</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020111</HPOId>
+<HPOTerm>Phenotype HP:0020111</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020117</HPOId>
+<HPOTerm>Phenotype HP:0020117</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020118</HPOId>
+<HPOTerm>Phenotype HP:0020118</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100247</OrphaCode>
+<Name lang="en">Rare disorder 100247</Name>
+<HPODisorderAssociationList count="6">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020001</HPOId>
+<HPOTerm>Phenotype HP:0020001</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020022</HPOId>
+<HPOTerm>Phenotype HP:0020022</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020028</HPOId>
+<HPOTerm>Phenotype HP:0020028</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020038</HPOId>
+<HPOTerm>Phenotype HP:0020038</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020076</HPOId>
+<HPOTerm>Phenotype HP:0020076</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020097</HPOId>
+<HPOTerm>Phenotype HP:0020097</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100255</OrphaCode>
+<Name lang="en">Rare disorder 100255</Name>
+<HPODisorderAssociationList count="9">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020004</HPOId>
+<HPOTerm>Phenotype HP:0020004</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020022</HPOId>
+<HPOTerm>Phenotype HP:0020022</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020047</HPOId>
+<HPOTerm>Phenotype HP:0020047</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020048</HPOId>
+<HPOTerm>Phenotype HP:0020048</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020064</HPOId>
+<HPOTerm>Phenotype HP:0020064</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020067</HPOId>
+<HPOTerm>Phenotype HP:0020067</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020076</HPOId>
+<HPOTerm>Phenotype HP:0020076</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020094</HPOId>
+<HPOTerm>Phenotype HP:0020094</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020115</HPOId>
+<HPOTerm>Phenotype HP:0020115</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100257</OrphaCode>
+<Name lang="en">Rare disorder 100257</Name>
+<HPODisorderAssociationList count="8">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020026</HPOId>
+<HPOTerm>Phenotype HP:0020026</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020028</HPOId>
+<HPOTerm>Phenotype HP:0020028</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020037</HPOId>
+<HPOTerm>Phenotype HP:0020037</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020064</HPOId>
+<HPOTerm>Phenotype HP:0020064</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020068</HPOId>
+<HPOTerm>Phenotype HP:0020068</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020076</HPOId>
+<HPOTerm>Phenotype HP:0020076</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020096</HPOId>
+<HPOTerm>Phenotype HP:0020096</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020115</HPOId>
+<HPOTerm>Phenotype HP:0020115</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100264</OrphaCode>
+<Name lang="en">Rare disorder 100264</Name>
+<HPODisorderAssociationList count="6">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020000</HPOId>
+<HPOTerm>Phenotype HP:0020000</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020022</HPOId>
+<HPOTerm>Phenotype HP:0020022</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020064</HPOId>
+<HPOTerm>Phenotype HP:0020064</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020084</HPOId>
+<HPOTerm>Phenotype HP:0020084</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020113</HPOId>
+<HPOTerm>Phenotype HP:0020113</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020118</HPOId>
+<HPOTerm>Phenotype HP:0020118</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100267</OrphaCode>
+<Name lang="en">Rare disorder 100267</Name>
+<HPODisorderAssociationList count="8">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020008</HPOId>
+<HPOTerm>Phenotype HP:0020008</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020033</HPOId>
+<HPOTerm>Phenotype HP:0020033</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020063</HPOId>
+<HPOTerm>Phenotype HP:0020063</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020064</HPOId>
+<HPOTerm>Phenotype HP:0020064</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020076</HPOId>
+<HPOTerm>Phenotype HP:0020076</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020094</HPOId>
+<HPOTerm>Phenotype HP:0020094</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020105</HPOId>
+<HPOTerm>Phenotype HP:0020105</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020110</HPOId>
+<HPOTerm>Phenotype HP:0020110</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100272</OrphaCode>
+<Name lang="en">Rare disorder 100272</Name>
+<HPODisorderAssociationList count="6">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020020</HPOId>
+<HPOTerm>Phenotype HP:0020020</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020064</HPOId>
+<HPOTerm>Phenotype HP:0020064</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020076</HPOId>
+<HPOTerm>Phenotype HP:0020076</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020082</HPOId>
+<HPOTerm>Phenotype HP:0020082</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020118</HPOId>
+<HPOTerm>Phenotype HP:0020118</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020119</HPOId>
+<HPOTerm>Phenotype HP:0020119</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100275</OrphaCode>
+<Name lang="en">Rare disorder 100275</Name>
+<HPODisorderAssociationList count="6">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020004</HPOId>
+<HPOTerm>Phenotype HP:0020004</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020022</HPOId>
+<HPOTerm>Phenotype HP:0020022</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020053</HPOId>
+<HPOTerm>Phenotype HP:0020053</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020061</HPOId>
+<HPOTerm>Phenotype HP:0020061</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020076</HPOId>
+<HPOTerm>Phenotype HP:0020076</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020094</HPOId>
+<HPOTerm>Phenotype HP:0020094</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100278</OrphaCode>
+<Name lang="en">Rare disorder 100278</Name>
+<HPODisorderAssociationList count="7">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020004</HPOId>
+<HPOTerm>Phenotype HP:0020004</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020028</HPOId>
+<HPOTerm>Phenotype HP:0020028</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020045</HPOId>
+<HPOTerm>Phenotype HP:0020045</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020052</HPOId>
+<HPOTerm>Phenotype HP:0020052</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020076</HPOId>
+<HPOTerm>Phenotype HP:0020076</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020103</HPOId>
+<HPOTerm>Phenotype HP:0020103</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020118</HPOId>
+<HPOTerm>Phenotype HP:0020118</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100286</OrphaCode>
+<Name lang="en">Rare disorder 100286</Name>
+<HPODisorderAssociationList count="6">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020019</HPOId>
+<HPOTerm>Phenotype HP:0020019</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020028</HPOId>
+<HPOTerm>Phenotype HP:0020028</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020060</HPOId>
+<HPOTerm>Phenotype HP:0020060</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020064</HPOId>
+<HPOTerm>Phenotype HP:0020064</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020099</HPOId>
+<HPOTerm>Phenotype HP:0020099</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020118</HPOId>
+<HPOTerm>Phenotype HP:0020118</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100295</OrphaCode>
+<Name lang="en">Rare disorder 100295</Name>
+<HPODisorderAssociationList count="9">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020007</HPOId>
+<HPOTerm>Phenotype HP:0020007</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020011</HPOId>
+<HPOTerm>Phenotype HP:0020011</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020014</HPOId>
+<HPOTerm>Phenotype HP:0020014</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020029</HPOId>
+<HPOTerm>Phenotype HP:0020029</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020062</HPOId>
+<HPOTerm>Phenotype HP:0020062</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020071</HPOId>
+<HPOTerm>Phenotype HP:0020071</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020099</HPOId>
+<HPOTerm>Phenotype HP:0020099</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020100</HPOId>
+<HPOTerm>Phenotype HP:0020100</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020112</HPOId>
+<HPOTerm>Phenotype HP:0020112</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100303</OrphaCode>
+<Name lang="en">Rare disorder 100303</Name>
+<HPODisorderAssociationList count="10">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020005</HPOId>
+<HPOTerm>Phenotype HP:0020005</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020016</HPOId>
+<HPOTerm>Phenotype HP:0020016</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020023</HPOId>
+<HPOTerm>Phenotype HP:0020023</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020029</HPOId>
+<HPOTerm>Phenotype HP:0020029</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020037</HPOId>
+<HPOTerm>Phenotype HP:0020037</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020049</HPOId>
+<HPOTerm>Phenotype HP:0020049</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020100</HPOId>
+<HPOTerm>Phenotype HP:0020100</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020102</HPOId>
+<HPOTerm>Phenotype HP:0020102</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020108</HPOId>
+<HPOTerm>Phenotype HP:0020108</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020116</HPOId>
+<HPOTerm>Phenotype HP:0020116</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100308</OrphaCode>
+<Name lang="en">Rare disorder 100308</Name>
+<HPODisorderAssociationList count="6">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020005</HPOId>
+<HPOTerm>Phenotype HP:0020005</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020011</HPOId>
+<HPOTerm>Phenotype HP:0020011</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020050</HPOId>
+<HPOTerm>Phenotype HP:0020050</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020056</HPOId>
+<HPOTerm>Phenotype HP:0020056</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020071</HPOId>
+<HPOTerm>Phenotype HP:0020071</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020100</HPOId>
+<HPOTerm>Phenotype HP:0020100</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100314</OrphaCode>
+<Name lang="en">Rare disorder 100314</Name>
+<HPODisorderAssociationList count="6">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020005</HPOId>
+<HPOTerm>Phenotype HP:0020005</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020011</HPOId>
+<HPOTerm>Phenotype HP:0020011</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020029</HPOId>
+<HPOTerm>Phenotype HP:0020029</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020065</HPOId>
+<HPOTerm>Phenotype HP:0020065</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020115</HPOId>
+<HPOTerm>Phenotype HP:0020115</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020119</HPOId>
+<HPOTerm>Phenotype HP:0020119</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100315</OrphaCode>
+<Name lang="en">Rare disorder 100315</Name>
+<HPODisorderAssociationList count="9">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020005</HPOId>
+<HPOTerm>Phenotype HP:0020005</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020011</HPOId>
+<HPOTerm>Phenotype HP:0020011</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020027</HPOId>
+<HPOTerm>Phenotype HP:0020027</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020029</HPOId>
+<HPOTerm>Phenotype HP:0020029</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020065</HPOId>
+<HPOTerm>Phenotype HP:0020065</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020072</HPOId>
+<HPOTerm>Phenotype HP:0020072</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020073</HPOId>
+<HPOTerm>Phenotype HP:0020073</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020085</HPOId>
+<HPOTerm>Phenotype HP:0020085</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020112</HPOId>
+<HPOTerm>Phenotype HP:0020112</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100324</OrphaCode>
+<Name lang="en">Rare disorder 100324</Name>
+<HPODisorderAssociationList count="10">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020014</HPOId>
+<HPOTerm>Phenotype HP:0020014</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020018</HPOId>
+<HPOTerm>Phenotype HP:0020018</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020023</HPOId>
+<HPOTerm>Phenotype HP:0020023</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020039</HPOId>
+<HPOTerm>Phenotype HP:0020039</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020054</HPOId>
+<HPOTerm>Phenotype HP:0020054</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020065</HPOId>
+<HPOTerm>Phenotype HP:0020065</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020071</HPOId>
+<HPOTerm>Phenotype HP:0020071</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020072</HPOId>
+<HPOTerm>Phenotype HP:0020072</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020114</HPOId>
+<HPOTerm>Phenotype HP:0020114</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020118</HPOId>
+<HPOTerm>Phenotype HP:0020118</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100326</OrphaCode>
+<Name lang="en">Rare disorder 100326</Name>
+<HPODisorderAssociationList count="6">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020005</HPOId>
+<HPOTerm>Phenotype HP:0020005</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020019</HPOId>
+<HPOTerm>Phenotype HP:0020019</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020053</HPOId>
+<HPOTerm>Phenotype HP:0020053</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020065</HPOId>
+<HPOTerm>Phenotype HP:0020065</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020071</HPOId>
+<HPOTerm>Phenotype HP:0020071</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020099</HPOId>
+<HPOTerm>Phenotype HP:0020099</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100327</OrphaCode>
+<Name lang="en">Rare disorder 100327</Name>
+<HPODisorderAssociationList count="6">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020023</HPOId>
+<HPOTerm>Phenotype HP:0020023</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020063</HPOId>
+<HPOTerm>Phenotype HP:0020063</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020065</HPOId>
+<HPOTerm>Phenotype HP:0020065</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020071</HPOId>
+<HPOTerm>Phenotype HP:0020071</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020110</HPOId>
+<HPOTerm>Phenotype HP:0020110</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020117</HPOId>
+<HPOTerm>Phenotype HP:0020117</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100333</OrphaCode>
+<Name lang="en">Rare disorder 100333</Name>
+<HPODisorderAssociationList count="8">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020003</HPOId>
+<HPOTerm>Phenotype HP:0020003</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020005</HPOId>
+<HPOTerm>Phenotype HP:0020005</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020009</HPOId>
+<HPOTerm>Phenotype HP:0020009</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020015</HPOId>
+<HPOTerm>Phenotype HP:0020015</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020029</HPOId>
+<HPOTerm>Phenotype HP:0020029</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020045</HPOId>
+<HPOTerm>Phenotype HP:0020045</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020071</HPOId>
+<HPOTerm>Phenotype HP:0020071</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020088</HPOId>
+<HPOTerm>Phenotype HP:0020088</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100339</OrphaCode>
+<Name lang="en">Rare disorder 100339</Name>
+<HPODisorderAssociationList count="7">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020005</HPOId>
+<HPOTerm>Phenotype HP:0020005</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020009</HPOId>
+<HPOTerm>Phenotype HP:0020009</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020011</HPOId>
+<HPOTerm>Phenotype HP:0020011</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020029</HPOId>
+<HPOTerm>Phenotype HP:0020029</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020046</HPOId>
+<HPOTerm>Phenotype HP:0020046</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020076</HPOId>
+<HPOTerm>Phenotype HP:0020076</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020104</HPOId>
+<HPOTerm>Phenotype HP:0020104</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100342</OrphaCode>
+<Name lang="en">Rare disorder 100342</Name>
+<HPODisorderAssociationList count="6">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020000</HPOId>
+<HPOTerm>Phenotype HP:0020000</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020005</HPOId>
+<HPOTerm>Phenotype HP:0020005</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020011</HPOId>
+<HPOTerm>Phenotype HP:0020011</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020037</HPOId>
+<HPOTerm>Phenotype HP:0020037</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020071</HPOId>
+<HPOTerm>Phenotype HP:0020071</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020095</HPOId>
+<HPOTerm>Phenotype HP:0020095</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+<HPODisorderSetStatus>
+<Disorder>
+<OrphaCode>100348</OrphaCode>
+<Name lang="en">Rare disorder 100348</Name>
+<HPODisorderAssociationList count="7">
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020005</HPOId>
+<HPOTerm>Phenotype HP:0020005</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Obligate (100%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020011</HPOId>
+<HPOTerm>Phenotype HP:0020011</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020014</HPOId>
+<HPOTerm>Phenotype HP:0020014</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Frequent (79-30%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020023</HPOId>
+<HPOTerm>Phenotype HP:0020023</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020058</HPOId>
+<HPOTerm>Phenotype HP:0020058</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Occasional (29-5%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020061</HPOId>
+<HPOTerm>Phenotype HP:0020061</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very frequent (99-80%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+<HPODisorderAssociation>
+<HPO>
+<HPOId>HP:0020071</HPOId>
+<HPOTerm>Phenotype HP:0020071</HPOTerm>
+</HPO>
+<HPOFrequency><Name lang="en">Very rare (&lt;4-1%)</Name></HPOFrequency>
+</HPODisorderAssociation>
+</HPODisorderAssociationList>
+</Disorder>
+</HPODisorderSetStatus>
+</HPODisorderSetStatusList>
+</JDBOR>

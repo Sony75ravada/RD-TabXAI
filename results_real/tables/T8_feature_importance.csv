@@ -1,0 +1,12 @@
+Feature,Importance (gain splits)
+resnik_bma,2161
+phrank,2009
+lin_bma,1996
+n_gene,1603
+mean_ic_profile,1539
+sum_ic_shared,1271
+cosine_bin,1158
+max_ic_shared,1148
+jaccard,1023
+n_profile,876
+n_shared,216

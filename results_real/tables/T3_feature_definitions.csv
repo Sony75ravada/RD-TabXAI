@@ -1,0 +1,12 @@
+Feature,Group,Definition
+jaccard,overlap,Jaccard overlap of profile vs gene HPO sets
+cosine_bin,overlap,Binary cosine of the two HPO sets
+n_shared,overlap,Number of shared HPO terms
+n_profile,overlap,Number of profile terms
+n_gene,overlap,Number of gene terms
+phrank,ic_shared,Sum of IC over the shared ancestral closure (Phrank-style)
+sum_ic_shared,ic_shared,Sum of IC of shared terms
+max_ic_shared,ic_shared,Max IC of shared terms
+mean_ic_profile,ic_shared,Mean IC of profile terms
+resnik_bma,bma,Resnik best-match-average semantic similarity
+lin_bma,bma,Lin best-match-average semantic similarity

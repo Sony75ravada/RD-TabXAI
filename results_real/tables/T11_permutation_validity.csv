@@ -1,0 +1,4 @@
+Setting,MRR,note
+PhenoFuse-LTR (real labels),0.83,trained signal
+"PhenoFuse-LTR (permuted train labels, mean of 5)",0.225,±0.016; feature-label link destroyed
+Theoretical random (pool≈11.9),0.259,lower bound

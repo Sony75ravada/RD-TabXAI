@@ -1,0 +1,1328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<JDBOR>
+<DisorderList>
+<Disorder>
+<OrphaCode>100005</OrphaCode>
+<Name lang="en">Rare disorder 100005</Name>
+<TypeOfInheritance>Autosomal recessive</TypeOfInheritance>
+<DisorderGeneAssociationList count="1">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE000</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1000</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) (loss of function) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100014</OrphaCode>
+<Name lang="en">Rare disorder 100014</Name>
+<TypeOfInheritance>Autosomal recessive</TypeOfInheritance>
+<DisorderGeneAssociationList count="2">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE001</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1001</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE126</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1126</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) (loss of function) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100020</OrphaCode>
+<Name lang="en">Rare disorder 100020</Name>
+<TypeOfInheritance>Autosomal recessive</TypeOfInheritance>
+<DisorderGeneAssociationList count="1">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE002</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1002</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) (loss of function) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100024</OrphaCode>
+<Name lang="en">Rare disorder 100024</Name>
+<TypeOfInheritance>Autosomal recessive</TypeOfInheritance>
+<DisorderGeneAssociationList count="1">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE003</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1003</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100031</OrphaCode>
+<Name lang="en">Rare disorder 100031</Name>
+<TypeOfInheritance>Autosomal dominant</TypeOfInheritance>
+<DisorderGeneAssociationList count="1">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE004</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1004</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) (loss of function) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100033</OrphaCode>
+<Name lang="en">Rare disorder 100033</Name>
+<TypeOfInheritance>Autosomal dominant</TypeOfInheritance>
+<DisorderGeneAssociationList count="1">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE005</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1005</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100035</OrphaCode>
+<Name lang="en">Rare disorder 100035</Name>
+<TypeOfInheritance>Autosomal recessive</TypeOfInheritance>
+<DisorderGeneAssociationList count="2">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE006</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1006</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) (loss of function) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE008</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1008</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100037</OrphaCode>
+<Name lang="en">Rare disorder 100037</Name>
+<TypeOfInheritance>Autosomal recessive</TypeOfInheritance>
+<DisorderGeneAssociationList count="1">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE007</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1007</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) (loss of function) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100044</OrphaCode>
+<Name lang="en">Rare disorder 100044</Name>
+<TypeOfInheritance>Autosomal recessive</TypeOfInheritance>
+<DisorderGeneAssociationList count="1">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE008</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1008</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100049</OrphaCode>
+<Name lang="en">Rare disorder 100049</Name>
+<TypeOfInheritance>Autosomal dominant</TypeOfInheritance>
+<DisorderGeneAssociationList count="2">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE009</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1009</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) (loss of function) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE084</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1084</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100051</OrphaCode>
+<Name lang="en">Rare disorder 100051</Name>
+<TypeOfInheritance>Autosomal dominant</TypeOfInheritance>
+<DisorderGeneAssociationList count="1">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE010</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1010</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) (loss of function) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100058</OrphaCode>
+<Name lang="en">Rare disorder 100058</Name>
+<TypeOfInheritance>Autosomal dominant</TypeOfInheritance>
+<DisorderGeneAssociationList count="1">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE011</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1011</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100062</OrphaCode>
+<Name lang="en">Rare disorder 100062</Name>
+<TypeOfInheritance>Autosomal recessive</TypeOfInheritance>
+<DisorderGeneAssociationList count="1">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE012</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1012</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) (loss of function) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100065</OrphaCode>
+<Name lang="en">Rare disorder 100065</Name>
+<TypeOfInheritance>Autosomal recessive</TypeOfInheritance>
+<DisorderGeneAssociationList count="2">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE013</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1013</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) (loss of function) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE075</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1075</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) (loss of function) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100069</OrphaCode>
+<Name lang="en">Rare disorder 100069</Name>
+<TypeOfInheritance>Autosomal dominant</TypeOfInheritance>
+<DisorderGeneAssociationList count="1">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE014</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1014</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100071</OrphaCode>
+<Name lang="en">Rare disorder 100071</Name>
+<TypeOfInheritance>Autosomal dominant</TypeOfInheritance>
+<DisorderGeneAssociationList count="1">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE015</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1015</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) (loss of function) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100075</OrphaCode>
+<Name lang="en">Rare disorder 100075</Name>
+<TypeOfInheritance>Autosomal recessive</TypeOfInheritance>
+<DisorderGeneAssociationList count="2">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE016</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1016</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) (loss of function) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE002</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1002</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100076</OrphaCode>
+<Name lang="en">Rare disorder 100076</Name>
+<TypeOfInheritance>Autosomal recessive</TypeOfInheritance>
+<DisorderGeneAssociationList count="2">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE017</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1017</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE108</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1108</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100082</OrphaCode>
+<Name lang="en">Rare disorder 100082</Name>
+<TypeOfInheritance>Autosomal dominant</TypeOfInheritance>
+<DisorderGeneAssociationList count="2">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE018</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1018</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) (loss of function) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE040</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1040</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) (loss of function) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100087</OrphaCode>
+<Name lang="en">Rare disorder 100087</Name>
+<TypeOfInheritance>Autosomal dominant</TypeOfInheritance>
+<DisorderGeneAssociationList count="2">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE019</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1019</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) (loss of function) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE072</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1072</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) (loss of function) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100090</OrphaCode>
+<Name lang="en">Rare disorder 100090</Name>
+<TypeOfInheritance>Autosomal recessive</TypeOfInheritance>
+<DisorderGeneAssociationList count="1">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE020</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1020</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) (loss of function) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100093</OrphaCode>
+<Name lang="en">Rare disorder 100093</Name>
+<TypeOfInheritance>Autosomal dominant</TypeOfInheritance>
+<DisorderGeneAssociationList count="2">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE021</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1021</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE110</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1110</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100098</OrphaCode>
+<Name lang="en">Rare disorder 100098</Name>
+<TypeOfInheritance>Autosomal recessive</TypeOfInheritance>
+<DisorderGeneAssociationList count="1">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE022</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1022</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) (loss of function) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100101</OrphaCode>
+<Name lang="en">Rare disorder 100101</Name>
+<TypeOfInheritance>Autosomal dominant</TypeOfInheritance>
+<DisorderGeneAssociationList count="1">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE023</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1023</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) (loss of function) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100103</OrphaCode>
+<Name lang="en">Rare disorder 100103</Name>
+<TypeOfInheritance>Autosomal dominant</TypeOfInheritance>
+<DisorderGeneAssociationList count="1">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE024</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1024</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100110</OrphaCode>
+<Name lang="en">Rare disorder 100110</Name>
+<TypeOfInheritance>Autosomal dominant</TypeOfInheritance>
+<DisorderGeneAssociationList count="1">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE025</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1025</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100117</OrphaCode>
+<Name lang="en">Rare disorder 100117</Name>
+<TypeOfInheritance>Autosomal recessive</TypeOfInheritance>
+<DisorderGeneAssociationList count="1">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE026</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1026</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100125</OrphaCode>
+<Name lang="en">Rare disorder 100125</Name>
+<TypeOfInheritance>Autosomal dominant</TypeOfInheritance>
+<DisorderGeneAssociationList count="1">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE027</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1027</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100133</OrphaCode>
+<Name lang="en">Rare disorder 100133</Name>
+<TypeOfInheritance>Autosomal dominant</TypeOfInheritance>
+<DisorderGeneAssociationList count="2">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE028</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1028</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) (loss of function) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE107</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1107</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100140</OrphaCode>
+<Name lang="en">Rare disorder 100140</Name>
+<TypeOfInheritance>Autosomal recessive</TypeOfInheritance>
+<DisorderGeneAssociationList count="1">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE029</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1029</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100149</OrphaCode>
+<Name lang="en">Rare disorder 100149</Name>
+<TypeOfInheritance>Autosomal dominant</TypeOfInheritance>
+<DisorderGeneAssociationList count="1">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE030</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1030</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) (loss of function) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100154</OrphaCode>
+<Name lang="en">Rare disorder 100154</Name>
+<TypeOfInheritance>Autosomal recessive</TypeOfInheritance>
+<DisorderGeneAssociationList count="1">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE031</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1031</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) (loss of function) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100159</OrphaCode>
+<Name lang="en">Rare disorder 100159</Name>
+<TypeOfInheritance>Autosomal recessive</TypeOfInheritance>
+<DisorderGeneAssociationList count="1">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE032</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1032</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) (loss of function) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100165</OrphaCode>
+<Name lang="en">Rare disorder 100165</Name>
+<TypeOfInheritance>Autosomal recessive</TypeOfInheritance>
+<DisorderGeneAssociationList count="1">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE033</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1033</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) (loss of function) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100170</OrphaCode>
+<Name lang="en">Rare disorder 100170</Name>
+<TypeOfInheritance>Autosomal recessive</TypeOfInheritance>
+<DisorderGeneAssociationList count="2">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE034</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1034</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE007</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1007</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) (loss of function) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100178</OrphaCode>
+<Name lang="en">Rare disorder 100178</Name>
+<TypeOfInheritance>Autosomal recessive</TypeOfInheritance>
+<DisorderGeneAssociationList count="2">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE035</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1035</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) (loss of function) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE101</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1101</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) (loss of function) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100184</OrphaCode>
+<Name lang="en">Rare disorder 100184</Name>
+<TypeOfInheritance>Autosomal dominant</TypeOfInheritance>
+<DisorderGeneAssociationList count="1">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE036</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1036</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) (loss of function) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100187</OrphaCode>
+<Name lang="en">Rare disorder 100187</Name>
+<TypeOfInheritance>Autosomal dominant</TypeOfInheritance>
+<DisorderGeneAssociationList count="1">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE037</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1037</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) (loss of function) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100195</OrphaCode>
+<Name lang="en">Rare disorder 100195</Name>
+<TypeOfInheritance>Autosomal dominant</TypeOfInheritance>
+<DisorderGeneAssociationList count="1">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE038</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1038</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) (loss of function) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100200</OrphaCode>
+<Name lang="en">Rare disorder 100200</Name>
+<TypeOfInheritance>Autosomal dominant</TypeOfInheritance>
+<DisorderGeneAssociationList count="1">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE039</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1039</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100206</OrphaCode>
+<Name lang="en">Rare disorder 100206</Name>
+<TypeOfInheritance>Autosomal recessive</TypeOfInheritance>
+<DisorderGeneAssociationList count="2">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE040</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1040</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE088</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1088</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100207</OrphaCode>
+<Name lang="en">Rare disorder 100207</Name>
+<TypeOfInheritance>Autosomal recessive</TypeOfInheritance>
+<DisorderGeneAssociationList count="2">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE041</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1041</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE028</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1028</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) (loss of function) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100209</OrphaCode>
+<Name lang="en">Rare disorder 100209</Name>
+<TypeOfInheritance>Autosomal dominant</TypeOfInheritance>
+<DisorderGeneAssociationList count="1">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE042</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1042</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) (loss of function) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100216</OrphaCode>
+<Name lang="en">Rare disorder 100216</Name>
+<TypeOfInheritance>Autosomal dominant</TypeOfInheritance>
+<DisorderGeneAssociationList count="1">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE043</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1043</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) (loss of function) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100220</OrphaCode>
+<Name lang="en">Rare disorder 100220</Name>
+<TypeOfInheritance>Autosomal dominant</TypeOfInheritance>
+<DisorderGeneAssociationList count="1">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE044</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1044</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100227</OrphaCode>
+<Name lang="en">Rare disorder 100227</Name>
+<TypeOfInheritance>Autosomal recessive</TypeOfInheritance>
+<DisorderGeneAssociationList count="1">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE045</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1045</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100228</OrphaCode>
+<Name lang="en">Rare disorder 100228</Name>
+<TypeOfInheritance>Autosomal recessive</TypeOfInheritance>
+<DisorderGeneAssociationList count="2">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE046</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1046</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE034</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1034</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100232</OrphaCode>
+<Name lang="en">Rare disorder 100232</Name>
+<TypeOfInheritance>Autosomal recessive</TypeOfInheritance>
+<DisorderGeneAssociationList count="1">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE047</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1047</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100239</OrphaCode>
+<Name lang="en">Rare disorder 100239</Name>
+<TypeOfInheritance>Autosomal dominant</TypeOfInheritance>
+<DisorderGeneAssociationList count="1">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE048</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1048</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100243</OrphaCode>
+<Name lang="en">Rare disorder 100243</Name>
+<TypeOfInheritance>Autosomal recessive</TypeOfInheritance>
+<DisorderGeneAssociationList count="1">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE049</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1049</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100246</OrphaCode>
+<Name lang="en">Rare disorder 100246</Name>
+<TypeOfInheritance>Autosomal recessive</TypeOfInheritance>
+<DisorderGeneAssociationList count="1">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE050</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1050</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) (loss of function) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100247</OrphaCode>
+<Name lang="en">Rare disorder 100247</Name>
+<TypeOfInheritance>Autosomal recessive</TypeOfInheritance>
+<DisorderGeneAssociationList count="1">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE051</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1051</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100255</OrphaCode>
+<Name lang="en">Rare disorder 100255</Name>
+<TypeOfInheritance>Autosomal recessive</TypeOfInheritance>
+<DisorderGeneAssociationList count="1">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE052</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1052</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100257</OrphaCode>
+<Name lang="en">Rare disorder 100257</Name>
+<TypeOfInheritance>Autosomal dominant</TypeOfInheritance>
+<DisorderGeneAssociationList count="2">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE053</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1053</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) (loss of function) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE045</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1045</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100264</OrphaCode>
+<Name lang="en">Rare disorder 100264</Name>
+<TypeOfInheritance>Autosomal dominant</TypeOfInheritance>
+<DisorderGeneAssociationList count="2">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE054</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1054</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) (loss of function) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE116</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1116</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100267</OrphaCode>
+<Name lang="en">Rare disorder 100267</Name>
+<TypeOfInheritance>Autosomal dominant</TypeOfInheritance>
+<DisorderGeneAssociationList count="1">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE055</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1055</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) (loss of function) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100272</OrphaCode>
+<Name lang="en">Rare disorder 100272</Name>
+<TypeOfInheritance>Autosomal dominant</TypeOfInheritance>
+<DisorderGeneAssociationList count="1">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE056</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1056</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100275</OrphaCode>
+<Name lang="en">Rare disorder 100275</Name>
+<TypeOfInheritance>Autosomal recessive</TypeOfInheritance>
+<DisorderGeneAssociationList count="1">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE057</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1057</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100278</OrphaCode>
+<Name lang="en">Rare disorder 100278</Name>
+<TypeOfInheritance>Autosomal dominant</TypeOfInheritance>
+<DisorderGeneAssociationList count="1">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE058</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1058</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100286</OrphaCode>
+<Name lang="en">Rare disorder 100286</Name>
+<TypeOfInheritance>Autosomal recessive</TypeOfInheritance>
+<DisorderGeneAssociationList count="1">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE059</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1059</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) (loss of function) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100295</OrphaCode>
+<Name lang="en">Rare disorder 100295</Name>
+<TypeOfInheritance>Autosomal recessive</TypeOfInheritance>
+<DisorderGeneAssociationList count="1">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE060</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1060</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) (loss of function) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100303</OrphaCode>
+<Name lang="en">Rare disorder 100303</Name>
+<TypeOfInheritance>Autosomal dominant</TypeOfInheritance>
+<DisorderGeneAssociationList count="1">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE061</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1061</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100308</OrphaCode>
+<Name lang="en">Rare disorder 100308</Name>
+<TypeOfInheritance>Autosomal dominant</TypeOfInheritance>
+<DisorderGeneAssociationList count="1">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE062</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1062</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100314</OrphaCode>
+<Name lang="en">Rare disorder 100314</Name>
+<TypeOfInheritance>Autosomal dominant</TypeOfInheritance>
+<DisorderGeneAssociationList count="1">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE063</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1063</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) (loss of function) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100315</OrphaCode>
+<Name lang="en">Rare disorder 100315</Name>
+<TypeOfInheritance>Autosomal dominant</TypeOfInheritance>
+<DisorderGeneAssociationList count="1">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE064</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1064</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100324</OrphaCode>
+<Name lang="en">Rare disorder 100324</Name>
+<TypeOfInheritance>Autosomal dominant</TypeOfInheritance>
+<DisorderGeneAssociationList count="1">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE065</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1065</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) (loss of function) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100326</OrphaCode>
+<Name lang="en">Rare disorder 100326</Name>
+<TypeOfInheritance>Autosomal dominant</TypeOfInheritance>
+<DisorderGeneAssociationList count="1">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE066</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1066</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100327</OrphaCode>
+<Name lang="en">Rare disorder 100327</Name>
+<TypeOfInheritance>Autosomal dominant</TypeOfInheritance>
+<DisorderGeneAssociationList count="1">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE067</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1067</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) (loss of function) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100333</OrphaCode>
+<Name lang="en">Rare disorder 100333</Name>
+<TypeOfInheritance>Autosomal recessive</TypeOfInheritance>
+<DisorderGeneAssociationList count="2">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE068</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1068</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) (loss of function) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE090</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1090</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) (loss of function) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100339</OrphaCode>
+<Name lang="en">Rare disorder 100339</Name>
+<TypeOfInheritance>Autosomal dominant</TypeOfInheritance>
+<DisorderGeneAssociationList count="1">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE069</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1069</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) (loss of function) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100342</OrphaCode>
+<Name lang="en">Rare disorder 100342</Name>
+<TypeOfInheritance>Autosomal dominant</TypeOfInheritance>
+<DisorderGeneAssociationList count="1">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE070</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1070</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) (loss of function) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+<Disorder>
+<OrphaCode>100348</OrphaCode>
+<Name lang="en">Rare disorder 100348</Name>
+<TypeOfInheritance>Autosomal dominant</TypeOfInheritance>
+<DisorderGeneAssociationList count="2">
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE071</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1071</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+<DisorderGeneAssociation>
+<Gene>
+<Symbol>GENE024</Symbol>
+<ExternalReferenceList>
+<ExternalReference><Source>HGNC</Source><Reference>1024</Reference></ExternalReference>
+</ExternalReferenceList>
+</Gene>
+<DisorderGeneAssociationType><Name lang="en">Disease-causing germline mutation(s) (loss of function) in</Name></DisorderGeneAssociationType>
+</DisorderGeneAssociation>
+</DisorderGeneAssociationList>
+</Disorder>
+</DisorderList>
+</JDBOR>

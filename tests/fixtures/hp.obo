@@ -1,0 +1,763 @@
+format-version: 1.2
+ontology: hp
+
+[Term]
+id: HP:0000118
+name: Phenotypic abnormality
+def: "Synthetic definition of Phenotypic abnormality." []
+
+[Term]
+id: HP:0001000
+name: Abnormality category HP:0001000
+def: "Synthetic definition of Abnormality category HP:0001000." []
+is_a: HP:0000118 ! HP:0000118
+
+[Term]
+id: HP:0001001
+name: Abnormality category HP:0001001
+def: "Synthetic definition of Abnormality category HP:0001001." []
+is_a: HP:0000118 ! HP:0000118
+
+[Term]
+id: HP:0001002
+name: Abnormality category HP:0001002
+def: "Synthetic definition of Abnormality category HP:0001002." []
+is_a: HP:0000118 ! HP:0000118
+
+[Term]
+id: HP:0001003
+name: Abnormality category HP:0001003
+def: "Synthetic definition of Abnormality category HP:0001003." []
+is_a: HP:0000118 ! HP:0000118
+
+[Term]
+id: HP:0001004
+name: Abnormality category HP:0001004
+def: "Synthetic definition of Abnormality category HP:0001004." []
+is_a: HP:0000118 ! HP:0000118
+
+[Term]
+id: HP:0001005
+name: Abnormality category HP:0001005
+def: "Synthetic definition of Abnormality category HP:0001005." []
+is_a: HP:0000118 ! HP:0000118
+
+[Term]
+id: HP:0020000
+name: Phenotype HP:0020000
+def: "Synthetic definition of Phenotype HP:0020000." []
+is_a: HP:0001000 ! HP:0001000
+
+[Term]
+id: HP:0020001
+name: Phenotype HP:0020001
+def: "Synthetic definition of Phenotype HP:0020001." []
+is_a: HP:0001001 ! HP:0001001
+
+[Term]
+id: HP:0020002
+name: Phenotype HP:0020002
+def: "Synthetic definition of Phenotype HP:0020002." []
+is_a: HP:0001002 ! HP:0001002
+
+[Term]
+id: HP:0020003
+name: Phenotype HP:0020003
+def: "Synthetic definition of Phenotype HP:0020003." []
+is_a: HP:0001003 ! HP:0001003
+
+[Term]
+id: HP:0020004
+name: Phenotype HP:0020004
+def: "Synthetic definition of Phenotype HP:0020004." []
+is_a: HP:0001004 ! HP:0001004
+
+[Term]
+id: HP:0020005
+name: Phenotype HP:0020005
+def: "Synthetic definition of Phenotype HP:0020005." []
+is_a: HP:0001005 ! HP:0001005
+
+[Term]
+id: HP:0020006
+name: Phenotype HP:0020006
+def: "Synthetic definition of Phenotype HP:0020006." []
+is_a: HP:0001000 ! HP:0001000
+
+[Term]
+id: HP:0020007
+name: Phenotype HP:0020007
+def: "Synthetic definition of Phenotype HP:0020007." []
+is_a: HP:0001001 ! HP:0001001
+
+[Term]
+id: HP:0020008
+name: Phenotype HP:0020008
+def: "Synthetic definition of Phenotype HP:0020008." []
+is_a: HP:0001002 ! HP:0001002
+
+[Term]
+id: HP:0020009
+name: Phenotype HP:0020009
+def: "Synthetic definition of Phenotype HP:0020009." []
+is_a: HP:0001003 ! HP:0001003
+
+[Term]
+id: HP:0020010
+name: Phenotype HP:0020010
+def: "Synthetic definition of Phenotype HP:0020010." []
+is_a: HP:0001004 ! HP:0001004
+
+[Term]
+id: HP:0020011
+name: Phenotype HP:0020011
+def: "Synthetic definition of Phenotype HP:0020011." []
+is_a: HP:0001005 ! HP:0001005
+
+[Term]
+id: HP:0020012
+name: Phenotype HP:0020012
+def: "Synthetic definition of Phenotype HP:0020012." []
+is_a: HP:0001000 ! HP:0001000
+
+[Term]
+id: HP:0020013
+name: Phenotype HP:0020013
+def: "Synthetic definition of Phenotype HP:0020013." []
+is_a: HP:0001001 ! HP:0001001
+
+[Term]
+id: HP:0020014
+name: Phenotype HP:0020014
+def: "Synthetic definition of Phenotype HP:0020014." []
+is_a: HP:0001002 ! HP:0001002
+
+[Term]
+id: HP:0020015
+name: Phenotype HP:0020015
+def: "Synthetic definition of Phenotype HP:0020015." []
+is_a: HP:0001003 ! HP:0001003
+
+[Term]
+id: HP:0020016
+name: Phenotype HP:0020016
+def: "Synthetic definition of Phenotype HP:0020016." []
+is_a: HP:0001004 ! HP:0001004
+
+[Term]
+id: HP:0020017
+name: Phenotype HP:0020017
+def: "Synthetic definition of Phenotype HP:0020017." []
+is_a: HP:0001005 ! HP:0001005
+
+[Term]
+id: HP:0020018
+name: Phenotype HP:0020018
+def: "Synthetic definition of Phenotype HP:0020018." []
+is_a: HP:0001000 ! HP:0001000
+
+[Term]
+id: HP:0020019
+name: Phenotype HP:0020019
+def: "Synthetic definition of Phenotype HP:0020019." []
+is_a: HP:0001001 ! HP:0001001
+
+[Term]
+id: HP:0020020
+name: Phenotype HP:0020020
+def: "Synthetic definition of Phenotype HP:0020020." []
+is_a: HP:0001002 ! HP:0001002
+
+[Term]
+id: HP:0020021
+name: Phenotype HP:0020021
+def: "Synthetic definition of Phenotype HP:0020021." []
+is_a: HP:0001003 ! HP:0001003
+
+[Term]
+id: HP:0020022
+name: Phenotype HP:0020022
+def: "Synthetic definition of Phenotype HP:0020022." []
+is_a: HP:0001004 ! HP:0001004
+
+[Term]
+id: HP:0020023
+name: Phenotype HP:0020023
+def: "Synthetic definition of Phenotype HP:0020023." []
+is_a: HP:0001005 ! HP:0001005
+
+[Term]
+id: HP:0020024
+name: Phenotype HP:0020024
+def: "Synthetic definition of Phenotype HP:0020024." []
+is_a: HP:0001000 ! HP:0001000
+
+[Term]
+id: HP:0020025
+name: Phenotype HP:0020025
+def: "Synthetic definition of Phenotype HP:0020025." []
+is_a: HP:0001001 ! HP:0001001
+
+[Term]
+id: HP:0020026
+name: Phenotype HP:0020026
+def: "Synthetic definition of Phenotype HP:0020026." []
+is_a: HP:0001002 ! HP:0001002
+
+[Term]
+id: HP:0020027
+name: Phenotype HP:0020027
+def: "Synthetic definition of Phenotype HP:0020027." []
+is_a: HP:0001003 ! HP:0001003
+
+[Term]
+id: HP:0020028
+name: Phenotype HP:0020028
+def: "Synthetic definition of Phenotype HP:0020028." []
+is_a: HP:0001004 ! HP:0001004
+
+[Term]
+id: HP:0020029
+name: Phenotype HP:0020029
+def: "Synthetic definition of Phenotype HP:0020029." []
+is_a: HP:0001005 ! HP:0001005
+
+[Term]
+id: HP:0020030
+name: Phenotype HP:0020030
+def: "Synthetic definition of Phenotype HP:0020030." []
+is_a: HP:0001000 ! HP:0001000
+
+[Term]
+id: HP:0020031
+name: Phenotype HP:0020031
+def: "Synthetic definition of Phenotype HP:0020031." []
+is_a: HP:0001001 ! HP:0001001
+
+[Term]
+id: HP:0020032
+name: Phenotype HP:0020032
+def: "Synthetic definition of Phenotype HP:0020032." []
+is_a: HP:0001002 ! HP:0001002
+
+[Term]
+id: HP:0020033
+name: Phenotype HP:0020033
+def: "Synthetic definition of Phenotype HP:0020033." []
+is_a: HP:0001003 ! HP:0001003
+
+[Term]
+id: HP:0020034
+name: Phenotype HP:0020034
+def: "Synthetic definition of Phenotype HP:0020034." []
+is_a: HP:0001004 ! HP:0001004
+
+[Term]
+id: HP:0020035
+name: Phenotype HP:0020035
+def: "Synthetic definition of Phenotype HP:0020035." []
+is_a: HP:0001005 ! HP:0001005
+
+[Term]
+id: HP:0020036
+name: Phenotype HP:0020036
+def: "Synthetic definition of Phenotype HP:0020036." []
+is_a: HP:0001000 ! HP:0001000
+
+[Term]
+id: HP:0020037
+name: Phenotype HP:0020037
+def: "Synthetic definition of Phenotype HP:0020037." []
+is_a: HP:0001001 ! HP:0001001
+
+[Term]
+id: HP:0020038
+name: Phenotype HP:0020038
+def: "Synthetic definition of Phenotype HP:0020038." []
+is_a: HP:0001002 ! HP:0001002
+
+[Term]
+id: HP:0020039
+name: Phenotype HP:0020039
+def: "Synthetic definition of Phenotype HP:0020039." []
+is_a: HP:0001003 ! HP:0001003
+
+[Term]
+id: HP:0020040
+name: Phenotype HP:0020040
+def: "Synthetic definition of Phenotype HP:0020040." []
+is_a: HP:0001004 ! HP:0001004
+
+[Term]
+id: HP:0020041
+name: Phenotype HP:0020041
+def: "Synthetic definition of Phenotype HP:0020041." []
+is_a: HP:0001005 ! HP:0001005
+
+[Term]
+id: HP:0020042
+name: Phenotype HP:0020042
+def: "Synthetic definition of Phenotype HP:0020042." []
+is_a: HP:0001000 ! HP:0001000
+
+[Term]
+id: HP:0020043
+name: Phenotype HP:0020043
+def: "Synthetic definition of Phenotype HP:0020043." []
+is_a: HP:0001001 ! HP:0001001
+
+[Term]
+id: HP:0020044
+name: Phenotype HP:0020044
+def: "Synthetic definition of Phenotype HP:0020044." []
+is_a: HP:0001002 ! HP:0001002
+
+[Term]
+id: HP:0020045
+name: Phenotype HP:0020045
+def: "Synthetic definition of Phenotype HP:0020045." []
+is_a: HP:0001003 ! HP:0001003
+
+[Term]
+id: HP:0020046
+name: Phenotype HP:0020046
+def: "Synthetic definition of Phenotype HP:0020046." []
+is_a: HP:0001004 ! HP:0001004
+
+[Term]
+id: HP:0020047
+name: Phenotype HP:0020047
+def: "Synthetic definition of Phenotype HP:0020047." []
+is_a: HP:0001005 ! HP:0001005
+
+[Term]
+id: HP:0020048
+name: Phenotype HP:0020048
+def: "Synthetic definition of Phenotype HP:0020048." []
+is_a: HP:0001000 ! HP:0001000
+
+[Term]
+id: HP:0020049
+name: Phenotype HP:0020049
+def: "Synthetic definition of Phenotype HP:0020049." []
+is_a: HP:0001001 ! HP:0001001
+
+[Term]
+id: HP:0020050
+name: Phenotype HP:0020050
+def: "Synthetic definition of Phenotype HP:0020050." []
+is_a: HP:0001002 ! HP:0001002
+
+[Term]
+id: HP:0020051
+name: Phenotype HP:0020051
+def: "Synthetic definition of Phenotype HP:0020051." []
+is_a: HP:0001003 ! HP:0001003
+
+[Term]
+id: HP:0020052
+name: Phenotype HP:0020052
+def: "Synthetic definition of Phenotype HP:0020052." []
+is_a: HP:0001004 ! HP:0001004
+
+[Term]
+id: HP:0020053
+name: Phenotype HP:0020053
+def: "Synthetic definition of Phenotype HP:0020053." []
+is_a: HP:0001005 ! HP:0001005
+
+[Term]
+id: HP:0020054
+name: Phenotype HP:0020054
+def: "Synthetic definition of Phenotype HP:0020054." []
+is_a: HP:0001000 ! HP:0001000
+
+[Term]
+id: HP:0020055
+name: Phenotype HP:0020055
+def: "Synthetic definition of Phenotype HP:0020055." []
+is_a: HP:0001001 ! HP:0001001
+
+[Term]
+id: HP:0020056
+name: Phenotype HP:0020056
+def: "Synthetic definition of Phenotype HP:0020056." []
+is_a: HP:0001002 ! HP:0001002
+
+[Term]
+id: HP:0020057
+name: Phenotype HP:0020057
+def: "Synthetic definition of Phenotype HP:0020057." []
+is_a: HP:0001003 ! HP:0001003
+
+[Term]
+id: HP:0020058
+name: Phenotype HP:0020058
+def: "Synthetic definition of Phenotype HP:0020058." []
+is_a: HP:0001004 ! HP:0001004
+
+[Term]
+id: HP:0020059
+name: Phenotype HP:0020059
+def: "Synthetic definition of Phenotype HP:0020059." []
+is_a: HP:0001005 ! HP:0001005
+
+[Term]
+id: HP:0020060
+name: Phenotype HP:0020060
+def: "Synthetic definition of Phenotype HP:0020060." []
+is_a: HP:0001000 ! HP:0001000
+
+[Term]
+id: HP:0020061
+name: Phenotype HP:0020061
+def: "Synthetic definition of Phenotype HP:0020061." []
+is_a: HP:0001001 ! HP:0001001
+
+[Term]
+id: HP:0020062
+name: Phenotype HP:0020062
+def: "Synthetic definition of Phenotype HP:0020062." []
+is_a: HP:0001002 ! HP:0001002
+
+[Term]
+id: HP:0020063
+name: Phenotype HP:0020063
+def: "Synthetic definition of Phenotype HP:0020063." []
+is_a: HP:0001003 ! HP:0001003
+
+[Term]
+id: HP:0020064
+name: Phenotype HP:0020064
+def: "Synthetic definition of Phenotype HP:0020064." []
+is_a: HP:0001004 ! HP:0001004
+
+[Term]
+id: HP:0020065
+name: Phenotype HP:0020065
+def: "Synthetic definition of Phenotype HP:0020065." []
+is_a: HP:0001005 ! HP:0001005
+
+[Term]
+id: HP:0020066
+name: Phenotype HP:0020066
+def: "Synthetic definition of Phenotype HP:0020066." []
+is_a: HP:0001000 ! HP:0001000
+
+[Term]
+id: HP:0020067
+name: Phenotype HP:0020067
+def: "Synthetic definition of Phenotype HP:0020067." []
+is_a: HP:0001001 ! HP:0001001
+
+[Term]
+id: HP:0020068
+name: Phenotype HP:0020068
+def: "Synthetic definition of Phenotype HP:0020068." []
+is_a: HP:0001002 ! HP:0001002
+
+[Term]
+id: HP:0020069
+name: Phenotype HP:0020069
+def: "Synthetic definition of Phenotype HP:0020069." []
+is_a: HP:0001003 ! HP:0001003
+
+[Term]
+id: HP:0020070
+name: Phenotype HP:0020070
+def: "Synthetic definition of Phenotype HP:0020070." []
+is_a: HP:0001004 ! HP:0001004
+
+[Term]
+id: HP:0020071
+name: Phenotype HP:0020071
+def: "Synthetic definition of Phenotype HP:0020071." []
+is_a: HP:0001005 ! HP:0001005
+
+[Term]
+id: HP:0020072
+name: Phenotype HP:0020072
+def: "Synthetic definition of Phenotype HP:0020072." []
+is_a: HP:0001000 ! HP:0001000
+
+[Term]
+id: HP:0020073
+name: Phenotype HP:0020073
+def: "Synthetic definition of Phenotype HP:0020073." []
+is_a: HP:0001001 ! HP:0001001
+
+[Term]
+id: HP:0020074
+name: Phenotype HP:0020074
+def: "Synthetic definition of Phenotype HP:0020074." []
+is_a: HP:0001002 ! HP:0001002
+
+[Term]
+id: HP:0020075
+name: Phenotype HP:0020075
+def: "Synthetic definition of Phenotype HP:0020075." []
+is_a: HP:0001003 ! HP:0001003
+
+[Term]
+id: HP:0020076
+name: Phenotype HP:0020076
+def: "Synthetic definition of Phenotype HP:0020076." []
+is_a: HP:0001004 ! HP:0001004
+
+[Term]
+id: HP:0020077
+name: Phenotype HP:0020077
+def: "Synthetic definition of Phenotype HP:0020077." []
+is_a: HP:0001005 ! HP:0001005
+
+[Term]
+id: HP:0020078
+name: Phenotype HP:0020078
+def: "Synthetic definition of Phenotype HP:0020078." []
+is_a: HP:0001000 ! HP:0001000
+
+[Term]
+id: HP:0020079
+name: Phenotype HP:0020079
+def: "Synthetic definition of Phenotype HP:0020079." []
+is_a: HP:0001001 ! HP:0001001
+
+[Term]
+id: HP:0020080
+name: Phenotype HP:0020080
+def: "Synthetic definition of Phenotype HP:0020080." []
+is_a: HP:0001002 ! HP:0001002
+
+[Term]
+id: HP:0020081
+name: Phenotype HP:0020081
+def: "Synthetic definition of Phenotype HP:0020081." []
+is_a: HP:0001003 ! HP:0001003
+
+[Term]
+id: HP:0020082
+name: Phenotype HP:0020082
+def: "Synthetic definition of Phenotype HP:0020082." []
+is_a: HP:0001004 ! HP:0001004
+
+[Term]
+id: HP:0020083
+name: Phenotype HP:0020083
+def: "Synthetic definition of Phenotype HP:0020083." []
+is_a: HP:0001005 ! HP:0001005
+
+[Term]
+id: HP:0020084
+name: Phenotype HP:0020084
+def: "Synthetic definition of Phenotype HP:0020084." []
+is_a: HP:0001000 ! HP:0001000
+
+[Term]
+id: HP:0020085
+name: Phenotype HP:0020085
+def: "Synthetic definition of Phenotype HP:0020085." []
+is_a: HP:0001001 ! HP:0001001
+
+[Term]
+id: HP:0020086
+name: Phenotype HP:0020086
+def: "Synthetic definition of Phenotype HP:0020086." []
+is_a: HP:0001002 ! HP:0001002
+
+[Term]
+id: HP:0020087
+name: Phenotype HP:0020087
+def: "Synthetic definition of Phenotype HP:0020087." []
+is_a: HP:0001003 ! HP:0001003
+
+[Term]
+id: HP:0020088
+name: Phenotype HP:0020088
+def: "Synthetic definition of Phenotype HP:0020088." []
+is_a: HP:0001004 ! HP:0001004
+
+[Term]
+id: HP:0020089
+name: Phenotype HP:0020089
+def: "Synthetic definition of Phenotype HP:0020089." []
+is_a: HP:0001005 ! HP:0001005
+
+[Term]
+id: HP:0020090
+name: Phenotype HP:0020090
+def: "Synthetic definition of Phenotype HP:0020090." []
+is_a: HP:0001000 ! HP:0001000
+
+[Term]
+id: HP:0020091
+name: Phenotype HP:0020091
+def: "Synthetic definition of Phenotype HP:0020091." []
+is_a: HP:0001001 ! HP:0001001
+
+[Term]
+id: HP:0020092
+name: Phenotype HP:0020092
+def: "Synthetic definition of Phenotype HP:0020092." []
+is_a: HP:0001002 ! HP:0001002
+
+[Term]
+id: HP:0020093
+name: Phenotype HP:0020093
+def: "Synthetic definition of Phenotype HP:0020093." []
+is_a: HP:0001003 ! HP:0001003
+
+[Term]
+id: HP:0020094
+name: Phenotype HP:0020094
+def: "Synthetic definition of Phenotype HP:0020094." []
+is_a: HP:0001004 ! HP:0001004
+
+[Term]
+id: HP:0020095
+name: Phenotype HP:0020095
+def: "Synthetic definition of Phenotype HP:0020095." []
+is_a: HP:0001005 ! HP:0001005
+
+[Term]
+id: HP:0020096
+name: Phenotype HP:0020096
+def: "Synthetic definition of Phenotype HP:0020096." []
+is_a: HP:0001000 ! HP:0001000
+
+[Term]
+id: HP:0020097
+name: Phenotype HP:0020097
+def: "Synthetic definition of Phenotype HP:0020097." []
+is_a: HP:0001001 ! HP:0001001
+
+[Term]
+id: HP:0020098
+name: Phenotype HP:0020098
+def: "Synthetic definition of Phenotype HP:0020098." []
+is_a: HP:0001002 ! HP:0001002
+
+[Term]
+id: HP:0020099
+name: Phenotype HP:0020099
+def: "Synthetic definition of Phenotype HP:0020099." []
+is_a: HP:0001003 ! HP:0001003
+
+[Term]
+id: HP:0020100
+name: Phenotype HP:0020100
+def: "Synthetic definition of Phenotype HP:0020100." []
+is_a: HP:0001004 ! HP:0001004
+
+[Term]
+id: HP:0020101
+name: Phenotype HP:0020101
+def: "Synthetic definition of Phenotype HP:0020101." []
+is_a: HP:0001005 ! HP:0001005
+
+[Term]
+id: HP:0020102
+name: Phenotype HP:0020102
+def: "Synthetic definition of Phenotype HP:0020102." []
+is_a: HP:0001000 ! HP:0001000
+
+[Term]
+id: HP:0020103
+name: Phenotype HP:0020103
+def: "Synthetic definition of Phenotype HP:0020103." []
+is_a: HP:0001001 ! HP:0001001
+
+[Term]
+id: HP:0020104
+name: Phenotype HP:0020104
+def: "Synthetic definition of Phenotype HP:0020104." []
+is_a: HP:0001002 ! HP:0001002
+
+[Term]
+id: HP:0020105
+name: Phenotype HP:0020105
+def: "Synthetic definition of Phenotype HP:0020105." []
+is_a: HP:0001003 ! HP:0001003
+
+[Term]
+id: HP:0020106
+name: Phenotype HP:0020106
+def: "Synthetic definition of Phenotype HP:0020106." []
+is_a: HP:0001004 ! HP:0001004
+
+[Term]
+id: HP:0020107
+name: Phenotype HP:0020107
+def: "Synthetic definition of Phenotype HP:0020107." []
+is_a: HP:0001005 ! HP:0001005
+
+[Term]
+id: HP:0020108
+name: Phenotype HP:0020108
+def: "Synthetic definition of Phenotype HP:0020108." []
+is_a: HP:0001000 ! HP:0001000
+
+[Term]
+id: HP:0020109
+name: Phenotype HP:0020109
+def: "Synthetic definition of Phenotype HP:0020109." []
+is_a: HP:0001001 ! HP:0001001
+
+[Term]
+id: HP:0020110
+name: Phenotype HP:0020110
+def: "Synthetic definition of Phenotype HP:0020110." []
+is_a: HP:0001002 ! HP:0001002
+
+[Term]
+id: HP:0020111
+name: Phenotype HP:0020111
+def: "Synthetic definition of Phenotype HP:0020111." []
+is_a: HP:0001003 ! HP:0001003
+
+[Term]
+id: HP:0020112
+name: Phenotype HP:0020112
+def: "Synthetic definition of Phenotype HP:0020112." []
+is_a: HP:0001004 ! HP:0001004
+
+[Term]
+id: HP:0020113
+name: Phenotype HP:0020113
+def: "Synthetic definition of Phenotype HP:0020113." []
+is_a: HP:0001005 ! HP:0001005
+
+[Term]
+id: HP:0020114
+name: Phenotype HP:0020114
+def: "Synthetic definition of Phenotype HP:0020114." []
+is_a: HP:0001000 ! HP:0001000
+
+[Term]
+id: HP:0020115
+name: Phenotype HP:0020115
+def: "Synthetic definition of Phenotype HP:0020115." []
+is_a: HP:0001001 ! HP:0001001
+
+[Term]
+id: HP:0020116
+name: Phenotype HP:0020116
+def: "Synthetic definition of Phenotype HP:0020116." []
+is_a: HP:0001002 ! HP:0001002
+
+[Term]
+id: HP:0020117
+name: Phenotype HP:0020117
+def: "Synthetic definition of Phenotype HP:0020117." []
+is_a: HP:0001003 ! HP:0001003
+
+[Term]
+id: HP:0020118
+name: Phenotype HP:0020118
+def: "Synthetic definition of Phenotype HP:0020118." []
+is_a: HP:0001004 ! HP:0001004
+
+[Term]
+id: HP:0020119
+name: Phenotype HP:0020119
+def: "Synthetic definition of Phenotype HP:0020119." []
+is_a: HP:0001005 ! HP:0001005

@@ -1,0 +1,8 @@
+Source,Release / status,Role
+HPO ontology (hp.obo),2025-01-16,"Ontology DAG, IC"
+Disease–phenotype (phenotype.hpoa),2025-01-16,Disease HPO sets (target)
+Gene–phenotype (genes_to_phenotype),2025-01-16,Gene HPO sets
+Disease–gene (phenotype_to_genes),2025-01-16,Causal-gene labels
+ClinVar variant evidence,Deferred (not used),Independent evidence (future)
+ClinGen gene–disease validity,Deferred (not used),Independent evidence (future)
+Orphadata ORDO groups,Deferred (not used),Disease grouping (future)

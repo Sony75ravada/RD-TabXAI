@@ -1,0 +1,401 @@
+omim_accession,disease_name,causal_gene_symbol,omim_url
+OMIM:104200,"Alport syndrome 3, autosomal dominant",COL4A3,https://omim.org/entry/104200
+OMIM:115197,"Cardiomyopathy, familial hypertrophic, 4",MYBPC3,https://omim.org/entry/115197
+OMIM:118400,Cherubism,SH3BP2,https://omim.org/entry/118400
+OMIM:121050,"Contractural arachnodactyly, congenital",FBN2,https://omim.org/entry/121050
+OMIM:123790,Beare-Stevenson cutis gyrata syndrome,FGFR2,https://omim.org/entry/123790
+OMIM:130720,Lateral meningocele syndrome,NOTCH3,https://omim.org/entry/130720
+OMIM:131705,Transient bullous dermolysis of the newborn,COL7A1,https://omim.org/entry/131705
+OMIM:131960,Epidermolysis bullosa simplex with mottled pigmentation,KRT5,https://omim.org/entry/131960
+OMIM:144250,"Hyperlipidemia, familial combined, 3",LPL,https://omim.org/entry/144250
+OMIM:146500,"Multiple system atrophy 1, susceptibility to",COQ2,https://omim.org/entry/146500
+OMIM:146550,Marie unna hereditary hypotrichosis 1,HRURF,https://omim.org/entry/146550
+OMIM:147950,Hypogonadotropic hypogonadism 2 with or without anosmia,FGFR1,https://omim.org/entry/147950
+OMIM:149730,Lacrimoauriculodentodigital syndrome-1,FGFR2,https://omim.org/entry/149730
+OMIM:150800,Hereditary leiomyomatosis and renal cell cancer,FH,https://omim.org/entry/150800
+OMIM:151623,Li-Fraumeni syndrome,TP53,https://omim.org/entry/151623
+OMIM:153550,Chromosome 5q deletion syndrome,RPS14,https://omim.org/entry/153550
+OMIM:156250,Metachondromatosis,PTPN11,https://omim.org/entry/156250
+OMIM:158310,"Mucoepithelial dysplasia, hereditary",SREBF1,https://omim.org/entry/158310
+OMIM:159900,"Dystonia 11, myoclonic",SGCE,https://omim.org/entry/159900
+OMIM:162500,"Neuropathy, hereditary, with liability to pressure palsies",PMP22,https://omim.org/entry/162500
+OMIM:164310,Oculopharyngodistal myopathy 1,LRP12,https://omim.org/entry/164310
+OMIM:181270,Scalp-ear-nipple syndrome,KCTD1,https://omim.org/entry/181270
+OMIM:181400,"Scapuloperoneal syndrome, neurogenic, Kaeser type",DES,https://omim.org/entry/181400
+OMIM:186300,"Syndactyly, type V",HOXD13,https://omim.org/entry/186300
+OMIM:187300,"Telangiectasia, hereditary hemorrhagic, type 1",ENG,https://omim.org/entry/187300
+OMIM:187600,"Thanatophoric dysplasia, type I",FGFR3,https://omim.org/entry/187600
+OMIM:187800,"Bleeding disorder, platelet-type, 16",ITGA2B,https://omim.org/entry/187800
+OMIM:191900,Muckle-Wells syndrome,NLRP3,https://omim.org/entry/191900
+OMIM:193100,"Hypophosphatemic rickets, autosomal dominant",FGF23,https://omim.org/entry/193100
+OMIM:202010,"Adrenal hyperplasia, congenital, due to 11-beta-hydroxylase deficiency",CYP11B1,https://omim.org/entry/202010
+OMIM:203700,Mitochondrial DNA depletion syndrome 4A (Alpers type),POLG,https://omim.org/entry/203700
+OMIM:207750,Apolipoprotein C-II deficiency,APOC2,https://omim.org/entry/207750
+OMIM:208050,Arterial tortuosity syndrome,SLC2A10,https://omim.org/entry/208050
+OMIM:208250,Camptodactyly-Arthropathy-Coxa vara-pericarditis syndrome,PRG4,https://omim.org/entry/208250
+OMIM:208900,Ataxia-telangiectasia,ATM,https://omim.org/entry/208900
+OMIM:210250,Sitosterolemia 1,ABCG8,https://omim.org/entry/210250
+OMIM:211180,Bowen-Conradi syndrome,EMG1,https://omim.org/entry/211180
+OMIM:211600,"Cholestasis, progressive familial intrahepatic 1",ATP8B1,https://omim.org/entry/211600
+OMIM:214100,Peroxisome biogenesis disorder 1A (Zellweger),PEX1,https://omim.org/entry/214100
+OMIM:214450,"Griscelli syndrome, type 1",MYO5A,https://omim.org/entry/214450
+OMIM:215150,Otospondylomegaepiphyseal dysplasia,COL11A2,https://omim.org/entry/215150
+OMIM:215470,Boucher-Neuhauser syndrome,PNPLA6,https://omim.org/entry/215470
+OMIM:216550,Cohen syndrome,VPS13B,https://omim.org/entry/216550
+OMIM:217090,"Plasminogen deficiency, type I",PLG,https://omim.org/entry/217090
+OMIM:219000,Fraser syndrome,FRAS1,https://omim.org/entry/219000
+OMIM:220150,"Hypouricemia, renal, 1",SLC22A12,https://omim.org/entry/220150
+OMIM:222448,Donnai-Barrow syndrome,LRP2,https://omim.org/entry/222448
+OMIM:225250,"Hypothyroidism, congenital, nongoitrous, 5",NKX2-5,https://omim.org/entry/225250
+OMIM:225280,"Ectodermal dysplasia, ectrodactyly, and macular dystrophy syndrome",CDH3,https://omim.org/entry/225280
+OMIM:226650,"Epidermolysis bullosa, junctional, Non-Herlitz type",LAMB3,https://omim.org/entry/226650
+OMIM:226980,"Epiphyseal dysplasia, multiple, with early-onset diabetes mellitus",EIF2AK3,https://omim.org/entry/226980
+OMIM:227500,Factor VII deficiency,F7,https://omim.org/entry/227500
+OMIM:230600,"GM1-gangliosidosis, type II",GLB1,https://omim.org/entry/230600
+OMIM:236680,Hydrolethalus syndrome 1,HYLS1,https://omim.org/entry/236680
+OMIM:242300,"Ichthyosis, congenital, autosomal recessive 1",TGM1,https://omim.org/entry/242300
+OMIM:242500,"Ichthyosis, congenital, autosomal recessive 4B",ABCA12,https://omim.org/entry/242500
+OMIM:243800,Johanson-Blizzard syndrome,UBR1,https://omim.org/entry/243800
+OMIM:245010,Haim-Munk syndrome,CTSC,https://omim.org/entry/245010
+OMIM:250100,Metachromatic leukodystrophy,ARSA,https://omim.org/entry/250100
+OMIM:250400,"Metaphyseal chondrodysplasia, Spahr type",MMP13,https://omim.org/entry/250400
+OMIM:250950,"3-methylglutaconic aciduria, type I",AUH,https://omim.org/entry/250950
+OMIM:251255,Jawad syndrome,RBBP8,https://omim.org/entry/251255
+OMIM:251750,"Microspherophakia and/or megalocornea, with ectopia lentis and with or without secondary glaucoma",LTBP2,https://omim.org/entry/251750
+OMIM:252160,"Molybdenum cofactor deficiency, complementation group B",MOCS2,https://omim.org/entry/252160
+OMIM:252650,Mucolipidosis IV,MCOLN1,https://omim.org/entry/252650
+OMIM:256840,"Neuropathy, hereditary sensory, with spastic paraplegia, autosomal recessive",CCT5,https://omim.org/entry/256840
+OMIM:263300,Polycythemia vera,JAK2,https://omim.org/entry/263300
+OMIM:264070,"Hyperphenylalaninemia, BH4-deficient, D",PCBD1,https://omim.org/entry/264070
+OMIM:264600,Pseudovaginal perineoscrotal hypospadias,SRD5A2,https://omim.org/entry/264600
+OMIM:265380,Alveolar capillary dysplasia with misalignment of pulmonary veins,FOXF1,https://omim.org/entry/265380
+OMIM:265800,Pycnodysostosis,CTSK,https://omim.org/entry/265800
+OMIM:267500,Reticular dysgenesia,AK2,https://omim.org/entry/267500
+OMIM:268305,Robin sequence with cleft mandible and limb anomalies,EIF4A3,https://omim.org/entry/268305
+OMIM:271980,Succinic semialdehyde dehydrogenase deficiency,ALDH5A1,https://omim.org/entry/271980
+OMIM:273800,Glanzmann thrombasthenia,ITGA2B,https://omim.org/entry/273800
+OMIM:274270,Dihydropyrimidine dehydrogenase deficiency,DPYD,https://omim.org/entry/274270
+OMIM:276600,Tyrosine transaminase deficiency,TAT,https://omim.org/entry/276600
+OMIM:276710,"Tyrosinemia, type III",HPD,https://omim.org/entry/276710
+OMIM:276820,"Ulna and fibula, absence of, with severe limb deficiency",WNT7A,https://omim.org/entry/276820
+OMIM:277380,"Methylmalonic aciduria and homocystinuria, Cblf type",LMBRD1,https://omim.org/entry/277380
+OMIM:277460,Ataxia with isolated vitamin E deficiency,TTPA,https://omim.org/entry/277460
+OMIM:277480,"von Willebrand disease, type 3",VWF,https://omim.org/entry/277480
+OMIM:300321,Fg syndrome 2,FLNA,https://omim.org/entry/300321
+OMIM:300423,"Mental retardation, X-linked, syndromic, Hedera type",ATP6AP2,https://omim.org/entry/300423
+OMIM:300476,"Cone-Rod dystrophy, X-linked, 3",CACNA1F,https://omim.org/entry/300476
+OMIM:300814,"Nystagmus 6, congenital, X-linked",GPR143,https://omim.org/entry/300814
+OMIM:300830,"Autism, susceptibility to, X-linked 4",PTCHD1,https://omim.org/entry/300830
+OMIM:300894,Neurodegeneration with brain iron accumulation 5,WDR45,https://omim.org/entry/300894
+OMIM:300905,"Charcot-Marie-Tooth disease, X-linked dominant, 6",PDK3,https://omim.org/entry/300905
+OMIM:300915,"Microphthalmia, syndromic 13",HMGB3,https://omim.org/entry/300915
+OMIM:300960,Mend syndrome,EBP,https://omim.org/entry/300960
+OMIM:300982,"Mental retardation, X-linked 103",KLHL15,https://omim.org/entry/300982
+OMIM:301006,"Galloway-Mowat syndrome 2, X-linked",LAGE3,https://omim.org/entry/301006
+OMIM:301091,"Epilepsy, X-linked 2, with or without impaired intellectual development and dysmorphic features",GABRA3,https://omim.org/entry/301091
+OMIM:301220,"Pigmentary disorder, reticulate, with systemic manifestations, X-linked",POLA1,https://omim.org/entry/301220
+OMIM:301835,Arts syndrome,PRPS1,https://omim.org/entry/301835
+OMIM:302800,"Charcot-Marie-Tooth neuropathy, X-linked dominant, 1",GJB1,https://omim.org/entry/302800
+OMIM:302950,"Chondrodysplasia punctata 1, X-linked recessive",ARSL,https://omim.org/entry/302950
+OMIM:304120,"Otopalatodigital syndrome, type II",FLNA,https://omim.org/entry/304120
+OMIM:304700,Mohr-Tranebjaerg syndrome,TIMM8A,https://omim.org/entry/304700
+OMIM:305400,Aarskog-Scott syndrome,FGD1,https://omim.org/entry/305400
+OMIM:307200,"Isolated growth hormone deficiency, type III, with agammaglobulinemia",BTK,https://omim.org/entry/307200
+OMIM:308100,"Ichthyosis, X-linked",STS,https://omim.org/entry/308100
+OMIM:309350,Melnick-Needles syndrome,FLNA,https://omim.org/entry/309350
+OMIM:309530,"Mental retardation, X-linked 1",IQSEC2,https://omim.org/entry/309530
+OMIM:310600,Norrie disease,NDP,https://omim.org/entry/310600
+OMIM:311300,"Otopalatodigital syndrome, type I",FLNA,https://omim.org/entry/311300
+OMIM:600142,Autosomal recessive cerebral arteriopathy with subcortical infarcts and leukoencephalopathy (CARASIL),HTRA1,https://omim.org/entry/600142
+OMIM:600143,"Ceroid lipofuscinosis, neuronal, 8",CLN8,https://omim.org/entry/600143
+OMIM:600348,Band heterotopia,EML1,https://omim.org/entry/600348
+OMIM:600901,"Fanconi anemia, complementation group E",FANCE,https://omim.org/entry/600901
+OMIM:601001,"Epidermolysis bullosa simplex 1D, generalized, intermediate or severe, autosomal recessive",KRT14,https://omim.org/entry/601001
+OMIM:601152,Hereditary motor and sensory neuropathy VIA,MFN2,https://omim.org/entry/601152
+OMIM:601492,Mucopolysaccharidosis type IX,HYAL1,https://omim.org/entry/601492
+OMIM:601495,"Agammaglobulinemia 1, autosomal recessive",IGHM,https://omim.org/entry/601495
+OMIM:601536,Athabaskan brainstem dysgenesis syndrome,HOXA1,https://omim.org/entry/601536
+OMIM:601552,"Facial dysmorphism, lens dislocation, anterior segment abnormalities, and spontaneous filtering blebs",ASPH,https://omim.org/entry/601552
+OMIM:601780,"Ceroid lipofuscinosis, neuronal, 6",CLN6,https://omim.org/entry/601780
+OMIM:601812,"Premature aging syndrome, Penttinen type",PDGFRB,https://omim.org/entry/601812
+OMIM:602078,"Fibrosis of extraocular muscles, congenital, 2",PHOX2A,https://omim.org/entry/602078
+OMIM:602099,"Amyotrophic lateral sclerosis 5, juvenile",SPG11,https://omim.org/entry/602099
+OMIM:602473,"Encephalopathy, ethylmalonic",ETHE1,https://omim.org/entry/602473
+OMIM:602772,Retinitis pigmentosa 25,EYS,https://omim.org/entry/602772
+OMIM:603543,Limb-Mammary syndrome,TP63,https://omim.org/entry/603543
+OMIM:603546,"Spondyloepimetaphyseal dysplasia with joint laxity, type 2",KIF22,https://omim.org/entry/603546
+OMIM:603909,"Autoimmune lymphoproliferative syndrome, type IIA",CASP10,https://omim.org/entry/603909
+OMIM:604757,Craniosynostosis 2,MSX2,https://omim.org/entry/604757
+OMIM:605373,Paragangliomas 3,SDHC,https://omim.org/entry/605373
+OMIM:606003,Transaldolase deficiency,TALDO1,https://omim.org/entry/606003
+OMIM:606835,"Digital arthropathy-brachydactyly, familial",TRPV4,https://omim.org/entry/606835
+OMIM:607364,"Bartter syndrome, type 3",CLCNKB,https://omim.org/entry/607364
+OMIM:607417,"Intellectual developmental disorder, autosomal recessive 2",CRBN,https://omim.org/entry/607417
+OMIM:607539,"Camptosynpolydactyly, complex",BHLHA9,https://omim.org/entry/607539
+OMIM:607596,Pontocerebellar hypoplasia type 1A,VRK1,https://omim.org/entry/607596
+OMIM:607682,"Epilepsy, idiopathic generalized, susceptibility to, 9",CACNB4,https://omim.org/entry/607682
+OMIM:607932,"Microphthalmia, syndromic 6",BMP4,https://omim.org/entry/607932
+OMIM:608013,"Gaucher disease, perinatal lethal",GBA1,https://omim.org/entry/608013
+OMIM:608099,"Muscular dystrophy, limb-girdle, type 2D",SGCA,https://omim.org/entry/608099
+OMIM:608106,"Immunodeficiency with hyper IgM, type 5",UNG,https://omim.org/entry/608106
+OMIM:608233,Hermansky-Pudlak syndrome 2,AP3B1,https://omim.org/entry/608233
+OMIM:608716,"Microcephaly 5, primary, autosomal recessive",ASPM,https://omim.org/entry/608716
+OMIM:608810,"Myopathy, myofibrillar, 2, mfm2",CRYAB,https://omim.org/entry/608810
+OMIM:608978,Meacham syndrome,WT1,https://omim.org/entry/608978
+OMIM:609053,"Fanconi anemia, complementation group I",FANCI,https://omim.org/entry/609053
+OMIM:609136,"Peripheral demyelinating neuropathy, central dysmyelination, Waardenburg syndrome, and Hirschsprung disease",SOX10,https://omim.org/entry/609136
+OMIM:609180,"Congenital disorder of glycosylation, type IF",MPDU1,https://omim.org/entry/609180
+OMIM:609270,"Spinocerebellar ataxia, autosomal recessive 7",TPP1,https://omim.org/entry/609270
+OMIM:609286,"Progressive external ophthalmoplegia with mitochondrial DNA deletions, autosomal dominant 3",TWNK,https://omim.org/entry/609286
+OMIM:609446,"Paroxysmal nonkinesigenic dyskinesia, 3, with or without generalized epilepsy",KCNMA1,https://omim.org/entry/609446
+OMIM:609524,"Filaminopathy, autosomal dominant",FLNC,https://omim.org/entry/609524
+OMIM:609734,"Obesity, early-onset, with adrenal insufficiency and red hair",POMC,https://omim.org/entry/609734
+OMIM:609821,"Bleeding disorder, platelet-type, 8",P2RY12,https://omim.org/entry/609821
+OMIM:610031,"Cortical dysplasia, complex, with other brain malformations 7",TUBB2B,https://omim.org/entry/610031
+OMIM:610100,"Giant axonal neuropathy, autosomal dominant",DCAF8,https://omim.org/entry/610100
+OMIM:610168,Loeys-Dietz syndrome 2,TGFBR2,https://omim.org/entry/610168
+OMIM:610193,"Arrhythmogenic right ventricular dysplasia, familial, 10",DSG2,https://omim.org/entry/610193
+OMIM:610246,Spinocerebellar ataxia 28,AFG3L2,https://omim.org/entry/610246
+OMIM:610628,Hypogonadotropic hypogonadism 4 with or without anosmia,PROK2,https://omim.org/entry/610628
+OMIM:610725,"Nephrotic syndrome, type 3",PLCE1,https://omim.org/entry/610725
+OMIM:611087,"Polyhydramnios, megalencephaly, and symptomatic epilepsy",STRADA,https://omim.org/entry/611087
+OMIM:611134,"Meckel syndrome, type 4",CEP290,https://omim.org/entry/611134
+OMIM:611489,Corticosteroid-binding globulin deficiency,SERPINA6,https://omim.org/entry/611489
+OMIM:611615,"Cardiomyopathy, dilated, 1X",FKTN,https://omim.org/entry/611615
+OMIM:611884,"Ciliary dyskinesia, primary, 7",DNAH11,https://omim.org/entry/611884
+OMIM:612075,Mitochondrial DNA depletion syndrome 8A (encephalomyopathic type with renal tubulopathy),RRM2B,https://omim.org/entry/612075
+OMIM:612079,"Alopecia, neurologic defects, and endocrinopathy syndrome",RBM28,https://omim.org/entry/612079
+OMIM:612289,Fontaine progeroid syndrome,SLC25A24,https://omim.org/entry/612289
+OMIM:612292,Birk-Barel mental retardation dysmorphism syndrome,KCNK9,https://omim.org/entry/612292
+OMIM:612319,"Spastic paraplegia 35, autosomal recessive",FA2H,https://omim.org/entry/612319
+OMIM:612563,Diamond-Blackfan anemia 8,RPS7,https://omim.org/entry/612563
+OMIM:612651,ENDOCRINE-CEREBROOSTEODYSPLASIA,CILK1,https://omim.org/entry/612651
+OMIM:612713,Kahrizi syndrome,SRD5A3,https://omim.org/entry/612713
+OMIM:612840,"Leukocyte adhesion deficiency, type III",FERMT3,https://omim.org/entry/612840
+OMIM:612885,Premature ovarian failure 10,MCM8,https://omim.org/entry/612885
+OMIM:612924,"Hemolytic uremic syndrome, atypical, susceptibility to, 4",CFB,https://omim.org/entry/612924
+OMIM:612949,"Epileptic encephalopathy, early infantile, 39",SLC25A12,https://omim.org/entry/612949
+OMIM:613005,Santos syndrome,WNT7A,https://omim.org/entry/613005
+OMIM:613073,Metaphyseal anadysplasia 2,MMP9,https://omim.org/entry/613073
+OMIM:613095,Polycystic kidney disease 2,PKD2,https://omim.org/entry/613095
+OMIM:613151,"Muscular dystrophy-dystroglycanopathy (congenital with mental retardation), type B, 3",POMGNT1,https://omim.org/entry/613151
+OMIM:613153,"Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A, 5",FKRP,https://omim.org/entry/613153
+OMIM:613162,"Spastic paraplegia 45, autosomal recessive",NT5C2,https://omim.org/entry/613162
+OMIM:613163,GABA-transaminase deficiency,ABAT,https://omim.org/entry/613163
+OMIM:613239,"Thyrotoxic periodic paralysis, susceptibility to, 2",KCNJ18,https://omim.org/entry/613239
+OMIM:613470,"Hemolytic anemia, nonspherocytic, due to glucose phosphate isomerasedeficiency",GPI,https://omim.org/entry/613470
+OMIM:613494,"Immunodeficiency, common variable, 4",TNFRSF13C,https://omim.org/entry/613494
+OMIM:613608,"Epilepsy, familial adult myoclonic, 3",MARCHF6,https://omim.org/entry/613608
+OMIM:613612,"Congenital disorder of glycosylation, type IIi",COG5,https://omim.org/entry/613612
+OMIM:613642,"Cardiomyopathy, dilated, 1GG",SDHA,https://omim.org/entry/613642
+OMIM:613662,Mitochondrial DNA depletion syndrome 4B (mngie type),POLG,https://omim.org/entry/613662
+OMIM:613684,Rubinstein-Taybi syndrome 2,EP300,https://omim.org/entry/613684
+OMIM:613693,Long QT syndrome 6,KCNE2,https://omim.org/entry/613693
+OMIM:613779,"Complement component 3 deficiency, autosomal recessive",C3,https://omim.org/entry/613779
+OMIM:613835,Leber congenital amaurosis 8,CRB1,https://omim.org/entry/613835
+OMIM:613988,"Dyskeratosis congenita, autosomal recessive, 3",WRAP53,https://omim.org/entry/613988
+OMIM:614066,"Spastic paraplegia 47, autosomal recessive",AP4B1,https://omim.org/entry/614066
+OMIM:614075,Hermansky-Pudlak syndrome 6,HPS6,https://omim.org/entry/614075
+OMIM:614096,Combined oxidative phosphorylation deficiency 8,AARS2,https://omim.org/entry/614096
+OMIM:614098,Keppen-Lubinsky syndrome,KCNJ6,https://omim.org/entry/614098
+OMIM:614099,Cranioectodermal dysplasia 3,IFT43,https://omim.org/entry/614099
+OMIM:614129,Perrault syndrome 3,CLPP,https://omim.org/entry/614129
+OMIM:614135,"Epiphyseal dysplasia, multiple, 6",COL9A1,https://omim.org/entry/614135
+OMIM:614172,Immunodeficiency 21,GATA2,https://omim.org/entry/614172
+OMIM:614195,Craniofacial anomalies and anterior segment dysgenesis syndrome,VSX1,https://omim.org/entry/614195
+OMIM:614254,"Neurodevelopmental disorder with or without hyperkinetic movements and seizures, autosomal dominant",GRIN1,https://omim.org/entry/614254
+OMIM:614388,Encephalopathy due to defective mitochondrial and peroxisomal fission 1,DNM1L,https://omim.org/entry/614388
+OMIM:614424,Joubert syndrome 14,TMEM237,https://omim.org/entry/614424
+OMIM:614473,"Arterial calcification, generalized, of infancy, 2",ABCC6,https://omim.org/entry/614473
+OMIM:614501,"Psychomotor retardation, epilepsy, and craniofacial dysmorphism",SNIP1,https://omim.org/entry/614501
+OMIM:614582,Combined oxidative phosphorylation deficiency 9,MRPL3,https://omim.org/entry/614582
+OMIM:614608,Coffin-Siris syndrome 3,SMARCB1,https://omim.org/entry/614608
+OMIM:614707,Brown-Vialetto-Van laere syndrome 2,SLC52A2,https://omim.org/entry/614707
+OMIM:614840,Hypogonadotropic hypogonadism 11 with or without anosmia,TACR3,https://omim.org/entry/614840
+OMIM:614862,Peroxisome biogenesis disorder 4A (Zellweger),PEX6,https://omim.org/entry/614862
+OMIM:614870,Peroxisome biogenesis disorder 6A (Zellweger),PEX10,https://omim.org/entry/614870
+OMIM:614877,Peroxisome biogenesis disorder 8B,PEX16,https://omim.org/entry/614877
+OMIM:614900,Diamond-Blackfan anemia 11,RPL26,https://omim.org/entry/614900
+OMIM:614924,Combined oxidative phosphorylation deficiency 12,EARS2,https://omim.org/entry/614924
+OMIM:614932,Combined oxidative phosphorylation deficiency 13,PNPT1,https://omim.org/entry/614932
+OMIM:614941,"Ectodermal dysplasia 11B, hypohidrotic/hair/tooth type, autosomal recessive",EDARADD,https://omim.org/entry/614941
+OMIM:615023,"Ichthyosis, congenital, autosomal recessive 9",CERS3,https://omim.org/entry/615023
+OMIM:615095,"Microcephaly 10, primary, autosomal recessive",ZNF335,https://omim.org/entry/615095
+OMIM:615190,"Dyskeratosis congenita, autosomal recessive 5",RTEL1,https://omim.org/entry/615190
+OMIM:615226,"Polydactyly, postaxial, type A6",ZNF141,https://omim.org/entry/615226
+OMIM:615233,Retinitis pigmentosa 66,RBP3,https://omim.org/entry/615233
+OMIM:615238,"Lipodystrophy, familial partial, type 5",CIDEC,https://omim.org/entry/615238
+OMIM:615381,"Mandibular hypoplasia, deafness, progeroid features, and lipodystrophy syndrome",POLD1,https://omim.org/entry/615381
+OMIM:615422,Inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia 2,HNRNPA2B1,https://omim.org/entry/615422
+OMIM:615434,Retinitis pigmentosa with or without situs inversus,ARL2BP,https://omim.org/entry/615434
+OMIM:615476,Developmental and epileptic encephalopathy 18,SZT2,https://omim.org/entry/615476
+OMIM:615481,"Ciliary dyskinesia, primary, 24",RSPH1,https://omim.org/entry/615481
+OMIM:615504,"Ciliary dyskinesia, primary, 27",CCDC65,https://omim.org/entry/615504
+OMIM:615513,Immunodeficiency 14,PIK3CD,https://omim.org/entry/615513
+OMIM:615560,Otofaciocervical syndrome 2,PAX1,https://omim.org/entry/615560
+OMIM:615595,Combined oxidative phosphorylation deficiency 19,LYRM4,https://omim.org/entry/615595
+OMIM:615596,"Congenital disorder of glycosylation, type Iw",STT3A,https://omim.org/entry/615596
+OMIM:615631,"Anemia, congenital dyserythropoietic, type Ib",CDIN1,https://omim.org/entry/615631
+OMIM:615688,"Vasculitis, autoinflammation, immunodeficiency, and hematologic defects syndrome",ADA2,https://omim.org/entry/615688
+OMIM:615716,Hyperphosphatasia with impaired intellectual development syndrome 4,PGAP3,https://omim.org/entry/615716
+OMIM:615807,Seckel syndrome 8,DNA2,https://omim.org/entry/615807
+OMIM:615824,"Mitochondrial complex III deficiency, nuclear type 7",UQCC2,https://omim.org/entry/615824
+OMIM:615895,Polyglucosan body myopathy 1 with or without immunodeficiency,RBCK1,https://omim.org/entry/615895
+OMIM:615919,Ataxia-telangiectasia-like disorder 2,PCNA,https://omim.org/entry/615919
+OMIM:615926,Webb-Dattani syndrome,ARNT2,https://omim.org/entry/615926
+OMIM:615959,Centronuclear myopathy 5,SPEG,https://omim.org/entry/615959
+OMIM:615973,Cone-Rod dystrophy 20,POC1B,https://omim.org/entry/615973
+OMIM:615983,Bardet-Biedl syndrome 5,BBS5,https://omim.org/entry/615983
+OMIM:616056,Developmental and epileptic encephalopathy 26,KCNB1,https://omim.org/entry/616056
+OMIM:616113,Polyendocrine-polyneuropathy syndrome,DMXL2,https://omim.org/entry/616113
+OMIM:616140,"Leukodystrophy, hypomyelinating, 9",RARS1,https://omim.org/entry/616140
+OMIM:616145,Catel-Manzke syndrome,TGDS,https://omim.org/entry/616145
+OMIM:616152,"Macular dystrophy, vitelliform, 5",IMPG2,https://omim.org/entry/616152
+OMIM:616204,"Spinocerebellar ataxia, autosomal recessive 18",GRID2,https://omim.org/entry/616204
+OMIM:616217,Nephronophthisis 19,DCDC2,https://omim.org/entry/616217
+OMIM:616224,"Myasthenic syndrome, congenital, 22",PREPL,https://omim.org/entry/616224
+OMIM:616239,Combined oxidative phosphorylation deficiency 24,NARS2,https://omim.org/entry/616239
+OMIM:616281,Neurodevelopmental disorder with microcephaly and spastic paraplegia,GPT2,https://omim.org/entry/616281
+OMIM:616289,Optic atrophy 9,ACO2,https://omim.org/entry/616289
+OMIM:616314,"Myasthenic syndrome, congenital, 2C, associated with acetylcholine receptor deficiency",CHRNB1,https://omim.org/entry/616314
+OMIM:616331,"Robinow syndrome, autosomal dominant 2",DVL1,https://omim.org/entry/616331
+OMIM:616414,"Autoimmune interstitial lung, joint, and kidney disease",COPA,https://omim.org/entry/616414
+OMIM:616415,Familial adenomatous polyposis 3,NTHL1,https://omim.org/entry/616415
+OMIM:616457,Developmental and epileptic encephalopathy 50,CAD,https://omim.org/entry/616457
+OMIM:616486,"Neurodevelopmental disorder with progressive microcephaly, spasticity, and brain abnormalities",MFSD2A,https://omim.org/entry/616486
+OMIM:616505,"Neuropathy, hereditary motor and sensory, type VIB",SLC25A46,https://omim.org/entry/616505
+OMIM:616645,"Epileptic encephalopathy, early infantile, 34",SLC12A5,https://omim.org/entry/616645
+OMIM:616654,Joubert syndrome 24,TCTN2,https://omim.org/entry/616654
+OMIM:616657,"Spastic tetraplegia, thin corpus callosum, and progressive microcephaly",SLC1A4,https://omim.org/entry/616657
+OMIM:616721,"Congenital disorder of glycosylation, type IIN",SLC39A8,https://omim.org/entry/616721
+OMIM:616801,"Hypotonia, infantile, with psychomotor retardation and characteristic facies 2",UNC80,https://omim.org/entry/616801
+OMIM:616827,"Muscular dystrophy, limb-girdle, type 2W",LIMS2,https://omim.org/entry/616827
+OMIM:616863,Chromosome 16p13.2 deletion syndrome,USP7,https://omim.org/entry/616863
+OMIM:616897,"Osteochondrodysplasia, complex lethal, Symoens-Barnes-Gistelinck type",TAPT1,https://omim.org/entry/616897
+OMIM:616924,"Charcot-Marie-Tooth disease, axonal, type 2CC",NEFH,https://omim.org/entry/616924
+OMIM:616943,"Trichothiodystrophy 6, nonphotosensitive",GTF2E2,https://omim.org/entry/616943
+OMIM:616975,"Neurodevelopmental disorder with or without anomalies of the brain, eye, or heart",RERE,https://omim.org/entry/616975
+OMIM:617011,"Macrocephaly, dysmorphic facies, and psychomotor retardation",HERC1,https://omim.org/entry/617011
+OMIM:617072,"Muscular dystrophy, limb-girdle, type 2Y",TOR1AIP1,https://omim.org/entry/617072
+OMIM:617088,Short-rib thoracic dysplasia 15 with polydactyly,DYNC2LI1,https://omim.org/entry/617088
+OMIM:617164,"Short stature, rhizomelic, with microcephaly, micrognathia, and developmental delay",ARCN1,https://omim.org/entry/617164
+OMIM:617173,Intellectual developmental disorder with cardiac arrhythmia,GNB5,https://omim.org/entry/617173
+OMIM:617225,"Spastic paraplegia 78, autosomal recessive",ATP13A2,https://omim.org/entry/617225
+OMIM:617237,Immunodeficiency 49,BCL11B,https://omim.org/entry/617237
+OMIM:617268,"Neurodevelopmental disorder with hypotonia, seizures, and absent language",HECW2,https://omim.org/entry/617268
+OMIM:617321,Yao syndrome,NOD2,https://omim.org/entry/617321
+OMIM:617330,"Hypotonia, ataxia, and delayed development syndrome",EBF3,https://omim.org/entry/617330
+OMIM:617360,"Congenital heart defects, dysmorphic facial features, and intellectual developmental disorder",CDK13,https://omim.org/entry/617360
+OMIM:617391,"Epileptic encephalopathy, early infantile, 54",HNRNPU,https://omim.org/entry/617391
+OMIM:617406,Bardet-Biedl syndrome 21,CFAP418,https://omim.org/entry/617406
+OMIM:617425,Immunoskeletal dysplasia with neurodevelopmental abnormalitie,EXTL3,https://omim.org/entry/617425
+OMIM:617433,Retinitis pigmentosa 78,ARHGEF18,https://omim.org/entry/617433
+OMIM:617443,"Bleeding disorder, platelet-type, 21",FLI1,https://omim.org/entry/617443
+OMIM:617450,Intellectual developmental disorder with gastrointestinal difficulties and high pain threshold,PPM1D,https://omim.org/entry/617450
+OMIM:617519,"Neurodevelopmental disorder with hypotonia, neuropathy, and deafness",SPTBN4,https://omim.org/entry/617519
+OMIM:617616,Skraban-Deardorff syndrome,WDR26,https://omim.org/entry/617616
+OMIM:617672,"Neurodegeneration, childhood-onset, with brain atrophy",UBTF,https://omim.org/entry/617672
+OMIM:617710,"Neurodevelopmental disorder, mitochondrial, with abnormal movements and lactic acidosis, with or without seizures",WARS2,https://omim.org/entry/617710
+OMIM:617711,Developmental and epileptic encephalopathy 91,PPP3CA,https://omim.org/entry/617711
+OMIM:617731,Galloway-Mowat syndrome 5,TPRKB,https://omim.org/entry/617731
+OMIM:617752,"Mental retardation, autosomal dominant 49",TRIP12,https://omim.org/entry/617752
+OMIM:617761,Joubert syndrome 31,CEP120,https://omim.org/entry/617761
+OMIM:617767,Joubert syndrome 33,PIBF1,https://omim.org/entry/617767
+OMIM:617769,Spinocerebellar ataxia 45,FAT2,https://omim.org/entry/617769
+OMIM:617772,"Deafness, autosomal dominant 34, with or without inflammation",NLRP3,https://omim.org/entry/617772
+OMIM:617809,Geleophysic dysplasia 3,LTBP3,https://omim.org/entry/617809
+OMIM:617820,"Neurodevelopmental disorder with or without hyperkinetic movements and seizures, autosomal recessive",GRIN1,https://omim.org/entry/617820
+OMIM:617831,"Mental retardation, autosomal dominant 55, with seizures",NUS1,https://omim.org/entry/617831
+OMIM:617877,"Short stature, facial dysmorphism, and skeletal anomalies with or without cardiac anomalies",BMP2,https://omim.org/entry/617877
+OMIM:617879,Leber congenital amaurosis with early-onset deafness,TUBB4B,https://omim.org/entry/617879
+OMIM:617904,"Epileptic encephalopathy, early infantile, 59",GABBR2,https://omim.org/entry/617904
+OMIM:617913,"Neurodevelopmental disorder with microcephaly, cataracts, and renal abnormalities",GEMIN4,https://omim.org/entry/617913
+OMIM:617914,"Microcephaly 20, primary, autosomal recessive",KIF14,https://omim.org/entry/617914
+OMIM:617917,Neurodegeneration with brain iron accumulation 8,CRAT,https://omim.org/entry/617917
+OMIM:617935,"Epilepsy, familial focal, with variable foci 4",SCN3A,https://omim.org/entry/617935
+OMIM:618000,"Ehlers-Danlos syndrome, classic-like, 2",AEBP1,https://omim.org/entry/618000
+OMIM:618012,Developmental and epileptic encephalopathy 93,ATP6V1A,https://omim.org/entry/618012
+OMIM:618116,Bone marrow failure syndrome 4,MYSM1,https://omim.org/entry/618116
+OMIM:618117,Ovarian dysgenesis 7,MRPS22,https://omim.org/entry/618117
+OMIM:618170,"Neurodegeneration, childhood-onset, stress-induced, with variable ataxia and seizures",ADPRS,https://omim.org/entry/618170
+OMIM:618180,"Ectodermal dysplasia 14, hair/tooth type with or without hypohidrosis",TSPEAR,https://omim.org/entry/618180
+OMIM:618185,Periventricular nodular heterotopia 8,ARF1,https://omim.org/entry/618185
+OMIM:618195,Intellectual developmental disorder and retinitis pigmentosa,SCAPER,https://omim.org/entry/618195
+OMIM:618330,Global developmental delay with or without impaired intellectual development,CUX1,https://omim.org/entry/618330
+OMIM:618331,"Encephalopathy, progressive, early-onset, with episodic rhabdomyolysis",TRAPPC2L,https://omim.org/entry/618331
+OMIM:618349,Galloway-Mowat syndrome 8,NUP133,https://omim.org/entry/618349
+OMIM:618492,Neurodevelopmental disorder with microcephaly and structural brain anomalies,DYNC1I2,https://omim.org/entry/618492
+OMIM:618512,O'donnell-Luria-Rodan syndrome,KMT2E,https://omim.org/entry/618512
+OMIM:618535,"Ectodermal dysplasia 15, Hypohidrotic/hair type",CST6,https://omim.org/entry/618535
+OMIM:618541,"Hypopigmentation, organomegaly, and delayed myelination and development",CLCN7,https://omim.org/entry/618541
+OMIM:618569,"Neurodevelopmental disorder with ataxia, hypotonia, and microcephaly",SVBP,https://omim.org/entry/618569
+OMIM:618572,Neurodevelopmental disorder with cerebellar hypoplasia and spasticity,INTS8,https://omim.org/entry/618572
+OMIM:618573,"Hypothyroidism, congenital, nongoitrous, 7",TRHR,https://omim.org/entry/618573
+OMIM:618613,Retinitis pigmentosa 86,KIAA1549,https://omim.org/entry/618613
+OMIM:618651,"Neurodevelopmental disorder with spastic quadriplegia, optic atrophy, seizures, and structural brain anomalies",SEC31A,https://omim.org/entry/618651
+OMIM:618665,"Intellectual developmental disorder, autosomal recessive 72",METTL5,https://omim.org/entry/618665
+OMIM:618672,"Intellectual developmental disorder with speech delay, autism, and dysmorphic facies",CNOT3,https://omim.org/entry/618672
+OMIM:618760,Neurodevelopmental disorder with hypotonia and autistic features with or without hyperkinetic movements,VAMP2,https://omim.org/entry/618760
+OMIM:618775,"Mitochondrial complex III deficiency, nuclear type 10",UQCRFS1,https://omim.org/entry/618775
+OMIM:618779,Coffin-Siris syndrome 11,SMARCD1,https://omim.org/entry/618779
+OMIM:618878,"Leukoencephalopathy, motor delay, spasticity, and dysarthria syndrome",EIF2AK1,https://omim.org/entry/618878
+OMIM:618940,Oculopharyngodistal myopathy 2,GIPC1,https://omim.org/entry/618940
+OMIM:618973,"Neurodegeneration, infantile-onset, biotin-responsive",SLC5A6,https://omim.org/entry/618973
+OMIM:618986,Immunodeficiency 73B with defective neutrophil chemotaxis and lymphopenia,RAC2,https://omim.org/entry/618986
+OMIM:619061,"Mitochondrial complex IV deficiency, nuclear type 17",COA8,https://omim.org/entry/619061
+OMIM:619074,"Cleft palate, proliferative retinopathy, and developmental delay",LRRC32,https://omim.org/entry/619074
+OMIM:619079,Inflammatory bowel disease (Crohn disease) 30,CARD8,https://omim.org/entry/619079
+OMIM:619095,Spermatogenic failure 46,DNAH8,https://omim.org/entry/619095
+OMIM:619147,"Leukoencephalopathy, progressive, infantile-onset, with or without deafness",KARS1,https://omim.org/entry/619147
+OMIM:619180,"Microcephaly 27, primary, autosomal dominant",LMNB2,https://omim.org/entry/619180
+OMIM:619185,Joubert syndrome 37,TOGARAM1,https://omim.org/entry/619185
+OMIM:619223,Immunodeficiency 77,MPEG1,https://omim.org/entry/619223
+OMIM:619279,Parkinsonism with polyneuropathy,UQCRC1,https://omim.org/entry/619279
+OMIM:619297,KINSSHIP syndrome,AFF3,https://omim.org/entry/619297
+OMIM:619302,"Pontocerebellar hypoplasia, type 15",CDC40,https://omim.org/entry/619302
+OMIM:619311,Hiatt-Neu-Cooper neurodevelopmental syndrome,RALA,https://omim.org/entry/619311
+OMIM:619312,Radio-Tartaglia syndrome,SPEN,https://omim.org/entry/619312
+OMIM:619318,Oculogastrointestinal neurodevelopmental syndrome,CAPN15,https://omim.org/entry/619318
+OMIM:619320,"Intellectual developmental disorder, autosomal dominant 65",KDM4B,https://omim.org/entry/619320
+OMIM:619350,Visceral myopathy 2,MYH11,https://omim.org/entry/619350
+OMIM:619381,Immunodeficiency 82 with systemic inflammation,SYK,https://omim.org/entry/619381
+OMIM:619402,"Cardiomyopathy, familial hypertrophic, 28",FHOD3,https://omim.org/entry/619402
+OMIM:619426,White-Kernohan syndrome,DDB1,https://omim.org/entry/619426
+OMIM:619445,"Diarrhea 12, with microvillus atrophy",STX3,https://omim.org/entry/619445
+OMIM:619482,"Central hypoventilation syndrome, congenital, 2, and autonomic dysfunction",MYO1H,https://omim.org/entry/619482
+OMIM:619518,"Muscular dystrophy, congenital hearing loss, and ovarian insufficiency syndrome",GGPS1,https://omim.org/entry/619518
+OMIM:619557,SIMHA syndrome,ZNF407,https://omim.org/entry/619557
+OMIM:619603,Galloway-Mowat syndrome 9,GON7,https://omim.org/entry/619603
+OMIM:619632,Immunodeficiency 89 and autoimmunity,CARD10,https://omim.org/entry/619632
+OMIM:619690,Brunet-Wagner neurodevelopmental syndrome,RBL2,https://omim.org/entry/619690
+OMIM:619699,Ferguson-Bonni neurodevelopmental syndrome,ANAPC7,https://omim.org/entry/619699
+OMIM:619758,Tessadori-van Haaften neurodevelopmental syndrome 1,H4C3,https://omim.org/entry/619758
+OMIM:619759,Tessadori-van Haaften neurodevelopmental syndrome 2,H4C11,https://omim.org/entry/619759
+OMIM:619777,Developmental and epileptic encephalopathy 100,FBXO28,https://omim.org/entry/619777
+OMIM:619806,Spinocerebellar ataxia 49,SAMD9L,https://omim.org/entry/619806
+OMIM:619846,Immunodeficiency 99 with hypogammaglobulinemia and autoimmune cytopenias,CTNNBL1,https://omim.org/entry/619846
+OMIM:619847,"Neurodegeneration, childhood-onset, with progressive microcephaly",DTYMK,https://omim.org/entry/619847
+OMIM:619887,Renal hypodysplasia/aplasia 4,GFRA1,https://omim.org/entry/619887
+OMIM:619922,Neurodevelopmental disorder with dystonia and seizures,SHQ1,https://omim.org/entry/619922
+OMIM:620033,Developmental and epileptic encephalopathy 107,NAPB,https://omim.org/entry/620033
+OMIM:620044,Bone marrow failure and diabetes mellitus syndrome,DUT,https://omim.org/entry/620044
+OMIM:620237,"Intellectual developmental disorder, autosomal recessive 78",WDR11,https://omim.org/entry/620237
+OMIM:620244,Lymphatic malformation 13,THSD1,https://omim.org/entry/620244
+OMIM:620275,"Mitochondrial complex IV deficiency, nuclear type 23",COX11,https://omim.org/entry/620275
+OMIM:620313,"Leukoencephalopathy with vanishing white matter 3, with or without ovarian failure",EIF2B3,https://omim.org/entry/620313
+OMIM:620330,"Intellectual developmental disorder, autosomal dominant 71, with behavioral abnormalities",RFX7,https://omim.org/entry/620330
+OMIM:620358,"Mitochondrial complex V (ATP synthase) deficiency, nuclear type 4A",ATP5F1A,https://omim.org/entry/620358
+OMIM:620371,"Neurodevelopmental disorder with intracranial hemorrhage, seizures, and spasticity",ESAM,https://omim.org/entry/620371
+OMIM:620398,Glycine encephalopathy 2,AMT,https://omim.org/entry/620398
+OMIM:620461,"Encephalopathy, acute, infection-induced, susceptibility to, 12",RNH1,https://omim.org/entry/620461
+OMIM:620519,Arrhythmogenic cardiomyopathy with variable ectodermal abnormalities,PPP1R13L,https://omim.org/entry/620519
+OMIM:620537,Developmental and epileptic encephalopathy 112,KCNH5,https://omim.org/entry/620537
+OMIM:620565,Immunodeficiency 133 with autoimmunity and autoinflammation,ARPC5,https://omim.org/entry/620565
+OMIM:620568,Cornelia de Lange syndrome 6,BRD4,https://omim.org/entry/620568
+OMIM:620583,Optic atrophy 15,MCAT,https://omim.org/entry/620583
+OMIM:620654,Thrombocytopenia 11 with multiple congenital anomalies and dysmorphic facies,RAP1B,https://omim.org/entry/620654
+OMIM:620655,Alfadhel syndrome,RAP1GDS1,https://omim.org/entry/620655
+OMIM:620715,"Bleeding disorder, vascular-type",APOLD1,https://omim.org/entry/620715
+OMIM:620725,Bethlem myopathy 1B,COL6A2,https://omim.org/entry/620725
+OMIM:620767,Seckel syndrome 11,CEP295,https://omim.org/entry/620767
+OMIM:620880,Autoinflammation with arthritis and vasculitis,TBK1,https://omim.org/entry/620880

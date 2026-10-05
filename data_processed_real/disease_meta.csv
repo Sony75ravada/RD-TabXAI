@@ -1,0 +1,401 @@
+ORPHA_ID,Disease_Name,Disease_Group,causal_gene
+OMIM:104200,"Alport syndrome 3, autosomal dominant",UNGROUPED,COL4A3
+OMIM:115197,"Cardiomyopathy, familial hypertrophic, 4",UNGROUPED,MYBPC3
+OMIM:118400,Cherubism,UNGROUPED,SH3BP2
+OMIM:121050,"Contractural arachnodactyly, congenital",UNGROUPED,FBN2
+OMIM:123790,Beare-Stevenson cutis gyrata syndrome,UNGROUPED,FGFR2
+OMIM:130720,Lateral meningocele syndrome,UNGROUPED,NOTCH3
+OMIM:131705,Transient bullous dermolysis of the newborn,UNGROUPED,COL7A1
+OMIM:131960,Epidermolysis bullosa simplex with mottled pigmentation,UNGROUPED,KRT5
+OMIM:144250,"Hyperlipidemia, familial combined, 3",UNGROUPED,LPL
+OMIM:146500,"Multiple system atrophy 1, susceptibility to",UNGROUPED,COQ2
+OMIM:146550,Marie unna hereditary hypotrichosis 1,UNGROUPED,HRURF
+OMIM:147950,Hypogonadotropic hypogonadism 2 with or without anosmia,UNGROUPED,FGFR1
+OMIM:149730,Lacrimoauriculodentodigital syndrome-1,UNGROUPED,FGFR2
+OMIM:150800,Hereditary leiomyomatosis and renal cell cancer,UNGROUPED,FH
+OMIM:151623,Li-Fraumeni syndrome,UNGROUPED,TP53
+OMIM:153550,Chromosome 5q deletion syndrome,UNGROUPED,RPS14
+OMIM:156250,Metachondromatosis,UNGROUPED,PTPN11
+OMIM:158310,"Mucoepithelial dysplasia, hereditary",UNGROUPED,SREBF1
+OMIM:159900,"Dystonia 11, myoclonic",UNGROUPED,SGCE
+OMIM:162500,"Neuropathy, hereditary, with liability to pressure palsies",UNGROUPED,PMP22
+OMIM:164310,Oculopharyngodistal myopathy 1,UNGROUPED,LRP12
+OMIM:181270,Scalp-ear-nipple syndrome,UNGROUPED,KCTD1
+OMIM:181400,"Scapuloperoneal syndrome, neurogenic, Kaeser type",UNGROUPED,DES
+OMIM:186300,"Syndactyly, type V",UNGROUPED,HOXD13
+OMIM:187300,"Telangiectasia, hereditary hemorrhagic, type 1",UNGROUPED,ENG
+OMIM:187600,"Thanatophoric dysplasia, type I",UNGROUPED,FGFR3
+OMIM:187800,"Bleeding disorder, platelet-type, 16",UNGROUPED,ITGA2B
+OMIM:191900,Muckle-Wells syndrome,UNGROUPED,NLRP3
+OMIM:193100,"Hypophosphatemic rickets, autosomal dominant",UNGROUPED,FGF23
+OMIM:202010,"Adrenal hyperplasia, congenital, due to 11-beta-hydroxylase deficiency",UNGROUPED,CYP11B1
+OMIM:203700,Mitochondrial DNA depletion syndrome 4A (Alpers type),UNGROUPED,POLG
+OMIM:207750,Apolipoprotein C-II deficiency,UNGROUPED,APOC2
+OMIM:208050,Arterial tortuosity syndrome,UNGROUPED,SLC2A10
+OMIM:208250,Camptodactyly-Arthropathy-Coxa vara-pericarditis syndrome,UNGROUPED,PRG4
+OMIM:208900,Ataxia-telangiectasia,UNGROUPED,ATM
+OMIM:210250,Sitosterolemia 1,UNGROUPED,ABCG8
+OMIM:211180,Bowen-Conradi syndrome,UNGROUPED,EMG1
+OMIM:211600,"Cholestasis, progressive familial intrahepatic 1",UNGROUPED,ATP8B1
+OMIM:214100,Peroxisome biogenesis disorder 1A (Zellweger),UNGROUPED,PEX1
+OMIM:214450,"Griscelli syndrome, type 1",UNGROUPED,MYO5A
+OMIM:215150,Otospondylomegaepiphyseal dysplasia,UNGROUPED,COL11A2
+OMIM:215470,Boucher-Neuhauser syndrome,UNGROUPED,PNPLA6
+OMIM:216550,Cohen syndrome,UNGROUPED,VPS13B
+OMIM:217090,"Plasminogen deficiency, type I",UNGROUPED,PLG
+OMIM:219000,Fraser syndrome,UNGROUPED,FRAS1
+OMIM:220150,"Hypouricemia, renal, 1",UNGROUPED,SLC22A12
+OMIM:222448,Donnai-Barrow syndrome,UNGROUPED,LRP2
+OMIM:225250,"Hypothyroidism, congenital, nongoitrous, 5",UNGROUPED,NKX2-5
+OMIM:225280,"Ectodermal dysplasia, ectrodactyly, and macular dystrophy syndrome",UNGROUPED,CDH3
+OMIM:226650,"Epidermolysis bullosa, junctional, Non-Herlitz type",UNGROUPED,LAMB3
+OMIM:226980,"Epiphyseal dysplasia, multiple, with early-onset diabetes mellitus",UNGROUPED,EIF2AK3
+OMIM:227500,Factor VII deficiency,UNGROUPED,F7
+OMIM:230600,"GM1-gangliosidosis, type II",UNGROUPED,GLB1
+OMIM:236680,Hydrolethalus syndrome 1,UNGROUPED,HYLS1
+OMIM:242300,"Ichthyosis, congenital, autosomal recessive 1",UNGROUPED,TGM1
+OMIM:242500,"Ichthyosis, congenital, autosomal recessive 4B",UNGROUPED,ABCA12
+OMIM:243800,Johanson-Blizzard syndrome,UNGROUPED,UBR1
+OMIM:245010,Haim-Munk syndrome,UNGROUPED,CTSC
+OMIM:250100,Metachromatic leukodystrophy,UNGROUPED,ARSA
+OMIM:250400,"Metaphyseal chondrodysplasia, Spahr type",UNGROUPED,MMP13
+OMIM:250950,"3-methylglutaconic aciduria, type I",UNGROUPED,AUH
+OMIM:251255,Jawad syndrome,UNGROUPED,RBBP8
+OMIM:251750,"Microspherophakia and/or megalocornea, with ectopia lentis and with or without secondary glaucoma",UNGROUPED,LTBP2
+OMIM:252160,"Molybdenum cofactor deficiency, complementation group B",UNGROUPED,MOCS2
+OMIM:252650,Mucolipidosis IV,UNGROUPED,MCOLN1
+OMIM:256840,"Neuropathy, hereditary sensory, with spastic paraplegia, autosomal recessive",UNGROUPED,CCT5
+OMIM:263300,Polycythemia vera,UNGROUPED,JAK2
+OMIM:264070,"Hyperphenylalaninemia, BH4-deficient, D",UNGROUPED,PCBD1
+OMIM:264600,Pseudovaginal perineoscrotal hypospadias,UNGROUPED,SRD5A2
+OMIM:265380,Alveolar capillary dysplasia with misalignment of pulmonary veins,UNGROUPED,FOXF1
+OMIM:265800,Pycnodysostosis,UNGROUPED,CTSK
+OMIM:267500,Reticular dysgenesia,UNGROUPED,AK2
+OMIM:268305,Robin sequence with cleft mandible and limb anomalies,UNGROUPED,EIF4A3
+OMIM:271980,Succinic semialdehyde dehydrogenase deficiency,UNGROUPED,ALDH5A1
+OMIM:273800,Glanzmann thrombasthenia,UNGROUPED,ITGA2B
+OMIM:274270,Dihydropyrimidine dehydrogenase deficiency,UNGROUPED,DPYD
+OMIM:276600,Tyrosine transaminase deficiency,UNGROUPED,TAT
+OMIM:276710,"Tyrosinemia, type III",UNGROUPED,HPD
+OMIM:276820,"Ulna and fibula, absence of, with severe limb deficiency",UNGROUPED,WNT7A
+OMIM:277380,"Methylmalonic aciduria and homocystinuria, Cblf type",UNGROUPED,LMBRD1
+OMIM:277460,Ataxia with isolated vitamin E deficiency,UNGROUPED,TTPA
+OMIM:277480,"von Willebrand disease, type 3",UNGROUPED,VWF
+OMIM:300321,Fg syndrome 2,UNGROUPED,FLNA
+OMIM:300423,"Mental retardation, X-linked, syndromic, Hedera type",UNGROUPED,ATP6AP2
+OMIM:300476,"Cone-Rod dystrophy, X-linked, 3",UNGROUPED,CACNA1F
+OMIM:300814,"Nystagmus 6, congenital, X-linked",UNGROUPED,GPR143
+OMIM:300830,"Autism, susceptibility to, X-linked 4",UNGROUPED,PTCHD1
+OMIM:300894,Neurodegeneration with brain iron accumulation 5,UNGROUPED,WDR45
+OMIM:300905,"Charcot-Marie-Tooth disease, X-linked dominant, 6",UNGROUPED,PDK3
+OMIM:300915,"Microphthalmia, syndromic 13",UNGROUPED,HMGB3
+OMIM:300960,Mend syndrome,UNGROUPED,EBP
+OMIM:300982,"Mental retardation, X-linked 103",UNGROUPED,KLHL15
+OMIM:301006,"Galloway-Mowat syndrome 2, X-linked",UNGROUPED,LAGE3
+OMIM:301091,"Epilepsy, X-linked 2, with or without impaired intellectual development and dysmorphic features",UNGROUPED,GABRA3
+OMIM:301220,"Pigmentary disorder, reticulate, with systemic manifestations, X-linked",UNGROUPED,POLA1
+OMIM:301835,Arts syndrome,UNGROUPED,PRPS1
+OMIM:302800,"Charcot-Marie-Tooth neuropathy, X-linked dominant, 1",UNGROUPED,GJB1
+OMIM:302950,"Chondrodysplasia punctata 1, X-linked recessive",UNGROUPED,ARSL
+OMIM:304120,"Otopalatodigital syndrome, type II",UNGROUPED,FLNA
+OMIM:304700,Mohr-Tranebjaerg syndrome,UNGROUPED,TIMM8A
+OMIM:305400,Aarskog-Scott syndrome,UNGROUPED,FGD1
+OMIM:307200,"Isolated growth hormone deficiency, type III, with agammaglobulinemia",UNGROUPED,BTK
+OMIM:308100,"Ichthyosis, X-linked",UNGROUPED,STS
+OMIM:309350,Melnick-Needles syndrome,UNGROUPED,FLNA
+OMIM:309530,"Mental retardation, X-linked 1",UNGROUPED,IQSEC2
+OMIM:310600,Norrie disease,UNGROUPED,NDP
+OMIM:311300,"Otopalatodigital syndrome, type I",UNGROUPED,FLNA
+OMIM:600142,Autosomal recessive cerebral arteriopathy with subcortical infarcts and leukoencephalopathy (CARASIL),UNGROUPED,HTRA1
+OMIM:600143,"Ceroid lipofuscinosis, neuronal, 8",UNGROUPED,CLN8
+OMIM:600348,Band heterotopia,UNGROUPED,EML1
+OMIM:600901,"Fanconi anemia, complementation group E",UNGROUPED,FANCE
+OMIM:601001,"Epidermolysis bullosa simplex 1D, generalized, intermediate or severe, autosomal recessive",UNGROUPED,KRT14
+OMIM:601152,Hereditary motor and sensory neuropathy VIA,UNGROUPED,MFN2
+OMIM:601492,Mucopolysaccharidosis type IX,UNGROUPED,HYAL1
+OMIM:601495,"Agammaglobulinemia 1, autosomal recessive",UNGROUPED,IGHM
+OMIM:601536,Athabaskan brainstem dysgenesis syndrome,UNGROUPED,HOXA1
+OMIM:601552,"Facial dysmorphism, lens dislocation, anterior segment abnormalities, and spontaneous filtering blebs",UNGROUPED,ASPH
+OMIM:601780,"Ceroid lipofuscinosis, neuronal, 6",UNGROUPED,CLN6
+OMIM:601812,"Premature aging syndrome, Penttinen type",UNGROUPED,PDGFRB
+OMIM:602078,"Fibrosis of extraocular muscles, congenital, 2",UNGROUPED,PHOX2A
+OMIM:602099,"Amyotrophic lateral sclerosis 5, juvenile",UNGROUPED,SPG11
+OMIM:602473,"Encephalopathy, ethylmalonic",UNGROUPED,ETHE1
+OMIM:602772,Retinitis pigmentosa 25,UNGROUPED,EYS
+OMIM:603543,Limb-Mammary syndrome,UNGROUPED,TP63
+OMIM:603546,"Spondyloepimetaphyseal dysplasia with joint laxity, type 2",UNGROUPED,KIF22
+OMIM:603909,"Autoimmune lymphoproliferative syndrome, type IIA",UNGROUPED,CASP10
+OMIM:604757,Craniosynostosis 2,UNGROUPED,MSX2
+OMIM:605373,Paragangliomas 3,UNGROUPED,SDHC
+OMIM:606003,Transaldolase deficiency,UNGROUPED,TALDO1
+OMIM:606835,"Digital arthropathy-brachydactyly, familial",UNGROUPED,TRPV4
+OMIM:607364,"Bartter syndrome, type 3",UNGROUPED,CLCNKB
+OMIM:607417,"Intellectual developmental disorder, autosomal recessive 2",UNGROUPED,CRBN
+OMIM:607539,"Camptosynpolydactyly, complex",UNGROUPED,BHLHA9
+OMIM:607596,Pontocerebellar hypoplasia type 1A,UNGROUPED,VRK1
+OMIM:607682,"Epilepsy, idiopathic generalized, susceptibility to, 9",UNGROUPED,CACNB4
+OMIM:607932,"Microphthalmia, syndromic 6",UNGROUPED,BMP4
+OMIM:608013,"Gaucher disease, perinatal lethal",UNGROUPED,GBA1
+OMIM:608099,"Muscular dystrophy, limb-girdle, type 2D",UNGROUPED,SGCA
+OMIM:608106,"Immunodeficiency with hyper IgM, type 5",UNGROUPED,UNG
+OMIM:608233,Hermansky-Pudlak syndrome 2,UNGROUPED,AP3B1
+OMIM:608716,"Microcephaly 5, primary, autosomal recessive",UNGROUPED,ASPM
+OMIM:608810,"Myopathy, myofibrillar, 2, mfm2",UNGROUPED,CRYAB
+OMIM:608978,Meacham syndrome,UNGROUPED,WT1
+OMIM:609053,"Fanconi anemia, complementation group I",UNGROUPED,FANCI
+OMIM:609136,"Peripheral demyelinating neuropathy, central dysmyelination, Waardenburg syndrome, and Hirschsprung disease",UNGROUPED,SOX10
+OMIM:609180,"Congenital disorder of glycosylation, type IF",UNGROUPED,MPDU1
+OMIM:609270,"Spinocerebellar ataxia, autosomal recessive 7",UNGROUPED,TPP1
+OMIM:609286,"Progressive external ophthalmoplegia with mitochondrial DNA deletions, autosomal dominant 3",UNGROUPED,TWNK
+OMIM:609446,"Paroxysmal nonkinesigenic dyskinesia, 3, with or without generalized epilepsy",UNGROUPED,KCNMA1
+OMIM:609524,"Filaminopathy, autosomal dominant",UNGROUPED,FLNC
+OMIM:609734,"Obesity, early-onset, with adrenal insufficiency and red hair",UNGROUPED,POMC
+OMIM:609821,"Bleeding disorder, platelet-type, 8",UNGROUPED,P2RY12
+OMIM:610031,"Cortical dysplasia, complex, with other brain malformations 7",UNGROUPED,TUBB2B
+OMIM:610100,"Giant axonal neuropathy, autosomal dominant",UNGROUPED,DCAF8
+OMIM:610168,Loeys-Dietz syndrome 2,UNGROUPED,TGFBR2
+OMIM:610193,"Arrhythmogenic right ventricular dysplasia, familial, 10",UNGROUPED,DSG2
+OMIM:610246,Spinocerebellar ataxia 28,UNGROUPED,AFG3L2
+OMIM:610628,Hypogonadotropic hypogonadism 4 with or without anosmia,UNGROUPED,PROK2
+OMIM:610725,"Nephrotic syndrome, type 3",UNGROUPED,PLCE1
+OMIM:611087,"Polyhydramnios, megalencephaly, and symptomatic epilepsy",UNGROUPED,STRADA
+OMIM:611134,"Meckel syndrome, type 4",UNGROUPED,CEP290
+OMIM:611489,Corticosteroid-binding globulin deficiency,UNGROUPED,SERPINA6
+OMIM:611615,"Cardiomyopathy, dilated, 1X",UNGROUPED,FKTN
+OMIM:611884,"Ciliary dyskinesia, primary, 7",UNGROUPED,DNAH11
+OMIM:612075,Mitochondrial DNA depletion syndrome 8A (encephalomyopathic type with renal tubulopathy),UNGROUPED,RRM2B
+OMIM:612079,"Alopecia, neurologic defects, and endocrinopathy syndrome",UNGROUPED,RBM28
+OMIM:612289,Fontaine progeroid syndrome,UNGROUPED,SLC25A24
+OMIM:612292,Birk-Barel mental retardation dysmorphism syndrome,UNGROUPED,KCNK9
+OMIM:612319,"Spastic paraplegia 35, autosomal recessive",UNGROUPED,FA2H
+OMIM:612563,Diamond-Blackfan anemia 8,UNGROUPED,RPS7
+OMIM:612651,ENDOCRINE-CEREBROOSTEODYSPLASIA,UNGROUPED,CILK1
+OMIM:612713,Kahrizi syndrome,UNGROUPED,SRD5A3
+OMIM:612840,"Leukocyte adhesion deficiency, type III",UNGROUPED,FERMT3
+OMIM:612885,Premature ovarian failure 10,UNGROUPED,MCM8
+OMIM:612924,"Hemolytic uremic syndrome, atypical, susceptibility to, 4",UNGROUPED,CFB
+OMIM:612949,"Epileptic encephalopathy, early infantile, 39",UNGROUPED,SLC25A12
+OMIM:613005,Santos syndrome,UNGROUPED,WNT7A
+OMIM:613073,Metaphyseal anadysplasia 2,UNGROUPED,MMP9
+OMIM:613095,Polycystic kidney disease 2,UNGROUPED,PKD2
+OMIM:613151,"Muscular dystrophy-dystroglycanopathy (congenital with mental retardation), type B, 3",UNGROUPED,POMGNT1
+OMIM:613153,"Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A, 5",UNGROUPED,FKRP
+OMIM:613162,"Spastic paraplegia 45, autosomal recessive",UNGROUPED,NT5C2
+OMIM:613163,GABA-transaminase deficiency,UNGROUPED,ABAT
+OMIM:613239,"Thyrotoxic periodic paralysis, susceptibility to, 2",UNGROUPED,KCNJ18
+OMIM:613470,"Hemolytic anemia, nonspherocytic, due to glucose phosphate isomerasedeficiency",UNGROUPED,GPI
+OMIM:613494,"Immunodeficiency, common variable, 4",UNGROUPED,TNFRSF13C
+OMIM:613608,"Epilepsy, familial adult myoclonic, 3",UNGROUPED,MARCHF6
+OMIM:613612,"Congenital disorder of glycosylation, type IIi",UNGROUPED,COG5
+OMIM:613642,"Cardiomyopathy, dilated, 1GG",UNGROUPED,SDHA
+OMIM:613662,Mitochondrial DNA depletion syndrome 4B (mngie type),UNGROUPED,POLG
+OMIM:613684,Rubinstein-Taybi syndrome 2,UNGROUPED,EP300
+OMIM:613693,Long QT syndrome 6,UNGROUPED,KCNE2
+OMIM:613779,"Complement component 3 deficiency, autosomal recessive",UNGROUPED,C3
+OMIM:613835,Leber congenital amaurosis 8,UNGROUPED,CRB1
+OMIM:613988,"Dyskeratosis congenita, autosomal recessive, 3",UNGROUPED,WRAP53
+OMIM:614066,"Spastic paraplegia 47, autosomal recessive",UNGROUPED,AP4B1
+OMIM:614075,Hermansky-Pudlak syndrome 6,UNGROUPED,HPS6
+OMIM:614096,Combined oxidative phosphorylation deficiency 8,UNGROUPED,AARS2
+OMIM:614098,Keppen-Lubinsky syndrome,UNGROUPED,KCNJ6
+OMIM:614099,Cranioectodermal dysplasia 3,UNGROUPED,IFT43
+OMIM:614129,Perrault syndrome 3,UNGROUPED,CLPP
+OMIM:614135,"Epiphyseal dysplasia, multiple, 6",UNGROUPED,COL9A1
+OMIM:614172,Immunodeficiency 21,UNGROUPED,GATA2
+OMIM:614195,Craniofacial anomalies and anterior segment dysgenesis syndrome,UNGROUPED,VSX1
+OMIM:614254,"Neurodevelopmental disorder with or without hyperkinetic movements and seizures, autosomal dominant",UNGROUPED,GRIN1
+OMIM:614388,Encephalopathy due to defective mitochondrial and peroxisomal fission 1,UNGROUPED,DNM1L
+OMIM:614424,Joubert syndrome 14,UNGROUPED,TMEM237
+OMIM:614473,"Arterial calcification, generalized, of infancy, 2",UNGROUPED,ABCC6
+OMIM:614501,"Psychomotor retardation, epilepsy, and craniofacial dysmorphism",UNGROUPED,SNIP1
+OMIM:614582,Combined oxidative phosphorylation deficiency 9,UNGROUPED,MRPL3
+OMIM:614608,Coffin-Siris syndrome 3,UNGROUPED,SMARCB1
+OMIM:614707,Brown-Vialetto-Van laere syndrome 2,UNGROUPED,SLC52A2
+OMIM:614840,Hypogonadotropic hypogonadism 11 with or without anosmia,UNGROUPED,TACR3
+OMIM:614862,Peroxisome biogenesis disorder 4A (Zellweger),UNGROUPED,PEX6
+OMIM:614870,Peroxisome biogenesis disorder 6A (Zellweger),UNGROUPED,PEX10
+OMIM:614877,Peroxisome biogenesis disorder 8B,UNGROUPED,PEX16
+OMIM:614900,Diamond-Blackfan anemia 11,UNGROUPED,RPL26
+OMIM:614924,Combined oxidative phosphorylation deficiency 12,UNGROUPED,EARS2
+OMIM:614932,Combined oxidative phosphorylation deficiency 13,UNGROUPED,PNPT1
+OMIM:614941,"Ectodermal dysplasia 11B, hypohidrotic/hair/tooth type, autosomal recessive",UNGROUPED,EDARADD
+OMIM:615023,"Ichthyosis, congenital, autosomal recessive 9",UNGROUPED,CERS3
+OMIM:615095,"Microcephaly 10, primary, autosomal recessive",UNGROUPED,ZNF335
+OMIM:615190,"Dyskeratosis congenita, autosomal recessive 5",UNGROUPED,RTEL1
+OMIM:615226,"Polydactyly, postaxial, type A6",UNGROUPED,ZNF141
+OMIM:615233,Retinitis pigmentosa 66,UNGROUPED,RBP3
+OMIM:615238,"Lipodystrophy, familial partial, type 5",UNGROUPED,CIDEC
+OMIM:615381,"Mandibular hypoplasia, deafness, progeroid features, and lipodystrophy syndrome",UNGROUPED,POLD1
+OMIM:615422,Inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia 2,UNGROUPED,HNRNPA2B1
+OMIM:615434,Retinitis pigmentosa with or without situs inversus,UNGROUPED,ARL2BP
+OMIM:615476,Developmental and epileptic encephalopathy 18,UNGROUPED,SZT2
+OMIM:615481,"Ciliary dyskinesia, primary, 24",UNGROUPED,RSPH1
+OMIM:615504,"Ciliary dyskinesia, primary, 27",UNGROUPED,CCDC65
+OMIM:615513,Immunodeficiency 14,UNGROUPED,PIK3CD
+OMIM:615560,Otofaciocervical syndrome 2,UNGROUPED,PAX1
+OMIM:615595,Combined oxidative phosphorylation deficiency 19,UNGROUPED,LYRM4
+OMIM:615596,"Congenital disorder of glycosylation, type Iw",UNGROUPED,STT3A
+OMIM:615631,"Anemia, congenital dyserythropoietic, type Ib",UNGROUPED,CDIN1
+OMIM:615688,"Vasculitis, autoinflammation, immunodeficiency, and hematologic defects syndrome",UNGROUPED,ADA2
+OMIM:615716,Hyperphosphatasia with impaired intellectual development syndrome 4,UNGROUPED,PGAP3
+OMIM:615807,Seckel syndrome 8,UNGROUPED,DNA2
+OMIM:615824,"Mitochondrial complex III deficiency, nuclear type 7",UNGROUPED,UQCC2
+OMIM:615895,Polyglucosan body myopathy 1 with or without immunodeficiency,UNGROUPED,RBCK1
+OMIM:615919,Ataxia-telangiectasia-like disorder 2,UNGROUPED,PCNA
+OMIM:615926,Webb-Dattani syndrome,UNGROUPED,ARNT2
+OMIM:615959,Centronuclear myopathy 5,UNGROUPED,SPEG
+OMIM:615973,Cone-Rod dystrophy 20,UNGROUPED,POC1B
+OMIM:615983,Bardet-Biedl syndrome 5,UNGROUPED,BBS5
+OMIM:616056,Developmental and epileptic encephalopathy 26,UNGROUPED,KCNB1
+OMIM:616113,Polyendocrine-polyneuropathy syndrome,UNGROUPED,DMXL2
+OMIM:616140,"Leukodystrophy, hypomyelinating, 9",UNGROUPED,RARS1
+OMIM:616145,Catel-Manzke syndrome,UNGROUPED,TGDS
+OMIM:616152,"Macular dystrophy, vitelliform, 5",UNGROUPED,IMPG2
+OMIM:616204,"Spinocerebellar ataxia, autosomal recessive 18",UNGROUPED,GRID2
+OMIM:616217,Nephronophthisis 19,UNGROUPED,DCDC2
+OMIM:616224,"Myasthenic syndrome, congenital, 22",UNGROUPED,PREPL
+OMIM:616239,Combined oxidative phosphorylation deficiency 24,UNGROUPED,NARS2
+OMIM:616281,Neurodevelopmental disorder with microcephaly and spastic paraplegia,UNGROUPED,GPT2
+OMIM:616289,Optic atrophy 9,UNGROUPED,ACO2
+OMIM:616314,"Myasthenic syndrome, congenital, 2C, associated with acetylcholine receptor deficiency",UNGROUPED,CHRNB1
+OMIM:616331,"Robinow syndrome, autosomal dominant 2",UNGROUPED,DVL1
+OMIM:616414,"Autoimmune interstitial lung, joint, and kidney disease",UNGROUPED,COPA
+OMIM:616415,Familial adenomatous polyposis 3,UNGROUPED,NTHL1
+OMIM:616457,Developmental and epileptic encephalopathy 50,UNGROUPED,CAD
+OMIM:616486,"Neurodevelopmental disorder with progressive microcephaly, spasticity, and brain abnormalities",UNGROUPED,MFSD2A
+OMIM:616505,"Neuropathy, hereditary motor and sensory, type VIB",UNGROUPED,SLC25A46
+OMIM:616645,"Epileptic encephalopathy, early infantile, 34",UNGROUPED,SLC12A5
+OMIM:616654,Joubert syndrome 24,UNGROUPED,TCTN2
+OMIM:616657,"Spastic tetraplegia, thin corpus callosum, and progressive microcephaly",UNGROUPED,SLC1A4
+OMIM:616721,"Congenital disorder of glycosylation, type IIN",UNGROUPED,SLC39A8
+OMIM:616801,"Hypotonia, infantile, with psychomotor retardation and characteristic facies 2",UNGROUPED,UNC80
+OMIM:616827,"Muscular dystrophy, limb-girdle, type 2W",UNGROUPED,LIMS2
+OMIM:616863,Chromosome 16p13.2 deletion syndrome,UNGROUPED,USP7
+OMIM:616897,"Osteochondrodysplasia, complex lethal, Symoens-Barnes-Gistelinck type",UNGROUPED,TAPT1
+OMIM:616924,"Charcot-Marie-Tooth disease, axonal, type 2CC",UNGROUPED,NEFH
+OMIM:616943,"Trichothiodystrophy 6, nonphotosensitive",UNGROUPED,GTF2E2
+OMIM:616975,"Neurodevelopmental disorder with or without anomalies of the brain, eye, or heart",UNGROUPED,RERE
+OMIM:617011,"Macrocephaly, dysmorphic facies, and psychomotor retardation",UNGROUPED,HERC1
+OMIM:617072,"Muscular dystrophy, limb-girdle, type 2Y",UNGROUPED,TOR1AIP1
+OMIM:617088,Short-rib thoracic dysplasia 15 with polydactyly,UNGROUPED,DYNC2LI1
+OMIM:617164,"Short stature, rhizomelic, with microcephaly, micrognathia, and developmental delay",UNGROUPED,ARCN1
+OMIM:617173,Intellectual developmental disorder with cardiac arrhythmia,UNGROUPED,GNB5
+OMIM:617225,"Spastic paraplegia 78, autosomal recessive",UNGROUPED,ATP13A2
+OMIM:617237,Immunodeficiency 49,UNGROUPED,BCL11B
+OMIM:617268,"Neurodevelopmental disorder with hypotonia, seizures, and absent language",UNGROUPED,HECW2
+OMIM:617321,Yao syndrome,UNGROUPED,NOD2
+OMIM:617330,"Hypotonia, ataxia, and delayed development syndrome",UNGROUPED,EBF3
+OMIM:617360,"Congenital heart defects, dysmorphic facial features, and intellectual developmental disorder",UNGROUPED,CDK13
+OMIM:617391,"Epileptic encephalopathy, early infantile, 54",UNGROUPED,HNRNPU
+OMIM:617406,Bardet-Biedl syndrome 21,UNGROUPED,CFAP418
+OMIM:617425,Immunoskeletal dysplasia with neurodevelopmental abnormalitie,UNGROUPED,EXTL3
+OMIM:617433,Retinitis pigmentosa 78,UNGROUPED,ARHGEF18
+OMIM:617443,"Bleeding disorder, platelet-type, 21",UNGROUPED,FLI1
+OMIM:617450,Intellectual developmental disorder with gastrointestinal difficulties and high pain threshold,UNGROUPED,PPM1D
+OMIM:617519,"Neurodevelopmental disorder with hypotonia, neuropathy, and deafness",UNGROUPED,SPTBN4
+OMIM:617616,Skraban-Deardorff syndrome,UNGROUPED,WDR26
+OMIM:617672,"Neurodegeneration, childhood-onset, with brain atrophy",UNGROUPED,UBTF
+OMIM:617710,"Neurodevelopmental disorder, mitochondrial, with abnormal movements and lactic acidosis, with or without seizures",UNGROUPED,WARS2
+OMIM:617711,Developmental and epileptic encephalopathy 91,UNGROUPED,PPP3CA
+OMIM:617731,Galloway-Mowat syndrome 5,UNGROUPED,TPRKB
+OMIM:617752,"Mental retardation, autosomal dominant 49",UNGROUPED,TRIP12
+OMIM:617761,Joubert syndrome 31,UNGROUPED,CEP120
+OMIM:617767,Joubert syndrome 33,UNGROUPED,PIBF1
+OMIM:617769,Spinocerebellar ataxia 45,UNGROUPED,FAT2
+OMIM:617772,"Deafness, autosomal dominant 34, with or without inflammation",UNGROUPED,NLRP3
+OMIM:617809,Geleophysic dysplasia 3,UNGROUPED,LTBP3
+OMIM:617820,"Neurodevelopmental disorder with or without hyperkinetic movements and seizures, autosomal recessive",UNGROUPED,GRIN1
+OMIM:617831,"Mental retardation, autosomal dominant 55, with seizures",UNGROUPED,NUS1
+OMIM:617877,"Short stature, facial dysmorphism, and skeletal anomalies with or without cardiac anomalies",UNGROUPED,BMP2
+OMIM:617879,Leber congenital amaurosis with early-onset deafness,UNGROUPED,TUBB4B
+OMIM:617904,"Epileptic encephalopathy, early infantile, 59",UNGROUPED,GABBR2
+OMIM:617913,"Neurodevelopmental disorder with microcephaly, cataracts, and renal abnormalities",UNGROUPED,GEMIN4
+OMIM:617914,"Microcephaly 20, primary, autosomal recessive",UNGROUPED,KIF14
+OMIM:617917,Neurodegeneration with brain iron accumulation 8,UNGROUPED,CRAT
+OMIM:617935,"Epilepsy, familial focal, with variable foci 4",UNGROUPED,SCN3A
+OMIM:618000,"Ehlers-Danlos syndrome, classic-like, 2",UNGROUPED,AEBP1
+OMIM:618012,Developmental and epileptic encephalopathy 93,UNGROUPED,ATP6V1A
+OMIM:618116,Bone marrow failure syndrome 4,UNGROUPED,MYSM1
+OMIM:618117,Ovarian dysgenesis 7,UNGROUPED,MRPS22
+OMIM:618170,"Neurodegeneration, childhood-onset, stress-induced, with variable ataxia and seizures",UNGROUPED,ADPRS
+OMIM:618180,"Ectodermal dysplasia 14, hair/tooth type with or without hypohidrosis",UNGROUPED,TSPEAR
+OMIM:618185,Periventricular nodular heterotopia 8,UNGROUPED,ARF1
+OMIM:618195,Intellectual developmental disorder and retinitis pigmentosa,UNGROUPED,SCAPER
+OMIM:618330,Global developmental delay with or without impaired intellectual development,UNGROUPED,CUX1
+OMIM:618331,"Encephalopathy, progressive, early-onset, with episodic rhabdomyolysis",UNGROUPED,TRAPPC2L
+OMIM:618349,Galloway-Mowat syndrome 8,UNGROUPED,NUP133
+OMIM:618492,Neurodevelopmental disorder with microcephaly and structural brain anomalies,UNGROUPED,DYNC1I2
+OMIM:618512,O'donnell-Luria-Rodan syndrome,UNGROUPED,KMT2E
+OMIM:618535,"Ectodermal dysplasia 15, Hypohidrotic/hair type",UNGROUPED,CST6
+OMIM:618541,"Hypopigmentation, organomegaly, and delayed myelination and development",UNGROUPED,CLCN7
+OMIM:618569,"Neurodevelopmental disorder with ataxia, hypotonia, and microcephaly",UNGROUPED,SVBP
+OMIM:618572,Neurodevelopmental disorder with cerebellar hypoplasia and spasticity,UNGROUPED,INTS8
+OMIM:618573,"Hypothyroidism, congenital, nongoitrous, 7",UNGROUPED,TRHR
+OMIM:618613,Retinitis pigmentosa 86,UNGROUPED,KIAA1549
+OMIM:618651,"Neurodevelopmental disorder with spastic quadriplegia, optic atrophy, seizures, and structural brain anomalies",UNGROUPED,SEC31A
+OMIM:618665,"Intellectual developmental disorder, autosomal recessive 72",UNGROUPED,METTL5
+OMIM:618672,"Intellectual developmental disorder with speech delay, autism, and dysmorphic facies",UNGROUPED,CNOT3
+OMIM:618760,Neurodevelopmental disorder with hypotonia and autistic features with or without hyperkinetic movements,UNGROUPED,VAMP2
+OMIM:618775,"Mitochondrial complex III deficiency, nuclear type 10",UNGROUPED,UQCRFS1
+OMIM:618779,Coffin-Siris syndrome 11,UNGROUPED,SMARCD1
+OMIM:618878,"Leukoencephalopathy, motor delay, spasticity, and dysarthria syndrome",UNGROUPED,EIF2AK1
+OMIM:618940,Oculopharyngodistal myopathy 2,UNGROUPED,GIPC1
+OMIM:618973,"Neurodegeneration, infantile-onset, biotin-responsive",UNGROUPED,SLC5A6
+OMIM:618986,Immunodeficiency 73B with defective neutrophil chemotaxis and lymphopenia,UNGROUPED,RAC2
+OMIM:619061,"Mitochondrial complex IV deficiency, nuclear type 17",UNGROUPED,COA8
+OMIM:619074,"Cleft palate, proliferative retinopathy, and developmental delay",UNGROUPED,LRRC32
+OMIM:619079,Inflammatory bowel disease (Crohn disease) 30,UNGROUPED,CARD8
+OMIM:619095,Spermatogenic failure 46,UNGROUPED,DNAH8
+OMIM:619147,"Leukoencephalopathy, progressive, infantile-onset, with or without deafness",UNGROUPED,KARS1
+OMIM:619180,"Microcephaly 27, primary, autosomal dominant",UNGROUPED,LMNB2
+OMIM:619185,Joubert syndrome 37,UNGROUPED,TOGARAM1
+OMIM:619223,Immunodeficiency 77,UNGROUPED,MPEG1
+OMIM:619279,Parkinsonism with polyneuropathy,UNGROUPED,UQCRC1
+OMIM:619297,KINSSHIP syndrome,UNGROUPED,AFF3
+OMIM:619302,"Pontocerebellar hypoplasia, type 15",UNGROUPED,CDC40
+OMIM:619311,Hiatt-Neu-Cooper neurodevelopmental syndrome,UNGROUPED,RALA
+OMIM:619312,Radio-Tartaglia syndrome,UNGROUPED,SPEN
+OMIM:619318,Oculogastrointestinal neurodevelopmental syndrome,UNGROUPED,CAPN15
+OMIM:619320,"Intellectual developmental disorder, autosomal dominant 65",UNGROUPED,KDM4B
+OMIM:619350,Visceral myopathy 2,UNGROUPED,MYH11
+OMIM:619381,Immunodeficiency 82 with systemic inflammation,UNGROUPED,SYK
+OMIM:619402,"Cardiomyopathy, familial hypertrophic, 28",UNGROUPED,FHOD3
+OMIM:619426,White-Kernohan syndrome,UNGROUPED,DDB1
+OMIM:619445,"Diarrhea 12, with microvillus atrophy",UNGROUPED,STX3
+OMIM:619482,"Central hypoventilation syndrome, congenital, 2, and autonomic dysfunction",UNGROUPED,MYO1H
+OMIM:619518,"Muscular dystrophy, congenital hearing loss, and ovarian insufficiency syndrome",UNGROUPED,GGPS1
+OMIM:619557,SIMHA syndrome,UNGROUPED,ZNF407
+OMIM:619603,Galloway-Mowat syndrome 9,UNGROUPED,GON7
+OMIM:619632,Immunodeficiency 89 and autoimmunity,UNGROUPED,CARD10
+OMIM:619690,Brunet-Wagner neurodevelopmental syndrome,UNGROUPED,RBL2
+OMIM:619699,Ferguson-Bonni neurodevelopmental syndrome,UNGROUPED,ANAPC7
+OMIM:619758,Tessadori-van Haaften neurodevelopmental syndrome 1,UNGROUPED,H4C3
+OMIM:619759,Tessadori-van Haaften neurodevelopmental syndrome 2,UNGROUPED,H4C11
+OMIM:619777,Developmental and epileptic encephalopathy 100,UNGROUPED,FBXO28
+OMIM:619806,Spinocerebellar ataxia 49,UNGROUPED,SAMD9L
+OMIM:619846,Immunodeficiency 99 with hypogammaglobulinemia and autoimmune cytopenias,UNGROUPED,CTNNBL1
+OMIM:619847,"Neurodegeneration, childhood-onset, with progressive microcephaly",UNGROUPED,DTYMK
+OMIM:619887,Renal hypodysplasia/aplasia 4,UNGROUPED,GFRA1
+OMIM:619922,Neurodevelopmental disorder with dystonia and seizures,UNGROUPED,SHQ1
+OMIM:620033,Developmental and epileptic encephalopathy 107,UNGROUPED,NAPB
+OMIM:620044,Bone marrow failure and diabetes mellitus syndrome,UNGROUPED,DUT
+OMIM:620237,"Intellectual developmental disorder, autosomal recessive 78",UNGROUPED,WDR11
+OMIM:620244,Lymphatic malformation 13,UNGROUPED,THSD1
+OMIM:620275,"Mitochondrial complex IV deficiency, nuclear type 23",UNGROUPED,COX11
+OMIM:620313,"Leukoencephalopathy with vanishing white matter 3, with or without ovarian failure",UNGROUPED,EIF2B3
+OMIM:620330,"Intellectual developmental disorder, autosomal dominant 71, with behavioral abnormalities",UNGROUPED,RFX7
+OMIM:620358,"Mitochondrial complex V (ATP synthase) deficiency, nuclear type 4A",UNGROUPED,ATP5F1A
+OMIM:620371,"Neurodevelopmental disorder with intracranial hemorrhage, seizures, and spasticity",UNGROUPED,ESAM
+OMIM:620398,Glycine encephalopathy 2,UNGROUPED,AMT
+OMIM:620461,"Encephalopathy, acute, infection-induced, susceptibility to, 12",UNGROUPED,RNH1
+OMIM:620519,Arrhythmogenic cardiomyopathy with variable ectodermal abnormalities,UNGROUPED,PPP1R13L
+OMIM:620537,Developmental and epileptic encephalopathy 112,UNGROUPED,KCNH5
+OMIM:620565,Immunodeficiency 133 with autoimmunity and autoinflammation,UNGROUPED,ARPC5
+OMIM:620568,Cornelia de Lange syndrome 6,UNGROUPED,BRD4
+OMIM:620583,Optic atrophy 15,UNGROUPED,MCAT
+OMIM:620654,Thrombocytopenia 11 with multiple congenital anomalies and dysmorphic facies,UNGROUPED,RAP1B
+OMIM:620655,Alfadhel syndrome,UNGROUPED,RAP1GDS1
+OMIM:620715,"Bleeding disorder, vascular-type",UNGROUPED,APOLD1
+OMIM:620725,Bethlem myopathy 1B,UNGROUPED,COL6A2
+OMIM:620767,Seckel syndrome 11,UNGROUPED,CEP295
+OMIM:620880,Autoinflammation with arthritis and vasculitis,UNGROUPED,TBK1

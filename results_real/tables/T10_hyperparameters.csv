@@ -1,0 +1,16 @@
+Component,Setting
+Ranker,LightGBM LGBMRanker
+Objective,lambdarank
+n_estimators,500
+num_leaves,31
+learning_rate,0.05
+min_child_samples,20
+subsample,0.9
+colsample_bytree,0.9
+IC,"Resnik IC, train-only"
+Split,Group-disjoint (disease / gene holdout)
+Test size,0.2
+Candidate pool,12
+Profiles/disease,4
+Bootstrap,1000
+Seed,20251229
